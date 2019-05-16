@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Am Architect. Working in product domain for past 16 years. Passionate about innovating new user focused Technologies. Interested in breaking the boundaries of Tech. Involved in various community Activities, User Group Meetings and Tech Meetings.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Father of two over smart kids..
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[devaraj@wp.pl](mailto:nsdevaraj@gmail.com)
