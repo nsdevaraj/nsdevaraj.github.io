@@ -1,6 +1,6 @@
 ---
 layout: post
-title: You're up and running!
+title: Magnet url http://jsfiddle.net/nsdevaraj/f4e5d0ku/ !
 ---
 
 Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
