@@ -1,0 +1,2233 @@
+﻿Country,Order Priority,Value Column Name,Value
+All,C,Total Revenue,335761811.6
+All,C,Total Cost,240456355.9
+All,C,Total Profit,95305455.71
+All,H,Total Revenue,306473892.2
+All,H,Total Cost,214406204.1
+All,H,Total Profit,92067688.15
+All,L,Total Revenue,361795759
+All,L,Total Cost,252568104.4
+All,L,Total Profit,109227654.7
+All,M,Total Revenue,323290377.5
+All,M,Total Cost,228688564.5
+All,M,Total Profit,94601813.04
+Cuba,C,Total Revenue,8053328.81
+Cuba,C,Total Cost,5983024.88
+Cuba,C,Total Profit,2070303.93
+Cuba,H,Total Revenue,11555497.61
+Cuba,H,Total Cost,8664696.06
+Cuba,H,Total Profit,2890801.55
+Cuba,L,Total Revenue,5357871.72
+Cuba,L,Total Cost,3313616.77
+Cuba,L,Total Profit,2044254.95
+Cuba,M,Total Revenue,2555387.73
+Cuba,M,Total Cost,2208927.33
+Cuba,M,Total Profit,346460.4
+Papua New Guinea,C,Total Revenue,
+Papua New Guinea,C,Total Cost,
+Papua New Guinea,C,Total Profit,
+Papua New Guinea,H,Total Revenue,3858290
+Papua New Guinea,H,Total Cost,2323887.25
+Papua New Guinea,H,Total Profit,1534402.75
+Papua New Guinea,L,Total Revenue,6051184.85
+Papua New Guinea,L,Total Cost,4550499.7
+Papua New Guinea,L,Total Profit,1500685.15
+Papua New Guinea,M,Total Revenue,12300177.62
+Papua New Guinea,M,Total Cost,9249751.24
+Papua New Guinea,M,Total Profit,3050426.38
+Ghana,C,Total Revenue,2764223.28
+Ghana,C,Total Cost,2389448.88
+Ghana,C,Total Profit,374774.4
+Ghana,H,Total Revenue,
+Ghana,H,Total Cost,
+Ghana,H,Total Profit,
+Ghana,L,Total Revenue,13273800.46
+Ghana,L,Total Cost,10260040.78
+Ghana,L,Total Profit,3013759.68
+Ghana,M,Total Revenue,5229884.76
+Ghana,M,Total Cost,3881851.7
+Ghana,M,Total Profit,1348033.06
+Costa Rica,C,Total Revenue,5565891.87
+Costa Rica,C,Total Cost,4486833.12
+Costa Rica,C,Total Profit,1079058.75
+Costa Rica,H,Total Revenue,6542795.09
+Costa Rica,H,Total Cost,5161580.32
+Costa Rica,H,Total Profit,1381214.77
+Costa Rica,L,Total Revenue,7519592.67
+Costa Rica,L,Total Cost,5500363.19
+Costa Rica,L,Total Profit,2019229.48
+Costa Rica,M,Total Revenue,
+Costa Rica,M,Total Cost,
+Costa Rica,M,Total Profit,
+Iran,C,Total Revenue,1280858.04
+Iran,C,Total Cost,1107198.84
+Iran,C,Total Profit,173659.2
+Iran,H,Total Revenue,6169999.97
+Iran,H,Total Cost,4824355.37
+Iran,H,Total Profit,1345644.6
+Iran,L,Total Revenue,7037396.56
+Iran,L,Total Cost,5589317.86
+Iran,L,Total Profit,1448078.7
+Iran,M,Total Revenue,4231278.42
+Iran,M,Total Cost,2545661.6
+Iran,M,Total Profit,1685616.82
+Chad,C,Total Revenue,4483274.43
+Chad,C,Total Cost,3608289.64
+Chad,C,Total Profit,874984.79
+Chad,H,Total Revenue,9356362.76
+Chad,H,Total Cost,7749914.87
+Chad,H,Total Profit,1606447.89
+Chad,L,Total Revenue,
+Chad,L,Total Cost,
+Chad,L,Total Profit,
+Chad,M,Total Revenue,3438403.5
+Chad,M,Total Cost,2972223.5
+Chad,M,Total Profit,466180
+Central African Republic,C,Total Revenue,2714996.03
+Central African Republic,C,Total Cost,1906574.88
+Central African Republic,C,Total Profit,808421.15
+Central African Republic,H,Total Revenue,9895721.24
+Central African Republic,H,Total Cost,6897813.85
+Central African Republic,H,Total Profit,2997907.39
+Central African Republic,L,Total Revenue,3980319.58
+Central African Republic,L,Total Cost,2448128.64
+Central African Republic,L,Total Profit,1532190.94
+Central African Republic,M,Total Revenue,
+Central African Republic,M,Total Cost,
+Central African Republic,M,Total Profit,
+Malaysia,C,Total Revenue,3508068.27
+Malaysia,C,Total Cost,2827959.52
+Malaysia,C,Total Profit,680108.75
+Malaysia,H,Total Revenue,8679375.37
+Malaysia,H,Total Cost,6253972.16
+Malaysia,H,Total Profit,2425403.21
+Malaysia,L,Total Revenue,686096
+Malaysia,L,Total Cost,430290.52
+Malaysia,L,Total Profit,255805.48
+Malaysia,M,Total Revenue,3543449.54
+Malaysia,M,Total Cost,2189428.14
+Malaysia,M,Total Profit,1354021.4
+Austria,C,Total Revenue,8819342.14
+Austria,C,Total Cost,6759957.3
+Austria,C,Total Profit,2059384.84
+Austria,H,Total Revenue,
+Austria,H,Total Cost,
+Austria,H,Total Profit,
+Austria,L,Total Revenue,7380036.27
+Austria,L,Total Cost,5878979.65
+Austria,L,Total Profit,1501056.62
+Austria,M,Total Revenue,
+Austria,M,Total Cost,
+Austria,M,Total Profit,
+Vanuatu,C,Total Revenue,1061958.8
+Vanuatu,C,Total Cost,639628.57
+Vanuatu,C,Total Profit,422330.23
+Vanuatu,H,Total Revenue,9692139.9
+Vanuatu,H,Total Cost,7566061.08
+Vanuatu,H,Total Profit,2126078.82
+Vanuatu,L,Total Revenue,5226196.34
+Vanuatu,L,Total Cost,3221739.57
+Vanuatu,L,Total Profit,2004456.77
+Vanuatu,M,Total Revenue,31506.8
+Vanuatu,M,Total Cost,21108.56
+Vanuatu,M,Total Profit,10398.24
+Portugal,C,Total Revenue,8694522.12
+Portugal,C,Total Cost,6478039.37
+Portugal,C,Total Profit,2216482.75
+Portugal,H,Total Revenue,849024.66
+Portugal,H,Total Cost,501115.23
+Portugal,H,Total Profit,347909.43
+Portugal,L,Total Revenue,6340831.77
+Portugal,L,Total Cost,5111535.52
+Portugal,L,Total Profit,1229296.25
+Portugal,M,Total Revenue,
+Portugal,M,Total Cost,
+Portugal,M,Total Profit,
+Angola,C,Total Revenue,1877822.78
+Angola,C,Total Cost,1138773.44
+Angola,C,Total Profit,739049.34
+Angola,H,Total Revenue,9678247.39
+Angola,H,Total Cost,6794097.9
+Angola,H,Total Profit,2884149.49
+Angola,L,Total Revenue,4086961.85
+Angola,L,Total Cost,3169016.26
+Angola,L,Total Profit,917945.59
+Angola,M,Total Revenue,
+Angola,M,Total Cost,
+Angola,M,Total Profit,
+Czech Republic,C,Total Revenue,396050.4
+Czech Republic,C,Total Cost,248045.34
+Czech Republic,C,Total Profit,148005.06
+Czech Republic,H,Total Revenue,3153742.11
+Czech Republic,H,Total Cost,1867694.95
+Czech Republic,H,Total Profit,1286047.16
+Czech Republic,L,Total Revenue,10712879.72
+Czech Republic,L,Total Cost,8181979.73
+Czech Republic,L,Total Profit,2530899.99
+Czech Republic,M,Total Revenue,1340567.88
+Czech Republic,M,Total Cost,856107.84
+Czech Republic,M,Total Profit,484460.04
+Germany,C,Total Revenue,231622.82
+Germany,C,Total Cost,160602.78
+Germany,C,Total Profit,71020.04
+Germany,H,Total Revenue,5022923.64
+Germany,H,Total Cost,3748283.73
+Germany,H,Total Profit,1274639.91
+Germany,L,Total Revenue,7181836.23
+Germany,L,Total Cost,5359237.54
+Germany,L,Total Profit,1822598.69
+Germany,M,Total Revenue,1714509.5
+Germany,M,Total Cost,976111.85
+Germany,M,Total Profit,738397.65
+Ireland,C,Total Revenue,3435433.76
+Ireland,C,Total Cost,2922816
+Ireland,C,Total Profit,512617.76
+Ireland,H,Total Revenue,
+Ireland,H,Total Cost,
+Ireland,H,Total Profit,
+Ireland,L,Total Revenue,470656.55
+Ireland,L,Total Cost,315325.01
+Ireland,L,Total Profit,155331.54
+Ireland,M,Total Revenue,10164484.98
+Ireland,M,Total Cost,7869307.84
+Ireland,M,Total Profit,2295177.14
+Poland,C,Total Revenue,2633904.01
+Poland,C,Total Cost,2226614.37
+Poland,C,Total Profit,407289.64
+Poland,H,Total Revenue,1789002.24
+Poland,H,Total Cost,1117215.36
+Poland,H,Total Profit,671786.88
+Poland,L,Total Revenue,1281177.79
+Poland,L,Total Cost,828292.15
+Poland,L,Total Profit,452885.64
+Poland,M,Total Revenue,7903204.47
+Poland,M,Total Cost,6106440.06
+Poland,M,Total Profit,1796764.41
+Belarus,C,Total Revenue,478557.46
+Belarus,C,Total Cost,277899.23
+Belarus,C,Total Profit,200658.23
+Belarus,H,Total Revenue,2011788.12
+Belarus,H,Total Cost,1270283.88
+Belarus,H,Total Profit,741504.24
+Belarus,L,Total Revenue,6042985.12
+Belarus,L,Total Cost,4548663.24
+Belarus,L,Total Profit,1494321.88
+Belarus,M,Total Revenue,4949482.42
+Belarus,M,Total Cost,3584687.48
+Belarus,M,Total Profit,1364794.94
+Lebanon,C,Total Revenue,
+Lebanon,C,Total Cost,
+Lebanon,C,Total Profit,
+Lebanon,H,Total Revenue,813589.6
+Lebanon,H,Total Cost,266828.8
+Lebanon,H,Total Profit,546760.8
+Lebanon,L,Total Revenue,12220941.39
+Lebanon,L,Total Cost,9518194.02
+Lebanon,L,Total Profit,2702747.37
+Lebanon,M,Total Revenue,321758.45
+Lebanon,M,Total Cost,215567.99
+Lebanon,M,Total Profit,106190.46
+Panama,C,Total Revenue,3942140.16
+Panama,C,Total Cost,3407663.36
+Panama,C,Total Profit,534476.8
+Panama,H,Total Revenue,3677522.94
+Panama,H,Total Cost,2236133.19
+Panama,H,Total Profit,1441389.75
+Panama,L,Total Revenue,
+Panama,L,Total Cost,
+Panama,L,Total Profit,
+Panama,M,Total Revenue,5507204.7
+Panama,M,Total Cost,3379352.6
+Panama,M,Total Profit,2127852.1
+Bhutan,C,Total Revenue,879640.65
+Bhutan,C,Total Cost,760378.65
+Bhutan,C,Total Profit,119262
+Bhutan,H,Total Revenue,4718677.35
+Bhutan,H,Total Cost,3793541.93
+Bhutan,H,Total Profit,925135.42
+Bhutan,L,Total Revenue,
+Bhutan,L,Total Cost,
+Bhutan,L,Total Profit,
+Bhutan,M,Total Revenue,7388060.17
+Bhutan,M,Total Cost,5644015.44
+Bhutan,M,Total Profit,1744044.73
+South Sudan,C,Total Revenue,6952619.3
+South Sudan,C,Total Cost,5392054.78
+South Sudan,C,Total Profit,1560564.52
+South Sudan,H,Total Revenue,5893232.58
+South Sudan,H,Total Cost,3951091.08
+South Sudan,H,Total Profit,1942141.5
+South Sudan,L,Total Revenue,17366.7
+South Sudan,L,Total Cost,11635.14
+South Sudan,L,Total Profit,5731.56
+South Sudan,M,Total Revenue,26870.4
+South Sudan,M,Total Cost,19929.6
+South Sudan,M,Total Profit,6940.8
+Swaziland,C,Total Revenue,
+Swaziland,C,Total Cost,
+Swaziland,C,Total Profit,
+Swaziland,H,Total Revenue,10087847.49
+Swaziland,H,Total Cost,8021620.53
+Swaziland,H,Total Profit,2066226.96
+Swaziland,L,Total Revenue,1551389.4
+Swaziland,L,Total Cost,883243.62
+Swaziland,L,Total Profit,668145.78
+Swaziland,M,Total Revenue,1206482.52
+Swaziland,M,Total Cost,766345.76
+Swaziland,M,Total Profit,440136.76
+Niger,C,Total Revenue,2778909.31
+Niger,C,Total Cost,2355152.13
+Niger,C,Total Profit,423757.18
+Niger,H,Total Revenue,1838016
+Niger,H,Total Cost,1147824
+Niger,H,Total Profit,690192
+Niger,L,Total Revenue,3899170.78
+Niger,L,Total Cost,2345314.85
+Niger,L,Total Profit,1553855.93
+Niger,M,Total Revenue,4222046.53
+Niger,M,Total Cost,2851528.84
+Niger,M,Total Profit,1370517.69
+Luxembourg,C,Total Revenue,6767669.33
+Luxembourg,C,Total Cost,5129143.92
+Luxembourg,C,Total Profit,1638525.41
+Luxembourg,H,Total Revenue,3388934.64
+Luxembourg,H,Total Cost,2097574.57
+Luxembourg,H,Total Profit,1291360.07
+Luxembourg,L,Total Revenue,2074602.94
+Luxembourg,L,Total Cost,1279896.87
+Luxembourg,L,Total Profit,794706.07
+Luxembourg,M,Total Revenue,
+Luxembourg,M,Total Cost,
+Luxembourg,M,Total Profit,
+Georgia,C,Total Revenue,195610.01
+Georgia,C,Total Cost,126365.37
+Georgia,C,Total Profit,69244.64
+Georgia,H,Total Revenue,6675479.17
+Georgia,H,Total Cost,4890140.75
+Georgia,H,Total Profit,1785338.42
+Georgia,L,Total Revenue,5326897.8
+Georgia,L,Total Cost,4294172.8
+Georgia,L,Total Profit,1032725
+Georgia,M,Total Revenue,
+Georgia,M,Total Cost,
+Georgia,M,Total Profit,
+Jordan,C,Total Revenue,1017814.03
+Jordan,C,Total Cost,611090.59
+Jordan,C,Total Profit,406723.44
+Jordan,H,Total Revenue,
+Jordan,H,Total Cost,
+Jordan,H,Total Profit,
+Jordan,L,Total Revenue,2488550.69
+Jordan,L,Total Cost,2017243.39
+Jordan,L,Total Profit,471307.3
+Jordan,M,Total Revenue,8449997.52
+Jordan,M,Total Cost,6045229.42
+Jordan,M,Total Profit,2404768.1
+United States of America,C,Total Revenue,9033916.94
+United States of America,C,Total Cost,6546120.11
+United States of America,C,Total Profit,2487796.83
+United States of America,H,Total Revenue,
+United States of America,H,Total Cost,
+United States of America,H,Total Profit,
+United States of America,L,Total Revenue,86121.75
+United States of America,L,Total Cost,57698.85
+United States of America,L,Total Profit,28422.9
+United States of America,M,Total Revenue,2807256.06
+United States of America,M,Total Cost,2426647.26
+United States of America,M,Total Profit,380608.8
+South Africa,C,Total Revenue,
+South Africa,C,Total Cost,
+South Africa,C,Total Profit,
+South Africa,H,Total Revenue,5979679.96
+South Africa,H,Total Cost,4496727.92
+South Africa,H,Total Profit,1482952.04
+South Africa,L,Total Revenue,5940922.4
+South Africa,L,Total Cost,4474158.5
+South Africa,L,Total Profit,1466763.9
+South Africa,M,Total Revenue,
+South Africa,M,Total Cost,
+South Africa,M,Total Profit,
+Japan,C,Total Revenue,4032724.6
+Japan,C,Total Cost,2406410.55
+Japan,C,Total Profit,1626314.05
+Japan,H,Total Revenue,1742748.35
+Japan,H,Total Cost,1063168.27
+Japan,H,Total Profit,679580.08
+Japan,L,Total Revenue,2661025.92
+Japan,L,Total Cost,1658983.55
+Japan,L,Total Profit,1002042.37
+Japan,M,Total Revenue,3447220.78
+Japan,M,Total Cost,2864252.84
+Japan,M,Total Profit,582967.94
+Tonga,C,Total Revenue,1476193.11
+Tonga,C,Total Cost,1276050.31
+Tonga,C,Total Profit,200142.8
+Tonga,H,Total Revenue,
+Tonga,H,Total Cost,
+Tonga,H,Total Profit,
+Tonga,L,Total Revenue,510931.07
+Tonga,L,Total Cost,347075.01
+Tonga,L,Total Profit,163856.06
+Tonga,M,Total Revenue,9834577.82
+Tonga,M,Total Cost,7852491.67
+Tonga,M,Total Profit,1982086.15
+Yemen,C,Total Revenue,2862006.37
+Yemen,C,Total Cost,2044330.64
+Yemen,C,Total Profit,817675.73
+Yemen,H,Total Revenue,2513654
+Yemen,H,Total Cost,1431084.2
+Yemen,H,Total Profit,1082569.8
+Yemen,L,Total Revenue,2596968
+Yemen,L,Total Cost,1564180.2
+Yemen,L,Total Profit,1032787.8
+Yemen,M,Total Revenue,3840836.58
+Yemen,M,Total Cost,3096214.08
+Yemen,M,Total Profit,744622.5
+New Zealand,C,Total Revenue,
+New Zealand,C,Total Cost,
+New Zealand,C,Total Profit,
+New Zealand,H,Total Revenue,5190146.02
+New Zealand,H,Total Cost,4376329.84
+New Zealand,H,Total Profit,813816.18
+New Zealand,L,Total Revenue,6533529.54
+New Zealand,L,Total Cost,4743484.61
+New Zealand,L,Total Profit,1790044.93
+New Zealand,M,Total Revenue,
+New Zealand,M,Total Cost,
+New Zealand,M,Total Profit,
+Vietnam,C,Total Revenue,3457852.21
+Vietnam,C,Total Cost,2574460.12
+Vietnam,C,Total Profit,883392.09
+Vietnam,H,Total Revenue,3188975.37
+Vietnam,H,Total Cost,2570729.12
+Vietnam,H,Total Profit,618246.25
+Vietnam,L,Total Revenue,3986845.83
+Vietnam,L,Total Cost,2446167.39
+Vietnam,L,Total Profit,1540678.44
+Vietnam,M,Total Revenue,1034358.84
+Vietnam,M,Total Cost,610504.02
+Vietnam,M,Total Profit,423854.82
+Uzbekistan,C,Total Revenue,1103519.44
+Uzbekistan,C,Total Cost,582946.84
+Uzbekistan,C,Total Profit,520572.6
+Uzbekistan,H,Total Revenue,4319731.23
+Uzbekistan,H,Total Cost,3595081.11
+Uzbekistan,H,Total Profit,724650.12
+Uzbekistan,L,Total Revenue,6209287.35
+Uzbekistan,L,Total Cost,5005493.6
+Uzbekistan,L,Total Profit,1203793.75
+Uzbekistan,M,Total Revenue,
+Uzbekistan,M,Total Cost,
+Uzbekistan,M,Total Profit,
+Moldova,C,Total Revenue,326913.56
+Moldova,C,Total Cost,228045.39
+Moldova,C,Total Profit,98868.17
+Moldova,H,Total Revenue,655638.06
+Moldova,H,Total Cost,454606.74
+Moldova,H,Total Profit,201031.32
+Moldova,L,Total Revenue,4382559.36
+Moldova,L,Total Cost,2686546.51
+Moldova,L,Total Profit,1696012.85
+Moldova,M,Total Revenue,5606810.54
+Moldova,M,Total Cost,4319895.34
+Moldova,M,Total Profit,1286915.2
+Romania,C,Total Revenue,5017850.91
+Romania,C,Total Cost,3249844.11
+Romania,C,Total Profit,1768006.8
+Romania,H,Total Revenue,4128894.3
+Romania,H,Total Cost,2591910.87
+Romania,H,Total Profit,1536983.43
+Romania,L,Total Revenue,1730971.18
+Romania,L,Total Cost,917455.84
+Romania,L,Total Profit,813515.34
+Romania,M,Total Revenue,
+Romania,M,Total Cost,
+Romania,M,Total Profit,
+Malawi,C,Total Revenue,
+Malawi,C,Total Cost,
+Malawi,C,Total Profit,
+Malawi,H,Total Revenue,6519345
+Malawi,H,Total Cost,4551315.28
+Malawi,H,Total Profit,1968029.72
+Malawi,L,Total Revenue,1498218.2
+Malawi,L,Total Cost,917454.39
+Malawi,L,Total Profit,580763.81
+Malawi,M,Total Revenue,2704666.88
+Malawi,M,Total Cost,1610331.48
+Malawi,M,Total Profit,1094335.4
+Sweden,C,Total Revenue,639210.33
+Sweden,C,Total Cost,443216.07
+Sweden,C,Total Profit,195994.26
+Sweden,H,Total Revenue,
+Sweden,H,Total Cost,
+Sweden,H,Total Profit,
+Sweden,L,Total Revenue,6624521.24
+Sweden,L,Total Cost,4025809.3
+Sweden,L,Total Profit,2598711.94
+Sweden,M,Total Revenue,3061143.3
+Sweden,M,Total Cost,1890143.82
+Sweden,M,Total Profit,1170999.48
+Qatar,C,Total Revenue,2169292.38
+Qatar,C,Total Cost,1061715.69
+Qatar,C,Total Profit,1107576.69
+Qatar,H,Total Revenue,2815157.31
+Qatar,H,Total Cost,2395366.71
+Qatar,H,Total Profit,419790.6
+Qatar,L,Total Revenue,1651130.65
+Qatar,L,Total Cost,748330.95
+Qatar,L,Total Profit,902799.7
+Qatar,M,Total Revenue,3668108
+Qatar,M,Total Cost,2209338.7
+Qatar,M,Total Profit,1458769.3
+Algeria,C,Total Revenue,4793258.32
+Algeria,C,Total Cost,3629955.64
+Algeria,C,Total Profit,1163302.68
+Algeria,H,Total Revenue,791228.13
+Algeria,H,Total Cost,548622.27
+Algeria,H,Total Profit,242605.86
+Algeria,L,Total Revenue,810514
+Algeria,L,Total Cost,506158.5
+Algeria,L,Total Profit,304355.5
+Algeria,M,Total Revenue,3877590.99
+Algeria,M,Total Cost,3351865.79
+Algeria,M,Total Profit,525725.2
+China,C,Total Revenue,5521316.83
+China,C,Total Cost,4419816.57
+China,C,Total Profit,1101500.26
+China,H,Total Revenue,785706
+China,H,Total Cost,463743
+China,H,Total Profit,321963
+China,L,Total Revenue,411952.33
+China,L,Total Cost,277158.96
+China,L,Total Profit,134793.37
+China,M,Total Revenue,3553561.6
+China,M,Total Cost,2140346.24
+China,M,Total Profit,1413215.36
+Turkey,C,Total Revenue,5225835.97
+Turkey,C,Total Cost,2934756.5
+Turkey,C,Total Profit,2291079.47
+Turkey,H,Total Revenue,4775604.69
+Turkey,H,Total Cost,3941355.95
+Turkey,H,Total Profit,834248.74
+Turkey,L,Total Revenue,43454.67
+Turkey,L,Total Cost,37563.07
+Turkey,L,Total Profit,5891.6
+Turkey,M,Total Revenue,180832.88
+Turkey,M,Total Cost,109951.08
+Turkey,M,Total Profit,70881.8
+Mongolia,C,Total Revenue,7017396.52
+Mongolia,C,Total Cost,5202621.32
+Mongolia,C,Total Profit,1814775.2
+Mongolia,H,Total Revenue,287734.24
+Mongolia,H,Total Cost,94366.72
+Mongolia,H,Total Profit,193367.52
+Mongolia,L,Total Revenue,56279.2
+Mongolia,L,Total Cost,18457.6
+Mongolia,L,Total Profit,37821.6
+Mongolia,M,Total Revenue,2782384.95
+Mongolia,M,Total Cost,2221980.38
+Mongolia,M,Total Profit,560404.57
+Dominican Republic,C,Total Revenue,3598953.14
+Dominican Republic,C,Total Cost,2214860.97
+Dominican Republic,C,Total Profit,1384092.17
+Dominican Republic,H,Total Revenue,5316227.78
+Dominican Republic,H,Total Cost,3947878.79
+Dominican Republic,H,Total Profit,1368348.99
+Dominican Republic,L,Total Revenue,1152959.22
+Dominican Republic,L,Total Cost,663824.91
+Dominican Republic,L,Total Profit,489134.31
+Dominican Republic,M,Total Revenue,
+Dominican Republic,M,Total Cost,
+Dominican Republic,M,Total Profit,
+Belgium,C,Total Revenue,913412.13
+Belgium,C,Total Cost,730041.44
+Belgium,C,Total Profit,183370.69
+Belgium,H,Total Revenue,4340521.6
+Belgium,H,Total Cost,2614340.24
+Belgium,H,Total Profit,1726181.36
+Belgium,L,Total Revenue,4499259.75
+Belgium,L,Total Cost,3602372.68
+Belgium,L,Total Profit,896887.07
+Belgium,M,Total Revenue,206360.05
+Belgium,M,Total Cost,138254.71
+Belgium,M,Total Profit,68105.34
+Greenland,C,Total Revenue,154954.96
+Greenland,C,Total Cost,96767.94
+Greenland,C,Total Profit,58187.02
+Greenland,H,Total Revenue,2186868.08
+Greenland,H,Total Cost,1147856.86
+Greenland,H,Total Profit,1039011.22
+Greenland,L,Total Revenue,7430920.48
+Greenland,L,Total Cost,5198273
+Greenland,L,Total Profit,2232647.48
+Greenland,M,Total Revenue,180590.97
+Greenland,M,Total Cost,124141.48
+Greenland,M,Total Profit,56449.49
+Morocco,C,Total Revenue,9879418.68
+Morocco,C,Total Cost,7169673.67
+Morocco,C,Total Profit,2709745.01
+Morocco,H,Total Revenue,58418.8
+Morocco,H,Total Cost,33259.24
+Morocco,H,Total Profit,25159.56
+Morocco,L,Total Revenue,
+Morocco,L,Total Cost,
+Morocco,L,Total Profit,
+Morocco,M,Total Revenue,
+Morocco,M,Total Cost,
+Morocco,M,Total Profit,
+Guinea,C,Total Revenue,2171922.24
+Guinea,C,Total Cost,1356345.36
+Guinea,C,Total Profit,815576.88
+Guinea,H,Total Revenue,607943.49
+Guinea,H,Total Cost,525518.29
+Guinea,H,Total Profit,82425.2
+Guinea,L,Total Revenue,
+Guinea,L,Total Cost,
+Guinea,L,Total Profit,
+Guinea,M,Total Revenue,7116440.52
+Guinea,M,Total Cost,6151590.92
+Guinea,M,Total Profit,964849.6
+Belize,C,Total Revenue,3728665.46
+Belize,C,Total Cost,2281249.36
+Belize,C,Total Profit,1447416.1
+Belize,H,Total Revenue,
+Belize,H,Total Cost,
+Belize,H,Total Profit,
+Belize,L,Total Revenue,4038331.08
+Belize,L,Total Cost,3490812.68
+Belize,L,Total Profit,547518.4
+Belize,M,Total Revenue,2072305.27
+Belize,M,Total Cost,1558376.54
+Belize,M,Total Profit,513928.73
+Sudan,C,Total Revenue,5204296.54
+Sudan,C,Total Cost,3641640.08
+Sudan,C,Total Profit,1562656.46
+Sudan,H,Total Revenue,1696684.39
+Sudan,H,Total Cost,1225119.2
+Sudan,H,Total Profit,471565.19
+Sudan,L,Total Revenue,12418.23
+Sudan,L,Total Cost,9210.52
+Sudan,L,Total Profit,3207.71
+Sudan,M,Total Revenue,2911099.82
+Sudan,M,Total Cost,1687665.49
+Sudan,M,Total Profit,1223434.33
+Albania,C,Total Revenue,946474.08
+Albania,C,Total Cost,310410.24
+Albania,C,Total Profit,636063.84
+Albania,H,Total Revenue,1233404.36
+Albania,H,Total Cost,727985.58
+Albania,H,Total Profit,505418.78
+Albania,L,Total Revenue,2717212.39
+Albania,L,Total Cost,1715809.71
+Albania,L,Total Profit,1001402.68
+Albania,M,Total Revenue,4812808.44
+Albania,M,Total Cost,3812625.4
+Albania,M,Total Profit,1000183.04
+Finland,C,Total Revenue,1069268.45
+Finland,C,Total Cost,638873.43
+Finland,C,Total Profit,430395.02
+Finland,H,Total Revenue,
+Finland,H,Total Cost,
+Finland,H,Total Profit,
+Finland,L,Total Revenue,8129159.44
+Finland,L,Total Cost,5877372.85
+Finland,L,Total Profit,2251786.59
+Finland,M,Total Revenue,470029.23
+Finland,M,Total Cost,325909.17
+Finland,M,Total Profit,144120.06
+Lesotho,C,Total Revenue,668306.21
+Lesotho,C,Total Cost,463390.59
+Lesotho,C,Total Profit,204915.62
+Lesotho,H,Total Revenue,4033724.07
+Lesotho,H,Total Cost,3250691.08
+Lesotho,H,Total Profit,783032.99
+Lesotho,L,Total Revenue,2438284.26
+Lesotho,L,Total Cost,1540557.82
+Lesotho,L,Total Profit,897726.44
+Lesotho,M,Total Revenue,2209229.49
+Lesotho,M,Total Cost,1449346.35
+Lesotho,M,Total Profit,759883.14
+Kenya,C,Total Revenue,1471552.32
+Kenya,C,Total Cost,1272038.72
+Kenya,C,Total Profit,199513.6
+Kenya,H,Total Revenue,898497.6
+Kenya,H,Total Cost,511536.48
+Kenya,H,Total Profit,386961.12
+Kenya,L,Total Revenue,5784698.43
+Kenya,L,Total Cost,4663219.68
+Kenya,L,Total Profit,1121478.75
+Kenya,M,Total Revenue,983572.73
+Kenya,M,Total Cost,337133.87
+Kenya,M,Total Profit,646438.86
+Mozambique,C,Total Revenue,5665715.01
+Mozambique,C,Total Cost,4230673.81
+Mozambique,C,Total Profit,1435041.2
+Mozambique,H,Total Revenue,44951.94
+Mozambique,H,Total Cost,33340.56
+Mozambique,H,Total Profit,11611.38
+Mozambique,L,Total Revenue,
+Mozambique,L,Total Cost,
+Mozambique,L,Total Profit,
+Mozambique,M,Total Revenue,3382357.03
+Mozambique,M,Total Cost,2699490.69
+Mozambique,M,Total Profit,682866.34
+Mali,C,Total Revenue,1188110.72
+Mali,C,Total Cost,701252.16
+Mali,C,Total Profit,486858.56
+Mali,H,Total Revenue,286763.04
+Mali,H,Total Cost,194924.76
+Mali,H,Total Profit,91838.28
+Mali,L,Total Revenue,5142828.46
+Mali,L,Total Cost,3829159.52
+Mali,L,Total Profit,1313668.94
+Mali,M,Total Revenue,2470344.56
+Mali,M,Total Cost,1542707.34
+Mali,M,Total Profit,927637.22
+Benin,C,Total Revenue,2375355.39
+Benin,C,Total Cost,1627882.06
+Benin,C,Total Profit,747473.33
+Benin,H,Total Revenue,1690091.34
+Benin,H,Total Cost,1460948.14
+Benin,H,Total Profit,229143.2
+Benin,L,Total Revenue,933844.92
+Benin,L,Total Cost,806898.39
+Benin,L,Total Profit,126946.53
+Benin,M,Total Revenue,4039965.41
+Benin,M,Total Cost,3191329.98
+Benin,M,Total Profit,848635.43
+Bahrain,C,Total Revenue,696659.58
+Bahrain,C,Total Cost,473668.62
+Bahrain,C,Total Profit,222990.96
+Bahrain,H,Total Revenue,4083268.6
+Bahrain,H,Total Cost,3069795.8
+Bahrain,H,Total Profit,1013472.8
+Bahrain,L,Total Revenue,3996184.75
+Bahrain,L,Total Cost,3171002.49
+Bahrain,L,Total Profit,825182.26
+Bahrain,M,Total Revenue,246692.8
+Bahrain,M,Total Cost,164100.07
+Bahrain,M,Total Profit,82592.73
+Comoros,C,Total Revenue,
+Comoros,C,Total Cost,
+Comoros,C,Total Profit,
+Comoros,H,Total Revenue,505581.78
+Comoros,H,Total Cost,350560.62
+Comoros,H,Total Profit,155021.16
+Comoros,L,Total Revenue,4659771.88
+Comoros,L,Total Cost,3761421
+Comoros,L,Total Profit,898350.88
+Comoros,M,Total Revenue,3834533.26
+Comoros,M,Total Cost,2883574.52
+Comoros,M,Total Profit,950958.74
+Netherlands,C,Total Revenue,
+Netherlands,C,Total Cost,
+Netherlands,C,Total Profit,
+Netherlands,H,Total Revenue,257245.12
+Netherlands,H,Total Cost,84367.36
+Netherlands,H,Total Profit,172877.76
+Netherlands,L,Total Revenue,836133.27
+Netherlands,L,Total Cost,534392.04
+Netherlands,L,Total Profit,301741.23
+Netherlands,M,Total Revenue,7895252.13
+Netherlands,M,Total Cost,5739315.09
+Netherlands,M,Total Profit,2155937.04
+The Bahamas,C,Total Revenue,5047282.8
+The Bahamas,C,Total Cost,3077457.25
+The Bahamas,C,Total Profit,1969825.55
+The Bahamas,H,Total Revenue,273728.52
+The Bahamas,H,Total Cost,174807.36
+The Bahamas,H,Total Profit,98921.16
+The Bahamas,L,Total Revenue,1779304.04
+The Bahamas,L,Total Cost,1090952.03
+The Bahamas,L,Total Profit,688352.01
+The Bahamas,M,Total Revenue,1724177.4
+The Bahamas,M,Total Cost,981616.02
+The Bahamas,M,Total Profit,742561.38
+Guatemala,C,Total Revenue,2038938.51
+Guatemala,C,Total Cost,1643649.76
+Guatemala,C,Total Profit,395288.75
+Guatemala,H,Total Revenue,5420363.81
+Guatemala,H,Total Cost,4094337.39
+Guatemala,H,Total Profit,1326026.42
+Guatemala,L,Total Revenue,1225854.56
+Guatemala,L,Total Cost,765534.84
+Guatemala,L,Total Profit,460319.72
+Guatemala,M,Total Revenue,16056.93
+Guatemala,M,Total Cost,11909.32
+Guatemala,M,Total Profit,4147.61
+North Korea,C,Total Revenue,809210.76
+North Korea,C,Total Cost,510376.29
+North Korea,C,Total Profit,298834.47
+North Korea,H,Total Revenue,
+North Korea,H,Total Cost,
+North Korea,H,Total Profit,
+North Korea,L,Total Revenue,
+North Korea,L,Total Cost,
+North Korea,L,Total Profit,
+North Korea,M,Total Revenue,7856743.16
+North Korea,M,Total Cost,6260910.17
+North Korea,M,Total Profit,1595832.99
+Spain,C,Total Revenue,6676253.75
+Spain,C,Total Cost,5040198.83
+Spain,C,Total Profit,1636054.92
+Spain,H,Total Revenue,
+Spain,H,Total Cost,
+Spain,H,Total Profit,
+Spain,L,Total Revenue,718998.02
+Spain,L,Total Cost,424370.31
+Spain,L,Total Profit,294627.71
+Spain,M,Total Revenue,892901.52
+Spain,M,Total Cost,558419.1
+Spain,M,Total Profit,334482.42
+Hungary,C,Total Revenue,1342590.4
+Hungary,C,Total Cost,851823
+Hungary,C,Total Profit,490767.4
+Hungary,H,Total Revenue,
+Hungary,H,Total Cost,
+Hungary,H,Total Profit,
+Hungary,L,Total Revenue,3624028.21
+Hungary,L,Total Cost,2725274.42
+Hungary,L,Total Profit,898753.79
+Hungary,M,Total Revenue,3308955.3
+Hungary,M,Total Cost,1986547.27
+Hungary,M,Total Profit,1322408.03
+Senegal,C,Total Revenue,
+Senegal,C,Total Cost,
+Senegal,C,Total Profit,
+Senegal,H,Total Revenue,869595.19
+Senegal,H,Total Cost,653790.36
+Senegal,H,Total Profit,215804.83
+Senegal,L,Total Revenue,6007079.03
+Senegal,L,Total Cost,4517332.06
+Senegal,L,Total Profit,1489746.97
+Senegal,M,Total Revenue,1328092.1
+Senegal,M,Total Cost,795914.6
+Senegal,M,Total Profit,532177.5
+Egypt,C,Total Revenue,6139221.75
+Egypt,C,Total Cost,5082917.6
+Egypt,C,Total Profit,1056304.15
+Egypt,H,Total Revenue,
+Egypt,H,Total Cost,
+Egypt,H,Total Profit,
+Egypt,L,Total Revenue,
+Egypt,L,Total Cost,
+Egypt,L,Total Profit,
+Egypt,M,Total Revenue,2004515.14
+Egypt,M,Total Cost,1431044.96
+Egypt,M,Total Profit,573470.18
+Italy,C,Total Revenue,1384978.1
+Italy,C,Total Cost,788501.63
+Italy,C,Total Profit,596476.47
+Italy,H,Total Revenue,341924.7
+Italy,H,Total Cost,229078.74
+Italy,H,Total Profit,112845.96
+Italy,L,Total Revenue,2887887.52
+Italy,L,Total Cost,1806464.13
+Italy,L,Total Profit,1081423.39
+Italy,M,Total Revenue,3427318.23
+Italy,M,Total Cost,2762864.48
+Italy,M,Total Profit,664453.75
+Palau,C,Total Revenue,128177.92
+Palau,C,Total Cost,75653.76
+Palau,C,Total Profit,52524.16
+Palau,H,Total Revenue,
+Palau,H,Total Cost,
+Palau,H,Total Profit,
+Palau,L,Total Revenue,6005885.97
+Palau,L,Total Cost,4398481.63
+Palau,L,Total Profit,1607404.34
+Palau,M,Total Revenue,1801469.06
+Palau,M,Total Cost,1288048.96
+Palau,M,Total Profit,513420.1
+Djibouti,C,Total Revenue,4260060.68
+Djibouti,C,Total Cost,3058817.78
+Djibouti,C,Total Profit,1201242.9
+Djibouti,H,Total Revenue,3636094.38
+Djibouti,H,Total Cost,2286282.96
+Djibouti,H,Total Profit,1349811.42
+Djibouti,L,Total Revenue,
+Djibouti,L,Total Cost,
+Djibouti,L,Total Profit,
+Djibouti,M,Total Revenue,
+Djibouti,M,Total Cost,
+Djibouti,M,Total Profit,
+Estonia,C,Total Revenue,4865056.32
+Estonia,C,Total Cost,3571585.54
+Estonia,C,Total Profit,1293470.78
+Estonia,H,Total Revenue,2634321.6
+Estonia,H,Total Cost,2096571.69
+Estonia,H,Total Profit,537749.91
+Estonia,L,Total Revenue,373731.89
+Estonia,L,Total Cost,228717.23
+Estonia,L,Total Profit,145014.66
+Estonia,M,Total Revenue,
+Estonia,M,Total Cost,
+Estonia,M,Total Profit,
+Tunisia,C,Total Revenue,2588295.15
+Tunisia,C,Total Cost,2237373.15
+Tunisia,C,Total Profit,350922
+Tunisia,H,Total Revenue,3233098.3
+Tunisia,H,Total Cost,2012707.43
+Tunisia,H,Total Profit,1220390.87
+Tunisia,L,Total Revenue,2014548.32
+Tunisia,L,Total Cost,1197737.33
+Tunisia,L,Total Profit,816810.99
+Tunisia,M,Total Revenue,
+Tunisia,M,Total Cost,
+Tunisia,M,Total Profit,
+Lithuania,C,Total Revenue,
+Lithuania,C,Total Cost,
+Lithuania,C,Total Profit,
+Lithuania,H,Total Revenue,100642.71
+Lithuania,H,Total Cost,74646.04
+Lithuania,H,Total Profit,25996.67
+Lithuania,L,Total Revenue,
+Lithuania,L,Total Cost,
+Lithuania,L,Total Profit,
+Lithuania,M,Total Revenue,7729448.61
+Lithuania,M,Total Cost,5556762.7
+Lithuania,M,Total Profit,2172685.91
+Equatorial Guinea,C,Total Revenue,
+Equatorial Guinea,C,Total Cost,
+Equatorial Guinea,C,Total Profit,
+Equatorial Guinea,H,Total Revenue,615137.12
+Equatorial Guinea,H,Total Cost,201743.36
+Equatorial Guinea,H,Total Profit,413393.76
+Equatorial Guinea,L,Total Revenue,4135386.36
+Equatorial Guinea,L,Total Cost,3365063.21
+Equatorial Guinea,L,Total Profit,770323.15
+Equatorial Guinea,M,Total Revenue,3002606.62
+Equatorial Guinea,M,Total Cost,2072159.53
+Equatorial Guinea,M,Total Profit,930447.09
+Maldives,C,Total Revenue,
+Maldives,C,Total Cost,
+Maldives,C,Total Profit,
+Maldives,H,Total Revenue,1040882.76
+Maldives,H,Total Cost,713055.69
+Maldives,H,Total Profit,327827.07
+Maldives,L,Total Revenue,68407.56
+Maldives,L,Total Cost,50737.44
+Maldives,L,Total Profit,17670.12
+Maldives,M,Total Revenue,6529714.12
+Maldives,M,Total Cost,3815497.48
+Maldives,M,Total Profit,2714216.64
+Gabon,C,Total Revenue,3874629.46
+Gabon,C,Total Cost,2913726.92
+Gabon,C,Total Profit,960902.54
+Gabon,H,Total Revenue,
+Gabon,H,Total Cost,
+Gabon,H,Total Profit,
+Gabon,L,Total Revenue,2161552.4
+Gabon,L,Total Cost,1366731.78
+Gabon,L,Total Profit,794820.62
+Gabon,M,Total Revenue,1314476.7
+Gabon,M,Total Cost,839445.6
+Gabon,M,Total Profit,475031.1
+Sri Lanka,C,Total Revenue,2758525.56
+Sri Lanka,C,Total Cost,2223730.56
+Sri Lanka,C,Total Profit,534795
+Sri Lanka,H,Total Revenue,1100767.36
+Sri Lanka,H,Total Cost,687419.04
+Sri Lanka,H,Total Profit,413348.32
+Sri Lanka,L,Total Revenue,3471841
+Sri Lanka,L,Total Cost,2115443.57
+Sri Lanka,L,Total Profit,1356397.43
+Sri Lanka,M,Total Revenue,
+Sri Lanka,M,Total Cost,
+Sri Lanka,M,Total Profit,
+Honduras,C,Total Revenue,
+Honduras,C,Total Cost,
+Honduras,C,Total Profit,
+Honduras,H,Total Revenue,4482929.64
+Honduras,H,Total Cost,3613824.64
+Honduras,H,Total Profit,869105
+Honduras,L,Total Revenue,1703499.41
+Honduras,L,Total Cost,1049979.74
+Honduras,L,Total Profit,653519.67
+Honduras,M,Total Revenue,1112631.3
+Honduras,M,Total Cost,633447.99
+Honduras,M,Total Profit,479183.31
+Liechtenstein,C,Total Revenue,
+Liechtenstein,C,Total Cost,
+Liechtenstein,C,Total Profit,
+Liechtenstein,H,Total Revenue,
+Liechtenstein,H,Total Cost,
+Liechtenstein,H,Total Profit,
+Liechtenstein,L,Total Revenue,7184947.83
+Liechtenstein,L,Total Cost,4877844.04
+Liechtenstein,L,Total Profit,2307103.79
+Liechtenstein,M,Total Revenue,
+Liechtenstein,M,Total Cost,
+Liechtenstein,M,Total Profit,
+Andorra,C,Total Revenue,1969229.92
+Andorra,C,Total Cost,1229765.88
+Andorra,C,Total Profit,739464.04
+Andorra,H,Total Revenue,28470
+Andorra,H,Total Cost,19074
+Andorra,H,Total Profit,9396
+Andorra,L,Total Revenue,1782364.96
+Andorra,L,Total Cost,1113070.44
+Andorra,L,Total Profit,669294.52
+Andorra,M,Total Revenue,3373058.09
+Andorra,M,Total Cost,2647943.78
+Andorra,M,Total Profit,725114.31
+Armenia,C,Total Revenue,3789259.2
+Armenia,C,Total Cost,3271076.48
+Armenia,C,Total Profit,518182.72
+Armenia,H,Total Revenue,2672153.04
+Armenia,H,Total Cost,1570674
+Armenia,H,Total Profit,1101479.04
+Armenia,L,Total Revenue,
+Armenia,L,Total Cost,
+Armenia,L,Total Profit,
+Armenia,M,Total Revenue,678277.27
+Armenia,M,Total Cost,470304.33
+Armenia,M,Total Profit,207972.94
+Burundi,C,Total Revenue,950221.69
+Burundi,C,Total Cost,609886.75
+Burundi,C,Total Profit,340334.94
+Burundi,H,Total Revenue,4384004.64
+Burundi,H,Total Cost,2650145.04
+Burundi,H,Total Profit,1733859.6
+Burundi,L,Total Revenue,
+Burundi,L,Total Cost,
+Burundi,L,Total Profit,
+Burundi,M,Total Revenue,1698532.22
+Burundi,M,Total Cost,1059287.46
+Burundi,M,Total Profit,639244.76
+Seychelles,C,Total Revenue,6218072
+Seychelles,C,Total Cost,4977438.04
+Seychelles,C,Total Profit,1240633.96
+Seychelles,H,Total Revenue,
+Seychelles,H,Total Cost,
+Seychelles,H,Total Profit,
+Seychelles,L,Total Revenue,181020.5
+Seychelles,L,Total Cost,106842.75
+Seychelles,L,Total Profit,74177.75
+Seychelles,M,Total Revenue,581783.12
+Seychelles,M,Total Cost,363318.18
+Seychelles,M,Total Profit,218464.94
+Zimbabwe,C,Total Revenue,584654.01
+Zimbabwe,C,Total Cost,359077.79
+Zimbabwe,C,Total Profit,225576.22
+Zimbabwe,H,Total Revenue,54421.89
+Zimbabwe,H,Total Cost,40364.36
+Zimbabwe,H,Total Profit,14057.53
+Zimbabwe,L,Total Revenue,657823.18
+Zimbabwe,L,Total Cost,458614.41
+Zimbabwe,L,Total Profit,199208.77
+Zimbabwe,M,Total Revenue,5632078.94
+Zimbabwe,M,Total Cost,4527348.55
+Zimbabwe,M,Total Profit,1104730.39
+Norway,C,Total Revenue,3943544
+Norway,C,Total Cost,2375236.6
+Norway,C,Total Profit,1568307.4
+Norway,H,Total Revenue,970312.32
+Norway,H,Total Cost,555153.2
+Norway,H,Total Profit,415159.12
+Norway,L,Total Revenue,1323116.24
+Norway,L,Total Cost,826273.86
+Norway,L,Total Profit,496842.38
+Norway,M,Total Revenue,682303.67
+Norway,M,Total Cost,513093.34
+Norway,M,Total Profit,169210.33
+Mauritania,C,Total Revenue,
+Mauritania,C,Total Cost,
+Mauritania,C,Total Profit,
+Mauritania,H,Total Revenue,2987403.09
+Mauritania,H,Total Cost,2582369.89
+Mauritania,H,Total Profit,405033.2
+Mauritania,L,Total Revenue,407168.45
+Mauritania,L,Total Cost,272789.99
+Mauritania,L,Total Profit,134378.46
+Mauritania,M,Total Revenue,3430809.48
+Mauritania,M,Total Cost,2965659.08
+Mauritania,M,Total Profit,465150.4
+Tanzania,C,Total Revenue,6147303.7
+Tanzania,C,Total Cost,4553339.48
+Tanzania,C,Total Profit,1593964.22
+Tanzania,H,Total Revenue,
+Tanzania,H,Total Cost,
+Tanzania,H,Total Profit,
+Tanzania,L,Total Revenue,
+Tanzania,L,Total Cost,
+Tanzania,L,Total Profit,
+Tanzania,M,Total Revenue,647383.33
+Tanzania,M,Total Cost,448883.07
+Tanzania,M,Total Profit,198500.26
+Sierra Leone,C,Total Revenue,4961698.71
+Sierra Leone,C,Total Cost,3994814.96
+Sierra Leone,C,Total Profit,966883.75
+Sierra Leone,H,Total Revenue,1831430.8
+Sierra Leone,H,Total Cost,1103089.37
+Sierra Leone,H,Total Profit,728341.43
+Sierra Leone,L,Total Revenue,
+Sierra Leone,L,Total Cost,
+Sierra Leone,L,Total Profit,
+Sierra Leone,M,Total Revenue,
+Sierra Leone,M,Total Cost,
+Sierra Leone,M,Total Profit,
+Slovenia,C,Total Revenue,
+Slovenia,C,Total Cost,
+Slovenia,C,Total Profit,
+Slovenia,H,Total Revenue,3669762.12
+Slovenia,H,Total Cost,2447704.66
+Slovenia,H,Total Profit,1222057.46
+Slovenia,L,Total Revenue,387239.45
+Slovenia,L,Total Cost,259438.19
+Slovenia,L,Total Profit,127801.26
+Slovenia,M,Total Revenue,2711171.39
+Slovenia,M,Total Cost,2038804.78
+Slovenia,M,Total Profit,672366.61
+India,C,Total Revenue,1055652.4
+India,C,Total Cost,601008.52
+India,C,Total Profit,454643.88
+India,H,Total Revenue,82682.46
+India,H,Total Cost,61325.04
+India,H,Total Profit,21357.42
+India,L,Total Revenue,5629534.69
+India,L,Total Cost,3508276.23
+India,L,Total Profit,2121258.46
+India,M,Total Revenue,
+India,M,Total Cost,
+India,M,Total Profit,
+Sao Tome and Principe,C,Total Revenue,
+Sao Tome and Principe,C,Total Cost,
+Sao Tome and Principe,C,Total Profit,
+Sao Tome and Principe,H,Total Revenue,648030.4
+Sao Tome and Principe,H,Total Cost,212531.2
+Sao Tome and Principe,H,Total Profit,435499.2
+Sao Tome and Principe,L,Total Revenue,
+Sao Tome and Principe,L,Total Cost,
+Sao Tome and Principe,L,Total Profit,
+Sao Tome and Principe,M,Total Revenue,6014195.25
+Sao Tome and Principe,M,Total Cost,3918646.65
+Sao Tome and Principe,M,Total Profit,2095548.6
+Ukraine,C,Total Revenue,611968
+Ukraine,C,Total Cost,200704
+Ukraine,C,Total Profit,411264
+Ukraine,H,Total Revenue,931881.51
+Ukraine,H,Total Cost,751217.76
+Ukraine,H,Total Profit,180663.75
+Ukraine,L,Total Revenue,
+Ukraine,L,Total Cost,
+Ukraine,L,Total Profit,
+Ukraine,M,Total Revenue,5096845.71
+Ukraine,M,Total Cost,3251212.98
+Ukraine,M,Total Profit,1845632.73
+Guinea-Bissau,C,Total Revenue,2626589.45
+Guinea-Bissau,C,Total Cost,2003149.78
+Guinea-Bissau,C,Total Profit,623439.67
+Guinea-Bissau,H,Total Revenue,
+Guinea-Bissau,H,Total Cost,
+Guinea-Bissau,H,Total Profit,
+Guinea-Bissau,L,Total Revenue,3885959.24
+Guinea-Bissau,L,Total Cost,1911098.07
+Guinea-Bissau,L,Total Profit,1974861.17
+Guinea-Bissau,M,Total Revenue,
+Guinea-Bissau,M,Total Cost,
+Guinea-Bissau,M,Total Profit,
+Trinidad and Tobago,C,Total Revenue,
+Trinidad and Tobago,C,Total Cost,
+Trinidad and Tobago,C,Total Profit,
+Trinidad and Tobago,H,Total Revenue,
+Trinidad and Tobago,H,Total Cost,
+Trinidad and Tobago,H,Total Profit,
+Trinidad and Tobago,L,Total Revenue,5994741.03
+Trinidad and Tobago,L,Total Cost,4719786.68
+Trinidad and Tobago,L,Total Profit,1274954.35
+Trinidad and Tobago,M,Total Revenue,507473.64
+Trinidad and Tobago,M,Total Cost,299523.42
+Trinidad and Tobago,M,Total Profit,207950.22
+Saint Lucia,C,Total Revenue,762869.73
+Saint Lucia,C,Total Cost,505505.25
+Saint Lucia,C,Total Profit,257364.48
+Saint Lucia,H,Total Revenue,124298.22
+Saint Lucia,H,Total Cost,93472.44
+Saint Lucia,H,Total Profit,30825.78
+Saint Lucia,L,Total Revenue,5471280.65
+Saint Lucia,L,Total Cost,3654244.44
+Saint Lucia,L,Total Profit,1817036.21
+Saint Lucia,M,Total Revenue,
+Saint Lucia,M,Total Cost,
+Saint Lucia,M,Total Profit,
+East Timor,C,Total Revenue,5178856.99
+East Timor,C,Total Cost,3139425.4
+East Timor,C,Total Profit,2039431.59
+East Timor,H,Total Revenue,832934.22
+East Timor,H,Total Cost,531924.96
+East Timor,H,Total Profit,301009.26
+East Timor,L,Total Revenue,216182.2
+East Timor,L,Total Cost,144835.24
+East Timor,L,Total Profit,71346.96
+East Timor,M,Total Revenue,58097.91
+East Timor,M,Total Cost,43090.84
+East Timor,M,Total Profit,15007.07
+Libya,C,Total Revenue,397119.6
+Libya,C,Total Cost,247659.66
+Libya,C,Total Profit,149459.94
+Libya,H,Total Revenue,215897.5
+Libya,H,Total Cost,144644.5
+Libya,H,Total Profit,71253
+Libya,L,Total Revenue,
+Libya,L,Total Cost,
+Libya,L,Total Profit,
+Libya,M,Total Revenue,5487096.56
+Libya,M,Total Cost,3327942.52
+Libya,M,Total Profit,2159154.04
+Democratic Republic of the Congo,C,Total Revenue,3081525.72
+Democratic Republic of the Congo,C,Total Cost,2484110.72
+Democratic Republic of the Congo,C,Total Profit,597415
+Democratic Republic of the Congo,H,Total Revenue,718409.56
+Democratic Republic of the Congo,H,Total Cost,501195.54
+Democratic Republic of the Congo,H,Total Profit,217214.02
+Democratic Republic of the Congo,L,Total Revenue,2054748.72
+Democratic Republic of the Congo,L,Total Cost,1283171.58
+Democratic Republic of the Congo,L,Total Profit,771577.14
+Democratic Republic of the Congo,M,Total Revenue,144864.38
+Democratic Republic of the Congo,M,Total Cost,104167.62
+Democratic Republic of the Congo,M,Total Profit,40696.76
+Greece,C,Total Revenue,1007751.16
+Greece,C,Total Cost,757830.32
+Greece,C,Total Profit,249920.84
+Greece,H,Total Revenue,646729.49
+Greece,H,Total Cost,448429.71
+Greece,H,Total Profit,198299.78
+Greece,L,Total Revenue,2029414.37
+Greece,L,Total Cost,1375436
+Greece,L,Total Profit,653978.37
+Greece,M,Total Revenue,2281481.88
+Greece,M,Total Cost,1442353.62
+Greece,M,Total Profit,839128.26
+United Kingdom,C,Total Revenue,1177726.37
+United Kingdom,C,Total Cost,475133.99
+United Kingdom,C,Total Profit,702592.38
+United Kingdom,H,Total Revenue,
+United Kingdom,H,Total Cost,
+United Kingdom,H,Total Profit,
+United Kingdom,L,Total Revenue,2871730.6
+United Kingdom,L,Total Cost,1941241.99
+United Kingdom,L,Total Profit,930488.61
+United Kingdom,M,Total Revenue,1855948.5
+United Kingdom,M,Total Cost,1496136
+United Kingdom,M,Total Profit,359812.5
+Serbia,C,Total Revenue,1518323.58
+Serbia,C,Total Cost,969625.44
+Serbia,C,Total Profit,548698.14
+Serbia,H,Total Revenue,3838235.25
+Serbia,H,Total Cost,2326720.3
+Serbia,H,Total Profit,1511514.95
+Serbia,L,Total Revenue,539210
+Serbia,L,Total Cost,318255
+Serbia,L,Total Profit,220955
+Serbia,M,Total Revenue,
+Serbia,M,Total Cost,
+Serbia,M,Total Profit,
+Bangladesh,C,Total Revenue,2324819.7
+Bangladesh,C,Total Cost,1874107.2
+Bangladesh,C,Total Profit,450712.5
+Bangladesh,H,Total Revenue,2476986.66
+Bangladesh,H,Total Cost,1554323.04
+Bangladesh,H,Total Profit,922663.62
+Bangladesh,L,Total Revenue,620902.81
+Bangladesh,L,Total Cost,430521.99
+Bangladesh,L,Total Profit,190380.82
+Bangladesh,M,Total Revenue,389279.99
+Bangladesh,M,Total Cost,269919.21
+Bangladesh,M,Total Profit,119360.78
+Iceland,C,Total Revenue,4159929.48
+Iceland,C,Total Cost,3353444.48
+Iceland,C,Total Profit,806485
+Iceland,H,Total Revenue,1391832.03
+Iceland,H,Total Cost,1129788.59
+Iceland,H,Total Profit,262043.44
+Iceland,L,Total Revenue,
+Iceland,L,Total Cost,
+Iceland,L,Total Profit,
+Iceland,M,Total Revenue,231869.67
+Iceland,M,Total Cost,154973.28
+Iceland,M,Total Profit,76896.39
+Kuwait,C,Total Revenue,3702963.98
+Kuwait,C,Total Cost,2823612.14
+Kuwait,C,Total Profit,879351.84
+Kuwait,H,Total Revenue,975901.68
+Kuwait,H,Total Cost,623226.24
+Kuwait,H,Total Profit,352675.44
+Kuwait,L,Total Revenue,1045173
+Kuwait,L,Total Cost,667464
+Kuwait,L,Total Profit,377709
+Kuwait,M,Total Revenue,
+Kuwait,M,Total Cost,
+Kuwait,M,Total Profit,
+Antigua and Barbuda,C,Total Revenue,355269.28
+Antigua and Barbuda,C,Total Cost,116515.84
+Antigua and Barbuda,C,Total Profit,238753.44
+Antigua and Barbuda,H,Total Revenue,
+Antigua and Barbuda,H,Total Cost,
+Antigua and Barbuda,H,Total Profit,
+Antigua and Barbuda,L,Total Revenue,
+Antigua and Barbuda,L,Total Cost,
+Antigua and Barbuda,L,Total Profit,
+Antigua and Barbuda,M,Total Revenue,5295251.39
+Antigua and Barbuda,M,Total Cost,3980425.25
+Antigua and Barbuda,M,Total Profit,1314826.14
+Mauritius,C,Total Revenue,2559688.67
+Mauritius,C,Total Cost,1543769.48
+Mauritius,C,Total Profit,1015919.19
+Mauritius,H,Total Revenue,725314.8
+Mauritius,H,Total Cost,436864.47
+Mauritius,H,Total Profit,288450.33
+Mauritius,L,Total Revenue,2364547.82
+Mauritius,L,Total Cost,1620440.19
+Mauritius,L,Total Profit,744107.63
+Mauritius,M,Total Revenue,
+Mauritius,M,Total Cost,
+Mauritius,M,Total Profit,
+Monaco,C,Total Revenue,3547177.16
+Monaco,C,Total Cost,2667482.32
+Monaco,C,Total Profit,879694.84
+Monaco,H,Total Revenue,673088.14
+Monaco,H,Total Cost,397273.17
+Monaco,H,Total Profit,275814.97
+Monaco,L,Total Revenue,650980.96
+Monaco,L,Total Cost,213498.88
+Monaco,L,Total Profit,437482.08
+Monaco,M,Total Revenue,670412.58
+Monaco,M,Total Cost,269972.64
+Monaco,M,Total Profit,400439.94
+Cyprus,C,Total Revenue,1154382.6
+Cyprus,C,Total Cost,724934.91
+Cyprus,C,Total Profit,429447.69
+Cyprus,H,Total Revenue,845903.52
+Cyprus,H,Total Cost,540207.36
+Cyprus,H,Total Profit,305696.16
+Cyprus,L,Total Revenue,3067391.97
+Cyprus,L,Total Cost,2066696.25
+Cyprus,L,Total Profit,1000695.72
+Cyprus,M,Total Revenue,434849.8
+Cyprus,M,Total Cost,247570.54
+Cyprus,M,Total Profit,187279.26
+Switzerland,C,Total Revenue,3155448.65
+Switzerland,C,Total Cost,2288701.46
+Switzerland,C,Total Profit,866747.19
+Switzerland,H,Total Revenue,2116961.6
+Switzerland,H,Total Cost,921804.8
+Switzerland,H,Total Profit,1195156.8
+Switzerland,L,Total Revenue,210772.9
+Switzerland,L,Total Cost,141211.18
+Switzerland,L,Total Profit,69561.72
+Switzerland,M,Total Revenue,
+Switzerland,M,Total Cost,
+Switzerland,M,Total Profit,
+Bulgaria,C,Total Revenue,
+Bulgaria,C,Total Cost,
+Bulgaria,C,Total Profit,
+Bulgaria,H,Total Revenue,580618.1
+Bulgaria,H,Total Cost,349597.17
+Bulgaria,H,Total Profit,231020.93
+Bulgaria,L,Total Revenue,3309097.66
+Bulgaria,L,Total Cost,1737501.85
+Bulgaria,L,Total Profit,1571595.81
+Bulgaria,M,Total Revenue,1540614.8
+Bulgaria,M,Total Cost,962099.7
+Bulgaria,M,Total Profit,578515.1
+Syria,C,Total Revenue,5110048.01
+Syria,C,Total Cost,3836429.64
+Syria,C,Total Profit,1273618.37
+Syria,H,Total Revenue,
+Syria,H,Total Cost,
+Syria,H,Total Profit,
+Syria,L,Total Revenue,74764.2
+Syria,L,Total Cost,47745.6
+Syria,L,Total Profit,27018.6
+Syria,M,Total Revenue,160838.64
+Syria,M,Total Cost,94930.92
+Syria,M,Total Profit,65907.72
+Azerbaijan,C,Total Revenue,1244855.06
+Azerbaijan,C,Total Cost,782914.23
+Azerbaijan,C,Total Profit,461940.83
+Azerbaijan,H,Total Revenue,
+Azerbaijan,H,Total Cost,
+Azerbaijan,H,Total Profit,
+Azerbaijan,L,Total Revenue,
+Azerbaijan,L,Total Cost,
+Azerbaijan,L,Total Profit,
+Azerbaijan,M,Total Revenue,4063550.4
+Azerbaijan,M,Total Cost,3275750.4
+Azerbaijan,M,Total Profit,787800
+Solomon Islands,C,Total Revenue,700202.8
+Solomon Islands,C,Total Cost,398642.44
+Solomon Islands,C,Total Profit,301560.36
+Solomon Islands,H,Total Revenue,1017129.85
+Solomon Islands,H,Total Cost,705258.15
+Solomon Islands,H,Total Profit,311871.7
+Solomon Islands,L,Total Revenue,2309606.2
+Solomon Islands,L,Total Cost,1424979.15
+Solomon Islands,L,Total Profit,884627.05
+Solomon Islands,M,Total Revenue,1121944.22
+Solomon Islands,M,Total Cost,663207.94
+Solomon Islands,M,Total Profit,458736.28
+Cote d'Ivoire,C,Total Revenue,1451173.2
+Cote d'Ivoire,C,Total Cost,917187.18
+Cote d'Ivoire,C,Total Profit,533986.02
+Cote d'Ivoire,H,Total Revenue,899155.84
+Cote d'Ivoire,H,Total Cost,294891.52
+Cote d'Ivoire,H,Total Profit,604264.32
+Cote d'Ivoire,L,Total Revenue,1257855.5
+Cote d'Ivoire,L,Total Cost,716127.65
+Cote d'Ivoire,L,Total Profit,541727.85
+Cote d'Ivoire,M,Total Revenue,1513331.38
+Cote d'Ivoire,M,Total Cost,893205.39
+Cote d'Ivoire,M,Total Profit,620125.99
+Fiji,C,Total Revenue,
+Fiji,C,Total Cost,
+Fiji,C,Total Profit,
+Fiji,H,Total Revenue,1831969.52
+Fiji,H,Total Cost,1068773.06
+Fiji,H,Total Profit,763196.46
+Fiji,L,Total Revenue,2305577.2
+Fiji,L,Total Cost,1199600.92
+Fiji,L,Total Profit,1105976.28
+Fiji,M,Total Revenue,854708.88
+Fiji,M,Total Cost,489136.57
+Fiji,M,Total Profit,365572.31
+Rwanda,C,Total Revenue,25735.29
+Rwanda,C,Total Cost,22246.09
+Rwanda,C,Total Profit,3489.2
+Rwanda,H,Total Revenue,2758192.44
+Rwanda,H,Total Cost,2377778.85
+Rwanda,H,Total Profit,380413.59
+Rwanda,L,Total Revenue,
+Rwanda,L,Total Cost,
+Rwanda,L,Total Profit,
+Rwanda,M,Total Revenue,2200141.46
+Rwanda,M,Total Cost,1378513.32
+Rwanda,M,Total Profit,821628.14
+Namibia,C,Total Revenue,2472942.22
+Namibia,C,Total Cost,1484493.9
+Namibia,C,Total Profit,988448.32
+Namibia,H,Total Revenue,344052.6
+Namibia,H,Total Cost,246128.13
+Namibia,H,Total Profit,97924.47
+Namibia,L,Total Revenue,1973414.54
+Namibia,L,Total Cost,938804.37
+Namibia,L,Total Profit,1034610.17
+Namibia,M,Total Revenue,
+Namibia,M,Total Cost,
+Namibia,M,Total Profit,
+Saint Kitts and Nevis,C,Total Revenue,1480218.05
+Saint Kitts and Nevis,C,Total Cost,1113126.1
+Saint Kitts and Nevis,C,Total Profit,367091.95
+Saint Kitts and Nevis,H,Total Revenue,1615405.12
+Saint Kitts and Nevis,H,Total Cost,807751.28
+Saint Kitts and Nevis,H,Total Profit,807653.84
+Saint Kitts and Nevis,L,Total Revenue,406280.07
+Saint Kitts and Nevis,L,Total Cost,351196.47
+Saint Kitts and Nevis,L,Total Profit,55083.6
+Saint Kitts and Nevis,M,Total Revenue,1281581.28
+Saint Kitts and Nevis,M,Total Cost,1033121.28
+Saint Kitts and Nevis,M,Total Profit,248460
+Iraq,C,Total Revenue,4091552.43
+Iraq,C,Total Cost,3298323.68
+Iraq,C,Total Profit,793228.75
+Iraq,H,Total Revenue,
+Iraq,H,Total Cost,
+Iraq,H,Total Profit,
+Iraq,L,Total Revenue,690260.82
+Iraq,L,Total Cost,243290.94
+Iraq,L,Total Profit,446969.88
+Iraq,M,Total Revenue,
+Iraq,M,Total Cost,
+Iraq,M,Total Profit,
+Tuvalu,C,Total Revenue,2172809.1
+Tuvalu,C,Total Cost,1237032.93
+Tuvalu,C,Total Profit,935776.17
+Tuvalu,H,Total Revenue,1662671.6
+Tuvalu,H,Total Cost,1001443.99
+Tuvalu,H,Total Profit,661227.61
+Tuvalu,L,Total Revenue,917972.82
+Tuvalu,L,Total Cost,653754.4
+Tuvalu,L,Total Profit,264218.42
+Tuvalu,M,Total Revenue,
+Tuvalu,M,Total Cost,
+Tuvalu,M,Total Profit,
+Kiribati,C,Total Revenue,
+Kiribati,C,Total Cost,
+Kiribati,C,Total Profit,
+Kiribati,H,Total Revenue,
+Kiribati,H,Total Cost,
+Kiribati,H,Total Profit,
+Kiribati,L,Total Revenue,4092522.69
+Kiribati,L,Total Cost,2713521.54
+Kiribati,L,Total Profit,1379001.15
+Kiribati,M,Total Revenue,651636.64
+Kiribati,M,Total Cost,213713.92
+Kiribati,M,Total Profit,437922.72
+Oman,C,Total Revenue,2378769.47
+Oman,C,Total Cost,1487801.68
+Oman,C,Total Profit,890967.79
+Oman,H,Total Revenue,
+Oman,H,Total Cost,
+Oman,H,Total Profit,
+Oman,L,Total Revenue,
+Oman,L,Total Cost,
+Oman,L,Total Profit,
+Oman,M,Total Revenue,2323972.78
+Oman,M,Total Cost,1461383.7
+Oman,M,Total Profit,862589.08
+Cambodia,C,Total Revenue,308622.9
+Cambodia,C,Total Cost,196139.52
+Cambodia,C,Total Profit,112483.38
+Cambodia,H,Total Revenue,
+Cambodia,H,Total Cost,
+Cambodia,H,Total Profit,
+Cambodia,L,Total Revenue,1105843.2
+Cambodia,L,Total Cost,629583.36
+Cambodia,L,Total Profit,476259.84
+Cambodia,M,Total Revenue,3227847.6
+Cambodia,M,Total Cost,1944165.39
+Cambodia,M,Total Profit,1283682.21
+Ethiopia,C,Total Revenue,1147068.82
+Ethiopia,C,Total Cost,705127.86
+Ethiopia,C,Total Profit,441940.96
+Ethiopia,H,Total Revenue,
+Ethiopia,H,Total Cost,
+Ethiopia,H,Total Profit,
+Ethiopia,L,Total Revenue,1941908.22
+Ethiopia,L,Total Cost,1565430.72
+Ethiopia,L,Total Profit,376477.5
+Ethiopia,M,Total Revenue,1543035.43
+Ethiopia,M,Total Cost,1160364.86
+Ethiopia,M,Total Profit,382670.57
+Taiwan,C,Total Revenue,753140.29
+Taiwan,C,Total Cost,566362.58
+Taiwan,C,Total Profit,186777.71
+Taiwan,H,Total Revenue,341059.29
+Taiwan,H,Total Cost,236483.91
+Taiwan,H,Total Profit,104575.38
+Taiwan,L,Total Revenue,2302678.56
+Taiwan,L,Total Cost,1856258.56
+Taiwan,L,Total Profit,446420
+Taiwan,M,Total Revenue,1107268.51
+Taiwan,M,Total Cost,531317.41
+Taiwan,M,Total Profit,575951.1
+Slovakia,C,Total Revenue,
+Slovakia,C,Total Cost,
+Slovakia,C,Total Profit,
+Slovakia,H,Total Revenue,1117920.4
+Slovakia,H,Total Cost,673334.81
+Slovakia,H,Total Profit,444585.59
+Slovakia,L,Total Revenue,1145739.7
+Slovakia,L,Total Cost,566104.35
+Slovakia,L,Total Profit,579635.35
+Slovakia,M,Total Revenue,2239416.16
+Slovakia,M,Total Cost,1321758.48
+Slovakia,M,Total Profit,917657.68
+Liberia,C,Total Revenue,205782.36
+Liberia,C,Total Cost,165887.36
+Liberia,C,Total Profit,39895
+Liberia,H,Total Revenue,1478966.58
+Liberia,H,Total Cost,900199.22
+Liberia,H,Total Profit,578767.36
+Liberia,L,Total Revenue,1977120.05
+Liberia,L,Total Cost,1166171.72
+Liberia,L,Total Profit,810948.33
+Liberia,M,Total Revenue,739783.95
+Liberia,M,Total Cost,477730.04
+Liberia,M,Total Profit,262053.91
+Pakistan,C,Total Revenue,1301597
+Pakistan,C,Total Cost,1059497.33
+Pakistan,C,Total Profit,242099.67
+Pakistan,H,Total Revenue,
+Pakistan,H,Total Cost,
+Pakistan,H,Total Profit,
+Pakistan,L,Total Revenue,398990.42
+Pakistan,L,Total Cost,271706.91
+Pakistan,L,Total Profit,127283.51
+Pakistan,M,Total Revenue,2695747.54
+Pakistan,M,Total Cost,1419399.31
+Pakistan,M,Total Profit,1276348.23
+Somalia,C,Total Revenue,1332872.7
+Somalia,C,Total Cost,613093.28
+Somalia,C,Total Profit,719779.42
+Somalia,H,Total Revenue,
+Somalia,H,Total Cost,
+Somalia,H,Total Profit,
+Somalia,L,Total Revenue,1617964.64
+Somalia,L,Total Cost,1010403.96
+Somalia,L,Total Profit,607560.68
+Somalia,M,Total Revenue,1424300.67
+Somalia,M,Total Cost,772495.74
+Somalia,M,Total Profit,651804.93
+Bosnia and Herzegovina,C,Total Revenue,2739796.74
+Bosnia and Herzegovina,C,Total Cost,1645480.03
+Bosnia and Herzegovina,C,Total Profit,1094316.71
+Bosnia and Herzegovina,H,Total Revenue,1551054.67
+Bosnia and Herzegovina,H,Total Cost,1166395.34
+Bosnia and Herzegovina,H,Total Profit,384659.33
+Bosnia and Herzegovina,L,Total Revenue,
+Bosnia and Herzegovina,L,Total Cost,
+Bosnia and Herzegovina,L,Total Profit,
+Bosnia and Herzegovina,M,Total Revenue,68508.42
+Bosnia and Herzegovina,M,Total Cost,43750.56
+Bosnia and Herzegovina,M,Total Profit,24757.86
+Tajikistan,C,Total Revenue,1960996.23
+Tajikistan,C,Total Cost,1572987.56
+Tajikistan,C,Total Profit,388008.67
+Tajikistan,H,Total Revenue,1216149.64
+Tajikistan,H,Total Cost,717801.42
+Tajikistan,H,Total Profit,498348.22
+Tajikistan,L,Total Revenue,
+Tajikistan,L,Total Cost,
+Tajikistan,L,Total Profit,
+Tajikistan,M,Total Revenue,1163391.55
+Tajikistan,M,Total Cost,833025.91
+Tajikistan,M,Total Profit,330365.64
+Republic of the Congo,C,Total Revenue,59338.8
+Republic of the Congo,C,Total Cost,44011.2
+Republic of the Congo,C,Total Profit,15327.6
+Republic of the Congo,H,Total Revenue,4061578.79
+Republic of the Congo,H,Total Cost,3110742.55
+Republic of the Congo,H,Total Profit,950836.24
+Republic of the Congo,L,Total Revenue,122251.35
+Republic of the Congo,L,Total Cost,83209.47
+Republic of the Congo,L,Total Profit,39041.88
+Republic of the Congo,M,Total Revenue,
+Republic of the Congo,M,Total Cost,
+Republic of the Congo,M,Total Profit,
+Saudi Arabia,C,Total Revenue,963491.24
+Saudi Arabia,C,Total Cost,568676.22
+Saudi Arabia,C,Total Profit,394815.02
+Saudi Arabia,H,Total Revenue,867049.68
+Saudi Arabia,H,Total Cost,511754.04
+Saudi Arabia,H,Total Profit,355295.64
+Saudi Arabia,L,Total Revenue,
+Saudi Arabia,L,Total Cost,
+Saudi Arabia,L,Total Profit,
+Saudi Arabia,M,Total Revenue,2253429.79
+Saudi Arabia,M,Total Cost,1509601.4
+Saudi Arabia,M,Total Profit,743828.39
+Singapore,C,Total Revenue,
+Singapore,C,Total Cost,
+Singapore,C,Total Profit,
+Singapore,H,Total Revenue,
+Singapore,H,Total Cost,
+Singapore,H,Total Profit,
+Singapore,L,Total Revenue,2176861.55
+Singapore,L,Total Cost,1325820.48
+Singapore,L,Total Profit,851041.07
+Singapore,M,Total Revenue,1717389.3
+Singapore,M,Total Cost,977751.39
+Singapore,M,Total Profit,739637.91
+Nepal,C,Total Revenue,3337216.08
+Nepal,C,Total Cost,2530751.69
+Nepal,C,Total Profit,806464.39
+Nepal,H,Total Revenue,501085.2
+Nepal,H,Total Cost,285279.96
+Nepal,H,Total Profit,215805.24
+Nepal,L,Total Revenue,
+Nepal,L,Total Cost,
+Nepal,L,Total Profit,
+Nepal,M,Total Revenue,
+Nepal,M,Total Cost,
+Nepal,M,Total Profit,
+Burkina Faso,C,Total Revenue,
+Burkina Faso,C,Total Cost,
+Burkina Faso,C,Total Profit,
+Burkina Faso,H,Total Revenue,
+Burkina Faso,H,Total Cost,
+Burkina Faso,H,Total Profit,
+Burkina Faso,L,Total Revenue,2159076.5
+Burkina Faso,L,Total Cost,1291692.07
+Burkina Faso,L,Total Profit,867384.43
+Burkina Faso,M,Total Revenue,1620280.94
+Burkina Faso,M,Total Cost,1250777.06
+Burkina Faso,M,Total Profit,369503.88
+Malta,C,Total Revenue,
+Malta,C,Total Cost,
+Malta,C,Total Profit,
+Malta,H,Total Revenue,
+Malta,H,Total Cost,
+Malta,H,Total Profit,
+Malta,L,Total Revenue,
+Malta,L,Total Cost,
+Malta,L,Total Profit,
+Malta,M,Total Revenue,3731064.8
+Malta,M,Total Cost,2247258.22
+Malta,M,Total Profit,1483806.58
+Turkmenistan,C,Total Revenue,
+Turkmenistan,C,Total Cost,
+Turkmenistan,C,Total Profit,
+Turkmenistan,H,Total Revenue,3486232.8
+Turkmenistan,H,Total Cost,2099793.42
+Turkmenistan,H,Total Profit,1386439.38
+Turkmenistan,L,Total Revenue,
+Turkmenistan,L,Total Cost,
+Turkmenistan,L,Total Profit,
+Turkmenistan,M,Total Revenue,229225.92
+Turkmenistan,M,Total Cost,184785.92
+Turkmenistan,M,Total Profit,44440
+Cape Verde,C,Total Revenue,1137180.5
+Cape Verde,C,Total Cost,688301.6
+Cape Verde,C,Total Profit,448878.9
+Cape Verde,H,Total Revenue,2489894.9
+Cape Verde,H,Total Cost,1543875.85
+Cape Verde,H,Total Profit,946019.05
+Cape Verde,L,Total Revenue,2043.25
+Cape Verde,L,Total Cost,1416.75
+Cape Verde,L,Total Profit,626.5
+Cape Verde,M,Total Revenue,
+Cape Verde,M,Total Cost,
+Cape Verde,M,Total Profit,
+Thailand,C,Total Revenue,
+Thailand,C,Total Cost,
+Thailand,C,Total Profit,
+Thailand,H,Total Revenue,1532062.69
+Thailand,H,Total Cost,990758.4
+Thailand,H,Total Profit,541304.29
+Thailand,L,Total Revenue,2087547.12
+Thailand,L,Total Cost,1281140.91
+Thailand,L,Total Profit,806406.21
+Thailand,M,Total Revenue,
+Thailand,M,Total Cost,
+Thailand,M,Total Profit,
+Myanmar,C,Total Revenue,
+Myanmar,C,Total Cost,
+Myanmar,C,Total Profit,
+Myanmar,H,Total Revenue,63725.35
+Myanmar,H,Total Cost,42693.97
+Myanmar,H,Total Profit,21031.38
+Myanmar,L,Total Revenue,3532706.5
+Myanmar,L,Total Cost,2127877.2
+Myanmar,L,Total Profit,1404829.3
+Myanmar,M,Total Revenue,
+Myanmar,M,Total Cost,
+Myanmar,M,Total Profit,
+Haiti,C,Total Revenue,448639.75
+Haiti,C,Total Cost,300574.45
+Haiti,C,Total Profit,148065.3
+Haiti,H,Total Revenue,646600.66
+Haiti,H,Total Cost,392345.73
+Haiti,H,Total Profit,254254.93
+Haiti,L,Total Revenue,2187494.32
+Haiti,L,Total Cost,1366069.98
+Haiti,L,Total Profit,821424.34
+Haiti,M,Total Revenue,189962.1
+Haiti,M,Total Cost,121312.8
+Haiti,M,Total Profit,68649.3
+Israel,C,Total Revenue,234830.05
+Israel,C,Total Cost,157328.71
+Israel,C,Total Profit,77501.34
+Israel,H,Total Revenue,174493.55
+Israel,H,Total Cost,120990.45
+Israel,H,Total Profit,53503.1
+Israel,L,Total Revenue,92027.98
+Israel,L,Total Cost,63810.42
+Israel,L,Total Profit,28217.56
+Israel,M,Total Revenue,2764235.57
+Israel,M,Total Cost,2255757.17
+Israel,M,Total Profit,508478.4
+Australia,C,Total Revenue,1121710.86
+Australia,C,Total Cost,662061.33
+Australia,C,Total Profit,459649.53
+Australia,H,Total Revenue,
+Australia,H,Total Cost,
+Australia,H,Total Profit,
+Australia,L,Total Revenue,1028294.4
+Australia,L,Total Cost,619352.16
+Australia,L,Total Profit,408942.24
+Australia,M,Total Revenue,1065324.9
+Australia,M,Total Cost,628780.95
+Australia,M,Total Profit,436543.95
+Madagascar,C,Total Revenue,
+Madagascar,C,Total Cost,
+Madagascar,C,Total Profit,
+Madagascar,H,Total Revenue,2919839.9
+Madagascar,H,Total Cost,1403589.53
+Madagascar,H,Total Profit,1516250.37
+Madagascar,L,Total Revenue,71747.7
+Madagascar,L,Total Cost,53214.8
+Madagascar,L,Total Profit,18532.9
+Madagascar,M,Total Revenue,69415.2
+Madagascar,M,Total Cost,51484.8
+Madagascar,M,Total Profit,17930.4
+Russia,C,Total Revenue,1834191.36
+Russia,C,Total Cost,1109423.1
+Russia,C,Total Profit,724768.26
+Russia,H,Total Revenue,
+Russia,H,Total Cost,
+Russia,H,Total Profit,
+Russia,L,Total Revenue,1117323.51
+Russia,L,Total Cost,716309.01
+Russia,L,Total Profit,401014.5
+Russia,M,Total Revenue,13948.35
+Russia,M,Total Cost,10345.4
+Russia,M,Total Profit,3602.95
+Grenada,C,Total Revenue,
+Grenada,C,Total Cost,
+Grenada,C,Total Profit,
+Grenada,H,Total Revenue,175256.4
+Grenada,H,Total Cost,99777.72
+Grenada,H,Total Profit,75478.68
+Grenada,L,Total Revenue,1828471.26
+Grenada,L,Total Cost,1580566.46
+Grenada,L,Total Profit,247904.8
+Grenada,M,Total Revenue,959469.3
+Grenada,M,Total Cost,645502.26
+Grenada,M,Total Profit,313967.04
+Montenegro,C,Total Revenue,
+Montenegro,C,Total Cost,
+Montenegro,C,Total Profit,
+Montenegro,H,Total Revenue,526729.6
+Montenegro,H,Total Cost,172748.8
+Montenegro,H,Total Profit,353980.8
+Montenegro,L,Total Revenue,265055.7
+Montenegro,L,Total Cost,177578.94
+Montenegro,L,Total Profit,87476.76
+Montenegro,M,Total Revenue,2064385.72
+Montenegro,M,Total Cost,1051127.48
+Montenegro,M,Total Profit,1013258.24
+Afghanistan,C,Total Revenue,1366604.97
+Afghanistan,C,Total Cost,636172.46
+Afghanistan,C,Total Profit,730432.51
+Afghanistan,H,Total Revenue,
+Afghanistan,H,Total Cost,
+Afghanistan,H,Total Profit,
+Afghanistan,L,Total Revenue,
+Afghanistan,L,Total Cost,
+Afghanistan,L,Total Profit,
+Afghanistan,M,Total Revenue,1476984.1
+Afghanistan,M,Total Cost,842009.51
+Afghanistan,M,Total Profit,634974.59
+Barbados,C,Total Revenue,650777.3
+Barbados,C,Total Cost,446247.84
+Barbados,C,Total Profit,204529.46
+Barbados,H,Total Revenue,2152772.8
+Barbados,H,Total Cost,1296636.92
+Barbados,H,Total Profit,856135.88
+Barbados,L,Total Revenue,
+Barbados,L,Total Cost,
+Barbados,L,Total Profit,
+Barbados,M,Total Revenue,
+Barbados,M,Total Cost,
+Barbados,M,Total Profit,
+Botswana,C,Total Revenue,2758990.99
+Botswana,C,Total Cost,1636619.38
+Botswana,C,Total Profit,1122371.61
+Botswana,H,Total Revenue,
+Botswana,H,Total Cost,
+Botswana,H,Total Profit,
+Botswana,L,Total Revenue,
+Botswana,L,Total Cost,
+Botswana,L,Total Profit,
+Botswana,M,Total Revenue,
+Botswana,M,Total Cost,
+Botswana,M,Total Profit,
+Brunei,C,Total Revenue,
+Brunei,C,Total Cost,
+Brunei,C,Total Profit,
+Brunei,H,Total Revenue,2556492.24
+Brunei,H,Total Cost,1504801.46
+Brunei,H,Total Profit,1051690.78
+Brunei,L,Total Revenue,146003.65
+Brunei,L,Total Cost,97817.83
+Brunei,L,Total Profit,48185.82
+Brunei,M,Total Revenue,
+Brunei,M,Total Cost,
+Brunei,M,Total Profit,
+Samoa,C,Total Revenue,310328.81
+Samoa,C,Total Cost,215175.99
+Samoa,C,Total Profit,95152.82
+Samoa,H,Total Revenue,
+Samoa,H,Total Cost,
+Samoa,H,Total Profit,
+Samoa,L,Total Revenue,2238550.32
+Samoa,L,Total Cost,1397953.98
+Samoa,L,Total Profit,840596.34
+Samoa,M,Total Revenue,76386.72
+Samoa,M,Total Cost,25052.16
+Samoa,M,Total Profit,51334.56
+United Arab Emirates,C,Total Revenue,1888772.72
+United Arab Emirates,C,Total Cost,1005549.16
+United Arab Emirates,C,Total Profit,883223.56
+United Arab Emirates,H,Total Revenue,702399.51
+United Arab Emirates,H,Total Cost,473418.27
+United Arab Emirates,H,Total Profit,228981.24
+United Arab Emirates,L,Total Revenue,
+United Arab Emirates,L,Total Cost,
+United Arab Emirates,L,Total Profit,
+United Arab Emirates,M,Total Revenue,
+United Arab Emirates,M,Total Cost,
+United Arab Emirates,M,Total Profit,
+Marshall Islands,C,Total Revenue,496182.83
+Marshall Islands,C,Total Cost,344043.57
+Marshall Islands,C,Total Profit,152139.26
+Marshall Islands,H,Total Revenue,278009.55
+Marshall Islands,H,Total Cost,186257.61
+Marshall Islands,H,Total Profit,91751.94
+Marshall Islands,L,Total Revenue,1573874.07
+Marshall Islands,L,Total Cost,997399.54
+Marshall Islands,L,Total Profit,576474.53
+Marshall Islands,M,Total Revenue,176941.05
+Marshall Islands,M,Total Cost,118544.91
+Marshall Islands,M,Total Profit,58396.14
+Philippines,C,Total Revenue,
+Philippines,C,Total Cost,
+Philippines,C,Total Profit,
+Philippines,H,Total Revenue,
+Philippines,H,Total Cost,
+Philippines,H,Total Profit,
+Philippines,L,Total Revenue,1771097.38
+Philippines,L,Total Cost,1157161.52
+Philippines,L,Total Profit,613935.86
+Philippines,M,Total Revenue,740725.7
+Philippines,M,Total Cost,421713.11
+Philippines,M,Total Profit,319012.59
+Macedonia,C,Total Revenue,195921.05
+Macedonia,C,Total Cost,131260.91
+Macedonia,C,Total Profit,64660.14
+Macedonia,H,Total Revenue,2196721.78
+Macedonia,H,Total Cost,1687926.9
+Macedonia,H,Total Profit,508794.88
+Macedonia,L,Total Revenue,
+Macedonia,L,Total Cost,
+Macedonia,L,Total Profit,
+Macedonia,M,Total Revenue,85826.67
+Macedonia,M,Total Cost,63657.08
+Macedonia,M,Total Profit,22169.59
+Uganda,C,Total Revenue,1425452.98
+Uganda,C,Total Cost,763646.59
+Uganda,C,Total Profit,661806.39
+Uganda,H,Total Revenue,
+Uganda,H,Total Cost,
+Uganda,H,Total Profit,
+Uganda,L,Total Revenue,16112.91
+Uganda,L,Total Cost,11950.84
+Uganda,L,Total Profit,4162.07
+Uganda,M,Total Revenue,961205.47
+Uganda,M,Total Cost,656929.65
+Uganda,M,Total Profit,304275.82
+Laos,C,Total Revenue,
+Laos,C,Total Cost,
+Laos,C,Total Profit,
+Laos,H,Total Revenue,461166.55
+Laos,H,Total Cost,308967.01
+Laos,H,Total Profit,152199.54
+Laos,L,Total Revenue,
+Laos,L,Total Cost,
+Laos,L,Total Profit,
+Laos,M,Total Revenue,1765730.05
+Laos,M,Total Cost,1197479.37
+Laos,M,Total Profit,568250.68
+Nicaragua,C,Total Revenue,
+Nicaragua,C,Total Cost,
+Nicaragua,C,Total Profit,
+Nicaragua,H,Total Revenue,
+Nicaragua,H,Total Cost,
+Nicaragua,H,Total Profit,
+Nicaragua,L,Total Revenue,1411643.94
+Nicaragua,L,Total Cost,1220252.74
+Nicaragua,L,Total Profit,191391.2
+Nicaragua,M,Total Revenue,747849.89
+Nicaragua,M,Total Cost,438591.3
+Nicaragua,M,Total Profit,309258.59
+Kyrgyzstan,C,Total Revenue,85412.86
+Kyrgyzstan,C,Total Cost,58085.17
+Kyrgyzstan,C,Total Profit,27327.69
+Kyrgyzstan,H,Total Revenue,1900638.22
+Kyrgyzstan,H,Total Cost,1121803.41
+Kyrgyzstan,H,Total Profit,778834.81
+Kyrgyzstan,L,Total Revenue,146275.44
+Kyrgyzstan,L,Total Cost,91347.66
+Kyrgyzstan,L,Total Profit,54927.78
+Kyrgyzstan,M,Total Revenue,
+Kyrgyzstan,M,Total Cost,
+Kyrgyzstan,M,Total Profit,
+Nigeria,C,Total Revenue,1233250.3
+Nigeria,C,Total Cost,727894.65
+Nigeria,C,Total Profit,505355.65
+Nigeria,H,Total Revenue,131748.76
+Nigeria,H,Total Cost,91352.04
+Nigeria,H,Total Profit,40396.72
+Nigeria,L,Total Revenue,688658.93
+Nigeria,L,Total Cost,450339.05
+Nigeria,L,Total Profit,238319.88
+Nigeria,M,Total Revenue,
+Nigeria,M,Total Cost,
+Nigeria,M,Total Profit,
+South Korea,C,Total Revenue,
+South Korea,C,Total Cost,
+South Korea,C,Total Profit,
+South Korea,H,Total Revenue,
+South Korea,H,Total Cost,
+South Korea,H,Total Profit,
+South Korea,L,Total Revenue,1378008.5
+South Korea,L,Total Cost,877567.38
+South Korea,L,Total Profit,500441.12
+South Korea,M,Total Revenue,664234.2
+South Korea,M,Total Cost,535459.2
+South Korea,M,Total Profit,128775
+Indonesia,C,Total Revenue,540816.4
+Indonesia,C,Total Cost,325739.21
+Indonesia,C,Total Profit,215077.19
+Indonesia,H,Total Revenue,1431500.95
+Indonesia,H,Total Cost,992575.05
+Indonesia,H,Total Profit,438925.9
+Indonesia,L,Total Revenue,
+Indonesia,L,Total Cost,
+Indonesia,L,Total Profit,
+Indonesia,M,Total Revenue,
+Indonesia,M,Total Cost,
+Indonesia,M,Total Profit,
+Zambia,C,Total Revenue,
+Zambia,C,Total Cost,
+Zambia,C,Total Profit,
+Zambia,H,Total Revenue,1921237.28
+Zambia,H,Total Cost,1199794.92
+Zambia,H,Total Profit,721442.36
+Zambia,L,Total Revenue,32878.92
+Zambia,L,Total Cost,24386.08
+Zambia,L,Total Profit,8492.84
+Zambia,M,Total Revenue,
+Zambia,M,Total Cost,
+Zambia,M,Total Profit,
+The Gambia,C,Total Revenue,
+The Gambia,C,Total Cost,
+The Gambia,C,Total Profit,
+The Gambia,H,Total Revenue,
+The Gambia,H,Total Cost,
+The Gambia,H,Total Profit,
+The Gambia,L,Total Revenue,672625.96
+The Gambia,L,Total Cost,397000.38
+The Gambia,L,Total Profit,275625.58
+The Gambia,M,Total Revenue,1225701.36
+The Gambia,M,Total Cost,723439.08
+The Gambia,M,Total Profit,502262.28
+Mexico,C,Total Revenue,
+Mexico,C,Total Cost,
+Mexico,C,Total Profit,
+Mexico,H,Total Revenue,1854866.4
+Mexico,H,Total Cost,923836.64
+Mexico,H,Total Profit,931029.76
+Mexico,L,Total Revenue,
+Mexico,L,Total Cost,
+Mexico,L,Total Profit,
+Mexico,M,Total Revenue,
+Mexico,M,Total Cost,
+Mexico,M,Total Profit,
+Togo,C,Total Revenue,1405181.26
+Togo,C,Total Cost,829372.53
+Togo,C,Total Profit,575808.73
+Togo,H,Total Revenue,
+Togo,H,Total Cost,
+Togo,H,Total Profit,
+Togo,L,Total Revenue,
+Togo,L,Total Cost,
+Togo,L,Total Profit,
+Togo,M,Total Revenue,329151.36
+Togo,M,Total Cost,107950.08
+Togo,M,Total Profit,221201.28
+El Salvador,C,Total Revenue,520051.93
+El Salvador,C,Total Cost,361620.77
+El Salvador,C,Total Profit,158431.16
+El Salvador,H,Total Revenue,
+El Salvador,H,Total Cost,
+El Salvador,H,Total Profit,
+El Salvador,L,Total Revenue,1166939.6
+El Salvador,L,Total Cost,438843.76
+El Salvador,L,Total Profit,728095.84
+El Salvador,M,Total Revenue,
+El Salvador,M,Total Cost,
+El Salvador,M,Total Profit,
+Vatican City,C,Total Revenue,1198341.58
+Vatican City,C,Total Cost,672493.29
+Vatican City,C,Total Profit,525848.29
+Vatican City,H,Total Revenue,
+Vatican City,H,Total Cost,
+Vatican City,H,Total Profit,
+Vatican City,L,Total Revenue,
+Vatican City,L,Total Cost,
+Vatican City,L,Total Profit,
+Vatican City,M,Total Revenue,377037.7
+Vatican City,M,Total Cost,252603.34
+Vatican City,M,Total Profit,124434.36
+Eritrea,C,Total Revenue,236555
+Eritrea,C,Total Cost,134676.5
+Eritrea,C,Total Profit,101878.5
+Eritrea,H,Total Revenue,585010.8
+Eritrea,H,Total Cost,333060.84
+Eritrea,H,Total Profit,251949.96
+Eritrea,L,Total Revenue,652889.82
+Eritrea,L,Total Cost,416945.76
+Eritrea,L,Total Profit,235944.06
+Eritrea,M,Total Revenue,
+Eritrea,M,Total Cost,
+Eritrea,M,Total Profit,
+San Marino,C,Total Revenue,
+San Marino,C,Total Cost,
+San Marino,C,Total Profit,
+San Marino,H,Total Revenue,1410407.2
+San Marino,H,Total Cost,849502.58
+San Marino,H,Total Profit,560904.62
+San Marino,L,Total Revenue,
+San Marino,L,Total Cost,
+San Marino,L,Total Profit,
+San Marino,M,Total Revenue,2061.93
+San Marino,M,Total Cost,1529.32
+San Marino,M,Total Profit,532.61
+Canada,C,Total Revenue,106857.4
+Canada,C,Total Cost,71591.08
+Canada,C,Total Profit,35266.32
+Canada,H,Total Revenue,
+Canada,H,Total Cost,
+Canada,H,Total Profit,
+Canada,L,Total Revenue,654292.82
+Canada,L,Total Cost,386179.71
+Canada,L,Total Profit,268113.11
+Canada,M,Total Revenue,464953.08
+Canada,M,Total Cost,274426.74
+Canada,M,Total Profit,190526.34
+Nauru,C,Total Revenue,
+Nauru,C,Total Cost,
+Nauru,C,Total Profit,
+Nauru,H,Total Revenue,
+Nauru,H,Total Cost,
+Nauru,H,Total Profit,
+Nauru,L,Total Revenue,74024.22
+Nauru,L,Total Cost,54903.28
+Nauru,L,Total Profit,19120.94
+Nauru,M,Total Revenue,1151598.5
+Nauru,M,Total Cost,679701.75
+Nauru,M,Total Profit,471896.75
+France,C,Total Revenue,145894.82
+France,C,Total Cost,86110.71
+France,C,Total Profit,59784.11
+France,H,Total Revenue,21489.93
+France,H,Total Cost,17323.68
+France,H,Total Profit,4166.25
+France,L,Total Revenue,
+France,L,Total Cost,
+France,L,Total Profit,
+France,M,Total Revenue,841631.28
+France,M,Total Cost,537479.04
+France,M,Total Profit,304152.24
+Kosovo,C,Total Revenue,
+Kosovo,C,Total Cost,
+Kosovo,C,Total Profit,
+Kosovo,H,Total Revenue,
+Kosovo,H,Total Cost,
+Kosovo,H,Total Profit,
+Kosovo,L,Total Revenue,956534.16
+Kosovo,L,Total Cost,597346.74
+Kosovo,L,Total Profit,359187.42
+Kosovo,M,Total Revenue,
+Kosovo,M,Total Cost,
+Kosovo,M,Total Profit,
+Saint Vincent and the Grenadines,C,Total Revenue,308899.5
+Saint Vincent and the Grenadines,C,Total Cost,206952.9
+Saint Vincent and the Grenadines,C,Total Profit,101946.6
+Saint Vincent and the Grenadines,H,Total Revenue,45584.7
+Saint Vincent and the Grenadines,H,Total Cost,36747.2
+Saint Vincent and the Grenadines,H,Total Profit,8837.5
+Saint Vincent and the Grenadines,L,Total Revenue,589237.5
+Saint Vincent and the Grenadines,L,Total Cost,365918.51
+Saint Vincent and the Grenadines,L,Total Profit,223318.99
+Saint Vincent and the Grenadines,M,Total Revenue,
+Saint Vincent and the Grenadines,M,Total Cost,
+Saint Vincent and the Grenadines,M,Total Profit,
+Croatia,C,Total Revenue,22301.5
+Croatia,C,Total Cost,14941.3
+Croatia,C,Total Profit,7360.2
+Croatia,H,Total Revenue,
+Croatia,H,Total Cost,
+Croatia,H,Total Profit,
+Croatia,L,Total Revenue,
+Croatia,L,Total Cost,
+Croatia,L,Total Profit,
+Croatia,M,Total Revenue,919591.19
+Croatia,M,Total Cost,589221.77
+Croatia,M,Total Profit,330369.42
+Dominica,C,Total Revenue,632416.3
+Dominica,C,Total Cost,373267.65
+Dominica,C,Total Profit,259148.65
+Dominica,H,Total Revenue,
+Dominica,H,Total Cost,
+Dominica,H,Total Profit,
+Dominica,L,Total Revenue,249773.46
+Dominica,L,Total Cost,159509.28
+Dominica,L,Total Profit,90264.18
+Dominica,M,Total Revenue,
+Dominica,M,Total Cost,
+Dominica,M,Total Profit,
+Jamaica,C,Total Revenue,
+Jamaica,C,Total Cost,
+Jamaica,C,Total Profit,
+Jamaica,H,Total Revenue,374057.68
+Jamaica,H,Total Cost,220778.04
+Jamaica,H,Total Profit,153279.64
+Jamaica,L,Total Revenue,407601.49
+Jamaica,L,Total Cost,277937.13
+Jamaica,L,Total Profit,129664.36
+Jamaica,M,Total Revenue,
+Jamaica,M,Total Cost,
+Jamaica,M,Total Profit,
+Kazakhstan,C,Total Revenue,
+Kazakhstan,C,Total Cost,
+Kazakhstan,C,Total Profit,
+Kazakhstan,H,Total Revenue,715717.14
+Kazakhstan,H,Total Cost,461188.02
+Kazakhstan,H,Total Profit,254529.12
+Kazakhstan,L,Total Revenue,
+Kazakhstan,L,Total Cost,
+Kazakhstan,L,Total Profit,
+Kazakhstan,M,Total Revenue,
+Kazakhstan,M,Total Cost,
+Kazakhstan,M,Total Profit,
+Latvia,C,Total Revenue,
+Latvia,C,Total Cost,
+Latvia,C,Total Profit,
+Latvia,H,Total Revenue,
+Latvia,H,Total Cost,
+Latvia,H,Total Profit,
+Latvia,L,Total Revenue,
+Latvia,L,Total Cost,
+Latvia,L,Total Profit,
+Latvia,M,Total Revenue,566096.65
+Latvia,M,Total Cost,307321.63
+Latvia,M,Total Profit,258775.02
+Federated States of Micronesia,C,Total Revenue,62100.06
+Federated States of Micronesia,C,Total Cost,39658.08
+Federated States of Micronesia,C,Total Profit,22441.98
+Federated States of Micronesia,H,Total Revenue,
+Federated States of Micronesia,H,Total Cost,
+Federated States of Micronesia,H,Total Profit,
+Federated States of Micronesia,L,Total Revenue,
+Federated States of Micronesia,L,Total Cost,
+Federated States of Micronesia,L,Total Profit,
+Federated States of Micronesia,M,Total Revenue,409058.65
+Federated States of Micronesia,M,Total Cost,283633.35
+Federated States of Micronesia,M,Total Profit,125425.3
+Denmark,C,Total Revenue,260832.65
+Denmark,C,Total Cost,174749.63
+Denmark,C,Total Profit,86083.02
+Denmark,H,Total Revenue,
+Denmark,H,Total Cost,
+Denmark,H,Total Profit,
+Denmark,L,Total Revenue,
+Denmark,L,Total Cost,
+Denmark,L,Total Profit,
+Denmark,M,Total Revenue,
+Denmark,M,Total Cost,
+Denmark,M,Total Profit,
+Cameroon,C,Total Revenue,95209.92
+Cameroon,C,Total Cost,60802.56
+Cameroon,C,Total Profit,34407.36
+Cameroon,H,Total Revenue,
+Cameroon,H,Total Cost,
+Cameroon,H,Total Profit,
+Cameroon,L,Total Revenue,
+Cameroon,L,Total Cost,
+Cameroon,L,Total Profit,
+Cameroon,M,Total Revenue,
+Cameroon,M,Total Cost,
+Cameroon,M,Total Profit,

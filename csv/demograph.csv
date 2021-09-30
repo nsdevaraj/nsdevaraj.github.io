@@ -1,0 +1,379 @@
+﻿Country,Value Column Name,Value
+All,Male,574817197
+All,Female,606828705
+All,Population,1181645902
+All,Rank,
+All,% of Total Population,1
+All,Female as % of Total Population,0.513545305
+All,Rank (Female %),
+Brazil,Male,105101516
+Brazil,Female,108891925
+Brazil,Population,213993441
+Brazil,Rank,1
+Brazil,% of Total Population,0.181097773
+Brazil,Female as % of Total Population,0.508856367
+Brazil,Rank (Female %),23
+Russian Federation,Male,67638243
+Russian Federation,Female,78273779
+Russian Federation,Population,145912022
+Russian Federation,Rank,2
+Russian Federation,% of Total Population,0.123482019
+Russian Federation,Female as % of Total Population,0.53644503
+Russian Federation,Rank (Female %),4
+Germany,Male,41500151
+Germany,Female,42400320
+Germany,Population,83900471
+Germany,Rank,3
+Germany,% of Total Population,0.071003057
+Germany,Female as % of Total Population,0.505364505
+Germany,Rank (Female %),32
+United Kingdom,Male,33716291
+United Kingdom,Female,34490823
+United Kingdom,Population,68207114
+United Kingdom,Rank,4
+United Kingdom,% of Total Population,0.057722126
+United Kingdom,Female as % of Total Population,0.505677795
+United Kingdom,Rank (Female %),30
+France,Male,31662586
+France,Female,33763591
+France,Population,65426177
+France,Rank,5
+France,% of Total Population,0.055368683
+France,Female as % of Total Population,0.516056303
+France,Rank (Female %),12
+Italy,Male,29411239
+Italy,Female,30956232
+Italy,Population,60367471
+Italy,Rank,6
+Italy,% of Total Population,0.051087615
+Italy,Female as % of Total Population,0.512796569
+Italy,Rank (Female %),17
+Colombia,Male,25171408
+Colombia,Female,26094433
+Colombia,Population,51265841
+Colombia,Rank,7
+Colombia,% of Total Population,0.043385113
+Colombia,Female as % of Total Population,0.509002339
+Colombia,Rank (Female %),22
+Spain,Male,22979101
+Spain,Female,23766110
+Spain,Population,46745211
+Spain,Rank,8
+Spain,% of Total Population,0.039559407
+Spain,Female as % of Total Population,0.508418071
+Spain,Rank (Female %),25
+Argentina,Male,22254586
+Argentina,Female,23351237
+Argentina,Population,45605823
+Argentina,Rank,9
+Argentina,% of Total Population,0.038595169
+Argentina,Female as % of Total Population,0.512023147
+Argentina,Rank (Female %),18
+Ukraine,Male,20143824
+Ukraine,Female,23322998
+Ukraine,Population,43466822
+Ukraine,Rank,10
+Ukraine,% of Total Population,0.036784981
+Ukraine,Female as % of Total Population,0.536570122
+Ukraine,Rank (Female %),3
+Poland,Male,18312111
+Poland,Female,19484889
+Poland,Population,37797000
+Poland,Rank,11
+Poland,% of Total Population,0.03198674
+Poland,Female as % of Total Population,0.515514168
+Poland,Rank (Female %),13
+Peru,Male,16570305
+Peru,Female,16789111
+Peru,Population,33359416
+Peru,Rank,12
+Peru,% of Total Population,0.028231314
+Peru,Female as % of Total Population,0.503279524
+Peru,Rank (Female %),38
+Venezuela (Bolivarian Republic of),Male,14110308
+Venezuela (Bolivarian Republic of),Female,14594639
+Venezuela (Bolivarian Republic of),Population,28704947
+Venezuela (Bolivarian Republic of),Rank,13
+Venezuela (Bolivarian Republic of),% of Total Population,0.024292343
+Venezuela (Bolivarian Republic of),Female as % of Total Population,0.508436368
+Venezuela (Bolivarian Republic of),Rank (Female %),24
+Chile,Male,9475340
+Chile,Female,9737022
+Chile,Population,19212362
+Chile,Rank,14
+Chile,% of Total Population,0.016258984
+Chile,Female as % of Total Population,0.506810251
+Chile,Rank (Female %),27
+Romania,Male,9299182
+Romania,Female,9828590
+Romania,Population,19127772
+Romania,Rank,15
+Romania,% of Total Population,0.016187398
+Romania,Female as % of Total Population,0.513838726
+Romania,Rank (Female %),15
+Ecuador,Male,8945176
+Ecuador,Female,8943298
+Ecuador,Population,17888474
+Ecuador,Rank,16
+Ecuador,% of Total Population,0.015138608
+Ecuador,Female as % of Total Population,0.499947508
+Ecuador,Rank (Female %),42
+Netherlands,Male,8559054
+Netherlands,Female,8614040
+Netherlands,Population,17173094
+Netherlands,Rank,17
+Netherlands,% of Total Population,0.014533198
+Netherlands,Female as % of Total Population,0.501600935
+Netherlands,Rank (Female %),41
+Bolivia (Plurinational State of),Male,5936423
+Bolivia (Plurinational State of),Female,5896513
+Bolivia (Plurinational State of),Population,11832936
+Bolivia (Plurinational State of),Rank,18
+Bolivia (Plurinational State of),% of Total Population,0.010013944
+Bolivia (Plurinational State of),Female as % of Total Population,0.498313605
+Bolivia (Plurinational State of),Rank (Female %),46
+Belgium,Male,5770656
+Belgium,Female,5861678
+Belgium,Population,11632334
+Belgium,Rank,19
+Belgium,% of Total Population,0.009844179
+Belgium,Female as % of Total Population,0.503912456
+Belgium,Rank (Female %),35
+Czechia,Male,5282038
+Czechia,Female,5442515
+Czechia,Population,10724553
+Czechia,Rank,20
+Czechia,% of Total Population,0.009075945
+Czechia,Female as % of Total Population,0.507481757
+Czechia,Rank (Female %),26
+Sweden,Male,5091248
+Sweden,Female,5068911
+Sweden,Population,10160159
+Sweden,Rank,23
+Sweden,% of Total Population,0.008598311
+Sweden,Female as % of Total Population,0.498900755
+Sweden,Rank (Female %),44
+Greece,Male,5090479
+Greece,Female,5280268
+Greece,Population,10370747
+Greece,Rank,21
+Greece,% of Total Population,0.008776527
+Greece,Female as % of Total Population,0.509150209
+Greece,Rank (Female %),21
+Portugal,Male,4811936
+Portugal,Female,5355987
+Portugal,Population,10167923
+Portugal,Rank,22
+Portugal,% of Total Population,0.008604882
+Portugal,Female as % of Total Population,0.526753301
+Portugal,Rank (Female %),6
+Hungary,Male,4587565
+Hungary,Female,5046597
+Hungary,Population,9634162
+Hungary,Rank,24
+Hungary,% of Total Population,0.008153172
+Hungary,Female as % of Total Population,0.523823141
+Hungary,Rank (Female %),8
+Austria,Male,4461606
+Austria,Female,4581466
+Austria,Population,9043072
+Austria,Rank,26
+Austria,% of Total Population,0.007652946
+Austria,Female as % of Total Population,0.506627173
+Austria,Rank (Female %),29
+Belarus,Male,4397814
+Belarus,Female,5045053
+Belarus,Population,9442867
+Belarus,Rank,25
+Belarus,% of Total Population,0.007991283
+Belarus,Female as % of Total Population,0.534271318
+Belarus,Rank (Female %),5
+Switzerland,Male,4325447
+Switzerland,Female,4390047
+Switzerland,Population,8715494
+Switzerland,Rank,27
+Switzerland,% of Total Population,0.007375724
+Switzerland,Female as % of Total Population,0.503706044
+Switzerland,Rank (Female %),36
+Serbia,Male,4259473
+Serbia,Female,4438074
+Serbia,Population,8697547
+Serbia,Rank,28
+Serbia,% of Total Population,0.007360536
+Serbia,Female as % of Total Population,0.51026732
+Serbia,Rank (Female %),20
+Paraguay,Male,3667464
+Paraguay,Female,3552177
+Paraguay,Population,7219641
+Paraguay,Rank,29
+Paraguay,% of Total Population,0.006109818
+Paraguay,Female as % of Total Population,0.492015739
+Paraguay,Rank (Female %),52
+Bulgaria,Male,3348364
+Bulgaria,Female,3548291
+Bulgaria,Population,6896655
+Bulgaria,Rank,30
+Bulgaria,% of Total Population,0.005836482
+Bulgaria,Female as % of Total Population,0.51449449
+Bulgaria,Rank (Female %),14
+Denmark,Male,2889481
+Denmark,Female,2923821
+Denmark,Population,5813302
+Denmark,Rank,31
+Denmark,% of Total Population,0.004919665
+Denmark,Female as % of Total Population,0.502953571
+Denmark,Rank (Female %),39
+Norway,Male,2764160
+Norway,Female,2701469
+Norway,Population,5465629
+Norway,Rank,33
+Norway,% of Total Population,0.004625437
+Norway,Female as % of Total Population,0.494264978
+Norway,Rank (Female %),50
+Finland,Male,2737135
+Finland,Female,2811226
+Finland,Population,5548361
+Finland,Rank,32
+Finland,% of Total Population,0.004695451
+Finland,Female as % of Total Population,0.506676837
+Finland,Rank (Female %),28
+Slovakia,Male,2659297
+Slovakia,Female,2801429
+Slovakia,Population,5460726
+Slovakia,Rank,34
+Slovakia,% of Total Population,0.004621288
+Slovakia,Female as % of Total Population,0.51301402
+Slovakia,Rank (Female %),16
+Ireland,Male,2474662
+Ireland,Female,2508242
+Ireland,Population,4982904
+Ireland,Rank,35
+Ireland,% of Total Population,0.004216918
+Ireland,Female as % of Total Population,0.503369521
+Ireland,Rank (Female %),37
+Croatia,Male,1969142
+Croatia,Female,2112515
+Croatia,Population,4081657
+Croatia,Rank,36
+Croatia,% of Total Population,0.003454213
+Croatia,Female as % of Total Population,0.517563088
+Croatia,Rank (Female %),10
+Republic of Moldova,Male,1925840
+Republic of Moldova,Female,2098185
+Republic of Moldova,Population,4024025
+Republic of Moldova,Rank,37
+Republic of Moldova,% of Total Population,0.003405441
+Republic of Moldova,Female as % of Total Population,0.521414504
+Republic of Moldova,Rank (Female %),9
+Uruguay,Male,1684532
+Uruguay,Female,1800620
+Uruguay,Population,3485152
+Uruguay,Rank,38
+Uruguay,% of Total Population,0.002949405
+Uruguay,Female as % of Total Population,0.516654654
+Uruguay,Rank (Female %),11
+Bosnia and Herzegovina,Male,1597827
+Bosnia and Herzegovina,Female,1665632
+Bosnia and Herzegovina,Population,3263459
+Bosnia and Herzegovina,Rank,39
+Bosnia and Herzegovina,% of Total Population,0.002761791
+Bosnia and Herzegovina,Female as % of Total Population,0.510388517
+Bosnia and Herzegovina,Rank (Female %),19
+Albania,Male,1462011
+Albania,Female,1410923
+Albania,Population,2872934
+Albania,Rank,40
+Albania,% of Total Population,0.002431299
+Albania,Female as % of Total Population,0.491108741
+Albania,Rank (Female %),53
+Lithuania,Male,1245102
+Lithuania,Female,1444760
+Lithuania,Population,2689862
+Lithuania,Rank,41
+Lithuania,% of Total Population,0.002276369
+Lithuania,Female as % of Total Population,0.537113056
+Lithuania,Rank (Female %),2
+North Macedonia,Male,1041632
+North Macedonia,Female,1041030
+North Macedonia,Population,2082662
+North Macedonia,Rank,42
+North Macedonia,% of Total Population,0.001762509
+North Macedonia,Female as % of Total Population,0.499855473
+North Macedonia,Rank (Female %),43
+Slovenia,Male,1035489
+Slovenia,Female,1043234
+Slovenia,Population,2078723
+Slovenia,Rank,43
+Slovenia,% of Total Population,0.001759176
+Slovenia,Female as % of Total Population,0.501862923
+Slovenia,Rank (Female %),40
+Latvia,Male,861045
+Latvia,Female,1005889
+Latvia,Population,1866934
+Latvia,Rank,44
+Latvia,% of Total Population,0.001579944
+Latvia,Female as % of Total Population,0.538791944
+Latvia,Rank (Female %),1
+Estonia,Male,628885
+Estonia,Female,696303
+Estonia,Population,1325188
+Estonia,Rank,45
+Estonia,% of Total Population,0.001121476
+Estonia,Female as % of Total Population,0.525437146
+Estonia,Rank (Female %),7
+Guyana,Male,397803
+Guyana,Female,392526
+Guyana,Population,790329
+Guyana,Rank,46
+Guyana,% of Total Population,0.000668837
+Guyana,Female as % of Total Population,0.496661517
+Guyana,Rank (Female %),49
+Luxembourg,Male,321231
+Luxembourg,Female,313583
+Luxembourg,Population,634814
+Luxembourg,Rank,47
+Luxembourg,% of Total Population,0.000537229
+Luxembourg,Female as % of Total Population,0.493976188
+Luxembourg,Rank (Female %),51
+Montenegro,Male,310591
+Montenegro,Female,317460
+Montenegro,Population,628051
+Montenegro,Rank,48
+Montenegro,% of Total Population,0.000531505
+Montenegro,Female as % of Total Population,0.505468505
+Montenegro,Rank (Female %),31
+Suriname,Male,297324
+Suriname,Female,294474
+Suriname,Population,591798
+Suriname,Rank,49
+Suriname,% of Total Population,0.000500825
+Suriname,Female as % of Total Population,0.497592084
+Suriname,Rank (Female %),48
+Malta,Male,222123
+Malta,Female,220667
+Malta,Population,442790
+Malta,Rank,50
+Malta,% of Total Population,0.000374723
+Malta,Female as % of Total Population,0.49835588
+Malta,Rank (Female %),45
+Iceland,Male,172504
+Iceland,Female,170856
+Iceland,Population,343360
+Iceland,Rank,51
+Iceland,% of Total Population,0.000290578
+Iceland,Female as % of Total Population,0.497600186
+Iceland,Rank (Female %),47
+French Guiana,Male,151662
+French Guiana,Female,154788
+French Guiana,Population,306450
+French Guiana,Rank,52
+French Guiana,% of Total Population,0.000259342
+French Guiana,Female as % of Total Population,0.505100343
+French Guiana,Rank (Female %),33
+Channel Islands,Male,86785
+Channel Islands,Female,88459
+Channel Islands,Population,175244
+Channel Islands,Rank,53
+Channel Islands,% of Total Population,0.000148305
+Channel Islands,Female as % of Total Population,0.504776198
+Channel Islands,Rank (Female %),34

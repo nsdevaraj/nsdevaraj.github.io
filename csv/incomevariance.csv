@@ -1,0 +1,169 @@
+﻿Products,Group 1,Value Column Name,Value
+All,All,Revenue Act,32273000
+All,All,Rev Bdg,32634000
+All,Income,In Act,6459000
+All,Income,In Bdg,7833000
+All,EBITDA,EBITDA Act,6073000
+All,EBITDA,EBITDA Bdg,7475000
+All,All,Rev Act_Chart,32273000
+All,All,Rev Bdg_Chart,32634000
+All,All,Variance,-361000
+All,All,I Variance,-1374000
+All,All,E Variance,-1402000
+All,All,Variance %,-0.230857896
+All,All,Var %,-0.212726428
+All,All,Rel Var,-0.011185821
+Pilea,All,Revenue Act,5296000
+Pilea,All,Rev Bdg,5259000
+Pilea,Income,In Act,976000
+Pilea,Income,In Bdg,1296000
+Pilea,EBITDA,EBITDA Act,1066000
+Pilea,EBITDA,EBITDA Bdg,1441000
+Pilea,All,Rev Act_Chart,5296000
+Pilea,All,Rev Bdg_Chart,5259000
+Pilea,All,Variance,37000
+Pilea,All,I Variance,-320000
+Pilea,All,E Variance,-375000
+Pilea,All,Variance %,-0.351782364
+Pilea,All,Var %,-0.327868852
+Pilea,All,Rel Var,0.006986405
+Hedera,All,Revenue Act,5120000
+Hedera,All,Rev Bdg,4270000
+Hedera,Income,In Act,1180000
+Hedera,Income,In Bdg,1374000
+Hedera,EBITDA,EBITDA Act,1054000
+Hedera,EBITDA,EBITDA Bdg,1228000
+Hedera,All,Rev Act_Chart,5120000
+Hedera,All,Rev Bdg_Chart,4270000
+Hedera,All,Variance,850000
+Hedera,All,I Variance,-194000
+Hedera,All,E Variance,-174000
+Hedera,All,Variance %,-0.165085389
+Hedera,All,Var %,-0.16440678
+Hedera,All,Rel Var,0.166015625
+Haworthia,All,Revenue Act,4472000
+Haworthia,All,Rev Bdg,4988000
+Haworthia,Income,In Act,824000
+Haworthia,Income,In Bdg,921000
+Haworthia,EBITDA,EBITDA Act,900000
+Haworthia,EBITDA,EBITDA Bdg,1010000
+Haworthia,All,Rev Act_Chart,4472000
+Haworthia,All,Rev Bdg_Chart,4988000
+Haworthia,All,Variance,-516000
+Haworthia,All,I Variance,-97000
+Haworthia,All,E Variance,-110000
+Haworthia,All,Variance %,-0.122222222
+Haworthia,All,Var %,-0.117718447
+Haworthia,All,Rel Var,-0.115384615
+Aloe Vera,All,Revenue Act,3825000
+Aloe Vera,All,Rev Bdg,3734000
+Aloe Vera,Income,In Act,881000
+Aloe Vera,Income,In Bdg,1064000
+Aloe Vera,EBITDA,EBITDA Act,787000
+Aloe Vera,EBITDA,EBITDA Bdg,954000
+Aloe Vera,All,Rev Act_Chart,3825000
+Aloe Vera,All,Rev Bdg_Chart,3734000
+Aloe Vera,All,Variance,91000
+Aloe Vera,All,I Variance,-183000
+Aloe Vera,All,E Variance,-167000
+Aloe Vera,All,Variance %,-0.212198221
+Aloe Vera,All,Var %,-0.207718502
+Aloe Vera,All,Rel Var,0.02379085
+Ananas,All,Revenue Act,3531000
+Ananas,All,Rev Bdg,4199000
+Ananas,Income,In Act,586000
+Ananas,Income,In Bdg,728000
+Ananas,EBITDA,EBITDA Act,465000
+Ananas,EBITDA,EBITDA Bdg,600000
+Ananas,All,Rev Act_Chart,3531000
+Ananas,All,Rev Bdg_Chart,4199000
+Ananas,All,Variance,-668000
+Ananas,All,I Variance,-142000
+Ananas,All,E Variance,-135000
+Ananas,All,Variance %,-0.290322581
+Ananas,All,Var %,-0.242320819
+Ananas,All,Rel Var,-0.189181535
+Epipremnum,All,Revenue Act,3237000
+Epipremnum,All,Rev Bdg,3039000
+Epipremnum,Income,In Act,537000
+Epipremnum,Income,In Bdg,650000
+Epipremnum,EBITDA,EBITDA Act,426000
+Epipremnum,EBITDA,EBITDA Bdg,541000
+Epipremnum,All,Rev Act_Chart,3237000
+Epipremnum,All,Rev Bdg_Chart,3039000
+Epipremnum,All,Variance,198000
+Epipremnum,All,I Variance,-113000
+Epipremnum,All,E Variance,-115000
+Epipremnum,All,Variance %,-0.269953052
+Epipremnum,All,Var %,-0.210428305
+Epipremnum,All,Rel Var,0.061167748
+Mostera,All,Revenue Act,2707000
+Mostera,All,Rev Bdg,2901000
+Mostera,Income,In Act,624000
+Mostera,Income,In Bdg,753000
+Mostera,EBITDA,EBITDA Act,557000
+Mostera,EBITDA,EBITDA Bdg,675000
+Mostera,All,Rev Act_Chart,2707000
+Mostera,All,Rev Bdg_Chart,2901000
+Mostera,All,Variance,-194000
+Mostera,All,I Variance,-129000
+Mostera,All,E Variance,-118000
+Mostera,All,Variance %,-0.211849192
+Mostera,All,Var %,-0.206730769
+Mostera,All,Rel Var,-0.071666051
+Strelitzia,All,Revenue Act,1377000
+Strelitzia,All,Rev Bdg,1505000
+Strelitzia,Income,In Act,228000
+Strelitzia,Income,In Bdg,303000
+Strelitzia,EBITDA,EBITDA Act,249000
+Strelitzia,EBITDA,EBITDA Bdg,337000
+Strelitzia,All,Rev Act_Chart,1377000
+Strelitzia,All,Rev Bdg_Chart,1505000
+Strelitzia,All,Variance,-128000
+Strelitzia,All,I Variance,-75000
+Strelitzia,All,E Variance,-88000
+Strelitzia,All,Variance %,-0.353413655
+Strelitzia,All,Var %,-0.328947368
+Strelitzia,All,Rel Var,-0.092955701
+Dypsis,All,Revenue Act,1354000
+Dypsis,All,Rev Bdg,1372000
+Dypsis,Income,In Act,249000
+Dypsis,Income,In Bdg,279000
+Dypsis,EBITDA,EBITDA Act,272000
+Dypsis,EBITDA,EBITDA Bdg,306000
+Dypsis,All,Rev Act_Chart,1354000
+Dypsis,All,Rev Bdg_Chart,1372000
+Dypsis,All,Variance,-18000
+Dypsis,All,I Variance,-30000
+Dypsis,All,E Variance,-34000
+Dypsis,All,Variance %,-0.125
+Dypsis,All,Var %,-0.120481928
+Dypsis,All,Rel Var,-0.013293944
+Sanseviera,All,Revenue Act,883000
+Sanseviera,All,Rev Bdg,807000
+Sanseviera,Income,In Act,244000
+Sanseviera,Income,In Bdg,303000
+Sanseviera,EBITDA,EBITDA Act,194000
+Sanseviera,EBITDA,EBITDA Bdg,250000
+Sanseviera,All,Rev Act_Chart,883000
+Sanseviera,All,Rev Bdg_Chart,807000
+Sanseviera,All,Variance,76000
+Sanseviera,All,I Variance,-59000
+Sanseviera,All,E Variance,-56000
+Sanseviera,All,Variance %,-0.288659794
+Sanseviera,All,Var %,-0.241803279
+Sanseviera,All,Rel Var,0.086070215
+Pachitra,All,Revenue Act,471000
+Pachitra,All,Rev Bdg,560000
+Pachitra,Income,In Act,130000
+Pachitra,Income,In Bdg,162000
+Pachitra,EBITDA,EBITDA Act,103000
+Pachitra,EBITDA,EBITDA Bdg,133000
+Pachitra,All,Rev Act_Chart,471000
+Pachitra,All,Rev Bdg_Chart,560000
+Pachitra,All,Variance,-89000
+Pachitra,All,I Variance,-32000
+Pachitra,All,E Variance,-30000
+Pachitra,All,Variance %,-0.291262136
+Pachitra,All,Var %,-0.246153846
+Pachitra,All,Rel Var,-0.18895966

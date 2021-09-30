@@ -1,0 +1,441 @@
+﻿Client,Month&Year,Value Column Name,Value
+All,All,Current Spend,1020522083
+All,All,Expected Spend,913234490
+All,Apr'20,Current Spend,52391669
+All,Apr'20,Expected Spend,45930380
+All,Apr'21,Current Spend,58330879
+All,Apr'21,Expected Spend,37646680
+All,Aug'20,Current Spend,35029784
+All,Aug'20,Expected Spend,36794580
+All,Aug'21,Current Spend,53538426
+All,Aug'21,Expected Spend,47053590
+All,Dec'20,Current Spend,50912177
+All,Dec'20,Expected Spend,43189590
+All,Feb'20,Current Spend,53421400
+All,Feb'20,Expected Spend,49106620
+All,Feb'21,Current Spend,42694843
+All,Feb'21,Expected Spend,44905000
+All,Jan'20,Current Spend,43524677
+All,Jan'20,Expected Spend,35673870
+All,Jan'21,Current Spend,52457102
+All,Jan'21,Expected Spend,48124060
+All,July'20,Current Spend,47661170
+All,July'20,Expected Spend,48281650
+All,July'21,Current Spend,48001675
+All,July'21,Expected Spend,38209650
+All,June'20,Current Spend,50476600
+All,June'20,Expected Spend,34066800
+All,June'21,Current Spend,46787254
+All,June'21,Expected Spend,54012070
+All,Mar'20,Current Spend,52259895
+All,Mar'20,Expected Spend,44210950
+All,Mar'21,Current Spend,47410708
+All,Mar'21,Expected Spend,47247230
+All,May'20,Current Spend,48293745
+All,May'20,Expected Spend,37562560
+All,May'21,Current Spend,47313432
+All,May'21,Expected Spend,47243630
+All,Nov'20,Current Spend,48986761
+All,Nov'20,Expected Spend,48355570
+All,Oct'20,Current Spend,38382762
+All,Oct'20,Expected Spend,47894300
+All,Sep'20,Current Spend,46806909
+All,Sep'20,Expected Spend,44481330
+All,Sep'21,Current Spend,55840215
+All,Sep'21,Expected Spend,33244380
+Yakimm Co.,All,Current Spend,120130631
+Yakimm Co.,All,Expected Spend,114166660
+Yakimm Co.,Apr'20,Current Spend,7482536
+Yakimm Co.,Apr'20,Expected Spend,6924220
+Yakimm Co.,Apr'21,Current Spend,6980043
+Yakimm Co.,Apr'21,Expected Spend,7620540
+Yakimm Co.,Aug'20,Current Spend,3449401
+Yakimm Co.,Aug'20,Expected Spend,5925860
+Yakimm Co.,Aug'21,Current Spend,5454404
+Yakimm Co.,Aug'21,Expected Spend,3715400
+Yakimm Co.,Dec'20,Current Spend,6704005
+Yakimm Co.,Dec'20,Expected Spend,5952550
+Yakimm Co.,Feb'20,Current Spend,6064113
+Yakimm Co.,Feb'20,Expected Spend,4793730
+Yakimm Co.,Feb'21,Current Spend,7238602
+Yakimm Co.,Feb'21,Expected Spend,7623110
+Yakimm Co.,Jan'20,Current Spend,2443288
+Yakimm Co.,Jan'20,Expected Spend,5638170
+Yakimm Co.,Jan'21,Current Spend,6699002
+Yakimm Co.,Jan'21,Expected Spend,6695990
+Yakimm Co.,July'20,Current Spend,7022813
+Yakimm Co.,July'20,Expected Spend,8143410
+Yakimm Co.,July'21,Current Spend,5431712
+Yakimm Co.,July'21,Expected Spend,3804730
+Yakimm Co.,June'20,Current Spend,4508237
+Yakimm Co.,June'20,Expected Spend,7118140
+Yakimm Co.,June'21,Current Spend,6328786
+Yakimm Co.,June'21,Expected Spend,4073260
+Yakimm Co.,Mar'20,Current Spend,7692430
+Yakimm Co.,Mar'20,Expected Spend,2234640
+Yakimm Co.,Mar'21,Current Spend,3509404
+Yakimm Co.,Mar'21,Expected Spend,3124990
+Yakimm Co.,May'20,Current Spend,2863326
+Yakimm Co.,May'20,Expected Spend,2647190
+Yakimm Co.,May'21,Current Spend,5713985
+Yakimm Co.,May'21,Expected Spend,6822510
+Yakimm Co.,Nov'20,Current Spend,7913207
+Yakimm Co.,Nov'20,Expected Spend,5613970
+Yakimm Co.,Oct'20,Current Spend,5269739
+Yakimm Co.,Oct'20,Expected Spend,7599810
+Yakimm Co.,Sep'20,Current Spend,7477020
+Yakimm Co.,Sep'20,Expected Spend,4164240
+Yakimm Co.,Sep'21,Current Spend,3884578
+Yakimm Co.,Sep'21,Expected Spend,3930200
+Chatfish Company,All,Current Spend,119038972
+Chatfish Company,All,Expected Spend,99570950
+Chatfish Company,Apr'20,Current Spend,7346493
+Chatfish Company,Apr'20,Expected Spend,6221530
+Chatfish Company,Apr'21,Current Spend,8675521
+Chatfish Company,Apr'21,Expected Spend,5984130
+Chatfish Company,Aug'20,Current Spend,4331185
+Chatfish Company,Aug'20,Expected Spend,4632610
+Chatfish Company,Aug'21,Current Spend,4526248
+Chatfish Company,Aug'21,Expected Spend,7103960
+Chatfish Company,Dec'20,Current Spend,8247282
+Chatfish Company,Dec'20,Expected Spend,2643400
+Chatfish Company,Feb'20,Current Spend,7180988
+Chatfish Company,Feb'20,Expected Spend,7936790
+Chatfish Company,Feb'21,Current Spend,5158313
+Chatfish Company,Feb'21,Expected Spend,6242010
+Chatfish Company,Jan'20,Current Spend,7578313
+Chatfish Company,Jan'20,Expected Spend,2451050
+Chatfish Company,Jan'21,Current Spend,7568510
+Chatfish Company,Jan'21,Expected Spend,3452640
+Chatfish Company,July'20,Current Spend,7923134
+Chatfish Company,July'20,Expected Spend,3647590
+Chatfish Company,July'21,Current Spend,3438407
+Chatfish Company,July'21,Expected Spend,5122440
+Chatfish Company,June'20,Current Spend,7721001
+Chatfish Company,June'20,Expected Spend,2021110
+Chatfish Company,June'21,Current Spend,7222893
+Chatfish Company,June'21,Expected Spend,3229290
+Chatfish Company,Mar'20,Current Spend,3957956
+Chatfish Company,Mar'20,Expected Spend,3292170
+Chatfish Company,Mar'21,Current Spend,3446292
+Chatfish Company,Mar'21,Expected Spend,6091430
+Chatfish Company,May'20,Current Spend,3622445
+Chatfish Company,May'20,Expected Spend,3293570
+Chatfish Company,May'21,Current Spend,3668449
+Chatfish Company,May'21,Expected Spend,4701310
+Chatfish Company,Nov'20,Current Spend,6980940
+Chatfish Company,Nov'20,Expected Spend,6848600
+Chatfish Company,Oct'20,Current Spend,2333394
+Chatfish Company,Oct'20,Expected Spend,2240500
+Chatfish Company,Sep'20,Current Spend,2578823
+Chatfish Company,Sep'20,Expected Spend,6563940
+Chatfish Company,Sep'21,Current Spend,5532385
+Chatfish Company,Sep'21,Expected Spend,5850880
+Zoozio Corporation,All,Current Spend,117767457
+Zoozio Corporation,All,Expected Spend,103845220
+Zoozio Corporation,Apr'20,Current Spend,2923631
+Zoozio Corporation,Apr'20,Expected Spend,4988660
+Zoozio Corporation,Apr'21,Current Spend,7633128
+Zoozio Corporation,Apr'21,Expected Spend,8110190
+Zoozio Corporation,Aug'20,Current Spend,2555903
+Zoozio Corporation,Aug'20,Expected Spend,6042320
+Zoozio Corporation,Aug'21,Current Spend,8434660
+Zoozio Corporation,Aug'21,Expected Spend,5253490
+Zoozio Corporation,Dec'20,Current Spend,7851242
+Zoozio Corporation,Dec'20,Expected Spend,3135270
+Zoozio Corporation,Feb'20,Current Spend,7123644
+Zoozio Corporation,Feb'20,Expected Spend,6747830
+Zoozio Corporation,Feb'21,Current Spend,7046855
+Zoozio Corporation,Feb'21,Expected Spend,2005040
+Zoozio Corporation,Jan'20,Current Spend,5479599
+Zoozio Corporation,Jan'20,Expected Spend,4225370
+Zoozio Corporation,Jan'21,Current Spend,8319376
+Zoozio Corporation,Jan'21,Expected Spend,4422400
+Zoozio Corporation,July'20,Current Spend,4210413
+Zoozio Corporation,July'20,Expected Spend,7220230
+Zoozio Corporation,July'21,Current Spend,5021704
+Zoozio Corporation,July'21,Expected Spend,4242910
+Zoozio Corporation,June'20,Current Spend,8122110
+Zoozio Corporation,June'20,Expected Spend,4037300
+Zoozio Corporation,June'21,Current Spend,4640154
+Zoozio Corporation,June'21,Expected Spend,6434480
+Zoozio Corporation,Mar'20,Current Spend,8336866
+Zoozio Corporation,Mar'20,Expected Spend,5541260
+Zoozio Corporation,Mar'21,Current Spend,6603344
+Zoozio Corporation,Mar'21,Expected Spend,2291530
+Zoozio Corporation,May'20,Current Spend,4284091
+Zoozio Corporation,May'20,Expected Spend,2266040
+Zoozio Corporation,May'21,Current Spend,2683477
+Zoozio Corporation,May'21,Expected Spend,7401090
+Zoozio Corporation,Nov'20,Current Spend,4976132
+Zoozio Corporation,Nov'20,Expected Spend,7523250
+Zoozio Corporation,Oct'20,Current Spend,2449572
+Zoozio Corporation,Oct'20,Expected Spend,7583620
+Zoozio Corporation,Sep'20,Current Spend,2704204
+Zoozio Corporation,Sep'20,Expected Spend,1269890
+Zoozio Corporation,Sep'21,Current Spend,6367352
+Zoozio Corporation,Sep'21,Expected Spend,3103050
+Genti LLC,All,Current Spend,117179101
+Genti LLC,All,Expected Spend,88570120
+Genti LLC,Apr'20,Current Spend,8468418
+Genti LLC,Apr'20,Expected Spend,1356840
+Genti LLC,Apr'21,Current Spend,6362620
+Genti LLC,Apr'21,Expected Spend,2320060
+Genti LLC,Aug'20,Current Spend,3623106
+Genti LLC,Aug'20,Expected Spend,2268870
+Genti LLC,Aug'21,Current Spend,7937181
+Genti LLC,Aug'21,Expected Spend,5352360
+Genti LLC,Dec'20,Current Spend,5518826
+Genti LLC,Dec'20,Expected Spend,5565810
+Genti LLC,Feb'20,Current Spend,7216015
+Genti LLC,Feb'20,Expected Spend,5218310
+Genti LLC,Feb'21,Current Spend,8722322
+Genti LLC,Feb'21,Expected Spend,6307530
+Genti LLC,Jan'20,Current Spend,4924648
+Genti LLC,Jan'20,Expected Spend,2899730
+Genti LLC,Jan'21,Current Spend,5312012
+Genti LLC,Jan'21,Expected Spend,3659680
+Genti LLC,July'20,Current Spend,3131741
+Genti LLC,July'20,Expected Spend,1598000
+Genti LLC,July'21,Current Spend,7362072
+Genti LLC,July'21,Expected Spend,5645090
+Genti LLC,June'20,Current Spend,3297141
+Genti LLC,June'20,Expected Spend,3374930
+Genti LLC,June'21,Current Spend,3088947
+Genti LLC,June'21,Expected Spend,8167880
+Genti LLC,Mar'20,Current Spend,6274109
+Genti LLC,Mar'20,Expected Spend,1377890
+Genti LLC,Mar'21,Current Spend,4308492
+Genti LLC,Mar'21,Expected Spend,6273340
+Genti LLC,May'20,Current Spend,7442324
+Genti LLC,May'20,Expected Spend,5122820
+Genti LLC,May'21,Current Spend,4851359
+Genti LLC,May'21,Expected Spend,6434150
+Genti LLC,Nov'20,Current Spend,4777458
+Genti LLC,Nov'20,Expected Spend,2847540
+Genti LLC,Oct'20,Current Spend,3007494
+Genti LLC,Oct'20,Expected Spend,2364820
+Genti LLC,Sep'20,Current Spend,5869107
+Genti LLC,Sep'20,Expected Spend,6462240
+Genti LLC,Sep'21,Current Spend,5683709
+Genti LLC,Sep'21,Expected Spend,3952230
+Vizio Company,All,Current Spend,114186416
+Vizio Company,All,Expected Spend,101257960
+Vizio Company,Apr'20,Current Spend,2735074
+Vizio Company,Apr'20,Expected Spend,8344150
+Vizio Company,Apr'21,Current Spend,5012002
+Vizio Company,Apr'21,Expected Spend,1452750
+Vizio Company,Aug'20,Current Spend,3111815
+Vizio Company,Aug'20,Expected Spend,1597510
+Vizio Company,Aug'21,Current Spend,8202223
+Vizio Company,Aug'21,Expected Spend,7325430
+Vizio Company,Dec'20,Current Spend,3793401
+Vizio Company,Dec'20,Expected Spend,6165440
+Vizio Company,Feb'20,Current Spend,8255415
+Vizio Company,Feb'20,Expected Spend,1735780
+Vizio Company,Feb'21,Current Spend,2770296
+Vizio Company,Feb'21,Expected Spend,7564690
+Vizio Company,Jan'20,Current Spend,6211365
+Vizio Company,Jan'20,Expected Spend,3551900
+Vizio Company,Jan'21,Current Spend,6505957
+Vizio Company,Jan'21,Expected Spend,8080220
+Vizio Company,July'20,Current Spend,3965918
+Vizio Company,July'20,Expected Spend,3551940
+Vizio Company,July'21,Current Spend,7141829
+Vizio Company,July'21,Expected Spend,1327380
+Vizio Company,June'20,Current Spend,6795453
+Vizio Company,June'20,Expected Spend,4074930
+Vizio Company,June'21,Current Spend,3639442
+Vizio Company,June'21,Expected Spend,7603110
+Vizio Company,Mar'20,Current Spend,5379505
+Vizio Company,Mar'20,Expected Spend,8040200
+Vizio Company,Mar'21,Current Spend,7488200
+Vizio Company,Mar'21,Expected Spend,6800180
+Vizio Company,May'20,Current Spend,5164094
+Vizio Company,May'20,Expected Spend,3986800
+Vizio Company,May'21,Current Spend,4449937
+Vizio Company,May'21,Expected Spend,4504950
+Vizio Company,Nov'20,Current Spend,4283974
+Vizio Company,Nov'20,Expected Spend,6004400
+Vizio Company,Oct'20,Current Spend,5003674
+Vizio Company,Oct'20,Expected Spend,1450450
+Vizio Company,Sep'20,Current Spend,6274367
+Vizio Company,Sep'20,Expected Spend,5705290
+Vizio Company,Sep'21,Current Spend,8002475
+Vizio Company,Sep'21,Expected Spend,2390460
+Devbuzz Incorporated,All,Current Spend,113935071
+Devbuzz Incorporated,All,Expected Spend,101290060
+Devbuzz Incorporated,Apr'20,Current Spend,7963228
+Devbuzz Incorporated,Apr'20,Expected Spend,5663140
+Devbuzz Incorporated,Apr'21,Current Spend,7985231
+Devbuzz Incorporated,Apr'21,Expected Spend,1913800
+Devbuzz Incorporated,Aug'20,Current Spend,3348842
+Devbuzz Incorporated,Aug'20,Expected Spend,2762340
+Devbuzz Incorporated,Aug'21,Current Spend,6176400
+Devbuzz Incorporated,Aug'21,Expected Spend,6064690
+Devbuzz Incorporated,Dec'20,Current Spend,5503579
+Devbuzz Incorporated,Dec'20,Expected Spend,7823280
+Devbuzz Incorporated,Feb'20,Current Spend,5846151
+Devbuzz Incorporated,Feb'20,Expected Spend,7142590
+Devbuzz Incorporated,Feb'21,Current Spend,2766829
+Devbuzz Incorporated,Feb'21,Expected Spend,4759840
+Devbuzz Incorporated,Jan'20,Current Spend,2909734
+Devbuzz Incorporated,Jan'20,Expected Spend,4513750
+Devbuzz Incorporated,Jan'21,Current Spend,2647880
+Devbuzz Incorporated,Jan'21,Expected Spend,2669100
+Devbuzz Incorporated,July'20,Current Spend,4361855
+Devbuzz Incorporated,July'20,Expected Spend,7435120
+Devbuzz Incorporated,July'21,Current Spend,5743060
+Devbuzz Incorporated,July'21,Expected Spend,2236590
+Devbuzz Incorporated,June'20,Current Spend,6024879
+Devbuzz Incorporated,June'20,Expected Spend,1277420
+Devbuzz Incorporated,June'21,Current Spend,4339021
+Devbuzz Incorporated,June'21,Expected Spend,6394560
+Devbuzz Incorporated,Mar'20,Current Spend,7598982
+Devbuzz Incorporated,Mar'20,Expected Spend,5488420
+Devbuzz Incorporated,Mar'21,Current Spend,4233964
+Devbuzz Incorporated,Mar'21,Expected Spend,8093000
+Devbuzz Incorporated,May'20,Current Spend,5052893
+Devbuzz Incorporated,May'20,Expected Spend,2812050
+Devbuzz Incorporated,May'21,Current Spend,8321435
+Devbuzz Incorporated,May'21,Expected Spend,3625550
+Devbuzz Incorporated,Nov'20,Current Spend,7106713
+Devbuzz Incorporated,Nov'20,Expected Spend,6790730
+Devbuzz Incorporated,Oct'20,Current Spend,2879040
+Devbuzz Incorporated,Oct'20,Expected Spend,7037100
+Devbuzz Incorporated,Sep'20,Current Spend,7007791
+Devbuzz Incorporated,Sep'20,Expected Spend,3940760
+Devbuzz Incorporated,Sep'21,Current Spend,6117564
+Devbuzz Incorporated,Sep'21,Expected Spend,2846230
+Linkdrive Company,All,Current Spend,110923270
+Linkdrive Company,All,Expected Spend,99139880
+Linkdrive Company,Apr'20,Current Spend,6118285
+Linkdrive Company,Apr'20,Expected Spend,4163770
+Linkdrive Company,Apr'21,Current Spend,7907627
+Linkdrive Company,Apr'21,Expected Spend,2627750
+Linkdrive Company,Aug'20,Current Spend,6399842
+Linkdrive Company,Aug'20,Expected Spend,3500440
+Linkdrive Company,Aug'21,Current Spend,3340475
+Linkdrive Company,Aug'21,Expected Spend,2823490
+Linkdrive Company,Dec'20,Current Spend,2725856
+Linkdrive Company,Dec'20,Expected Spend,3274630
+Linkdrive Company,Feb'20,Current Spend,2447814
+Linkdrive Company,Feb'20,Expected Spend,6306800
+Linkdrive Company,Feb'21,Current Spend,2907278
+Linkdrive Company,Feb'21,Expected Spend,6122820
+Linkdrive Company,Jan'20,Current Spend,2735993
+Linkdrive Company,Jan'20,Expected Spend,6306990
+Linkdrive Company,Jan'21,Current Spend,4222359
+Linkdrive Company,Jan'21,Expected Spend,3318140
+Linkdrive Company,July'20,Current Spend,5268019
+Linkdrive Company,July'20,Expected Spend,4695160
+Linkdrive Company,July'21,Current Spend,6921936
+Linkdrive Company,July'21,Expected Spend,7392710
+Linkdrive Company,June'20,Current Spend,3424569
+Linkdrive Company,June'20,Expected Spend,2531570
+Linkdrive Company,June'21,Current Spend,7758113
+Linkdrive Company,June'21,Expected Spend,4762510
+Linkdrive Company,Mar'20,Current Spend,6356719
+Linkdrive Company,Mar'20,Expected Spend,7055270
+Linkdrive Company,Mar'21,Current Spend,7560713
+Linkdrive Company,Mar'21,Expected Spend,4160400
+Linkdrive Company,May'20,Current Spend,5149772
+Linkdrive Company,May'20,Expected Spend,8173500
+Linkdrive Company,May'21,Current Spend,4597845
+Linkdrive Company,May'21,Expected Spend,2232750
+Linkdrive Company,Nov'20,Current Spend,3833801
+Linkdrive Company,Nov'20,Expected Spend,6446290
+Linkdrive Company,Oct'20,Current Spend,4784353
+Linkdrive Company,Oct'20,Expected Spend,6953050
+Linkdrive Company,Sep'20,Current Spend,8589673
+Linkdrive Company,Sep'20,Expected Spend,4928240
+Linkdrive Company,Sep'21,Current Spend,7872228
+Linkdrive Company,Sep'21,Expected Spend,1363600
+Ozio Incorporated,All,Current Spend,104932883
+Ozio Incorporated,All,Expected Spend,98381810
+Ozio Incorporated,Apr'20,Current Spend,4771066
+Ozio Incorporated,Apr'20,Expected Spend,1906450
+Ozio Incorporated,Apr'21,Current Spend,2777586
+Ozio Incorporated,Apr'21,Expected Spend,4934930
+Ozio Incorporated,Aug'20,Current Spend,3811912
+Ozio Incorporated,Aug'20,Expected Spend,2447000
+Ozio Incorporated,Aug'21,Current Spend,6805781
+Ozio Incorporated,Aug'21,Expected Spend,7915320
+Ozio Incorporated,Dec'20,Current Spend,6609525
+Ozio Incorporated,Dec'20,Expected Spend,6003480
+Ozio Incorporated,Feb'20,Current Spend,4268790
+Ozio Incorporated,Feb'20,Expected Spend,2858070
+Ozio Incorporated,Feb'21,Current Spend,2585810
+Ozio Incorporated,Feb'21,Expected Spend,1955110
+Ozio Incorporated,Jan'20,Current Spend,8511627
+Ozio Incorporated,Jan'20,Expected Spend,1935880
+Ozio Incorporated,Jan'21,Current Spend,4535314
+Ozio Incorporated,Jan'21,Expected Spend,8293080
+Ozio Incorporated,July'20,Current Spend,5943531
+Ozio Incorporated,July'20,Expected Spend,7140870
+Ozio Incorporated,July'21,Current Spend,3190511
+Ozio Incorporated,July'21,Expected Spend,4808910
+Ozio Incorporated,June'20,Current Spend,3063956
+Ozio Incorporated,June'20,Expected Spend,2824510
+Ozio Incorporated,June'21,Current Spend,3535740
+Ozio Incorporated,June'21,Expected Spend,6874900
+Ozio Incorporated,Mar'20,Current Spend,4043939
+Ozio Incorporated,Mar'20,Expected Spend,6163760
+Ozio Incorporated,Mar'21,Current Spend,7250294
+Ozio Incorporated,Mar'21,Expected Spend,6441470
+Ozio Incorporated,May'20,Current Spend,7823980
+Ozio Incorporated,May'20,Expected Spend,4542580
+Ozio Incorporated,May'21,Current Spend,8125502
+Ozio Incorporated,May'21,Expected Spend,7052290
+Ozio Incorporated,Nov'20,Current Spend,2591713
+Ozio Incorporated,Nov'20,Expected Spend,1853990
+Ozio Incorporated,Oct'20,Current Spend,4912453
+Ozio Incorporated,Oct'20,Expected Spend,4994440
+Ozio Incorporated,Sep'20,Current Spend,2369289
+Ozio Incorporated,Sep'20,Expected Spend,3741120
+Ozio Incorporated,Sep'21,Current Spend,7404564
+Ozio Incorporated,Sep'21,Expected Spend,3693650
+Aimbo Co.,All,Current Spend,102428282
+Aimbo Co.,All,Expected Spend,107011830
+Aimbo Co.,Apr'20,Current Spend,4582938
+Aimbo Co.,Apr'20,Expected Spend,6361620
+Aimbo Co.,Apr'21,Current Spend,4997121
+Aimbo Co.,Apr'21,Expected Spend,2682530
+Aimbo Co.,Aug'20,Current Spend,4397778
+Aimbo Co.,Aug'20,Expected Spend,7617630
+Aimbo Co.,Aug'21,Current Spend,2661054
+Aimbo Co.,Aug'21,Expected Spend,1499450
+Aimbo Co.,Dec'20,Current Spend,3958461
+Aimbo Co.,Dec'20,Expected Spend,2625730
+Aimbo Co.,Feb'20,Current Spend,5018470
+Aimbo Co.,Feb'20,Expected Spend,6366720
+Aimbo Co.,Feb'21,Current Spend,3498538
+Aimbo Co.,Feb'21,Expected Spend,2324850
+Aimbo Co.,Jan'20,Current Spend,2730110
+Aimbo Co.,Jan'20,Expected Spend,4151030
+Aimbo Co.,Jan'21,Current Spend,6646692
+Aimbo Co.,Jan'21,Expected Spend,7532810
+Aimbo Co.,July'20,Current Spend,5833746
+Aimbo Co.,July'20,Expected Spend,4849330
+Aimbo Co.,July'21,Current Spend,3750444
+Aimbo Co.,July'21,Expected Spend,3628890
+Aimbo Co.,June'20,Current Spend,7519254
+Aimbo Co.,June'20,Expected Spend,6806890
+Aimbo Co.,June'21,Current Spend,6234158
+Aimbo Co.,June'21,Expected Spend,6472080
+Aimbo Co.,Mar'20,Current Spend,2619389
+Aimbo Co.,Mar'20,Expected Spend,5017340
+Aimbo Co.,Mar'21,Current Spend,3010005
+Aimbo Co.,Mar'21,Expected Spend,3970890
+Aimbo Co.,May'20,Current Spend,6890820
+Aimbo Co.,May'20,Expected Spend,4718010
+Aimbo Co.,May'21,Current Spend,4901443
+Aimbo Co.,May'21,Expected Spend,4469030
+Aimbo Co.,Nov'20,Current Spend,6522823
+Aimbo Co.,Nov'20,Expected Spend,4426800
+Aimbo Co.,Oct'20,Current Spend,7743043
+Aimbo Co.,Oct'20,Expected Spend,7670510
+Aimbo Co.,Sep'20,Current Spend,3936635
+Aimbo Co.,Sep'20,Expected Spend,7705610
+Aimbo Co.,Sep'21,Current Spend,4975360
+Aimbo Co.,Sep'21,Expected Spend,6114080

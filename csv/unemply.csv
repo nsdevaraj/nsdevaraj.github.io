@@ -1,0 +1,1553 @@
+﻿GEO (Labels),Level ,Value Column Name,Value
+All,All Levels,Unemployment,3037.1
+All,Levels 0-2,Unemployment,4606.3
+All,Levels 3 - 4,Unemployment,3071.3
+All,Levels 5 - 8,Unemployment,1951.6
+"Mardin, Batman, Sirnak, Siirt",All Levels,Unemployment,33.4
+"Mardin, Batman, Sirnak, Siirt",Levels 0-2,Unemployment,34.2
+"Mardin, Batman, Sirnak, Siirt",Levels 3 - 4,Unemployment,34.9
+"Mardin, Batman, Sirnak, Siirt",Levels 5 - 8,Unemployment,29.9
+"Van, Mus, Bitlis, Hakkari",All Levels,Unemployment,23.6
+"Van, Mus, Bitlis, Hakkari",Levels 0-2,Unemployment,22.6
+"Van, Mus, Bitlis, Hakkari",Levels 3 - 4,Unemployment,29.9
+"Van, Mus, Bitlis, Hakkari",Levels 5 - 8,Unemployment,22.1
+Ciudad de Melilla,All Levels,Unemployment,23.7
+Ciudad de Melilla,Levels 0-2,Unemployment,42.8
+Ciudad de Melilla,Levels 3 - 4,Unemployment,21.3
+Ciudad de Melilla,Levels 5 - 8,Unemployment,7.3
+Canarias,All Levels,Unemployment,22.6
+Canarias,Levels 0-2,Unemployment,29.1
+Canarias,Levels 3 - 4,Unemployment,21.1
+Canarias,Levels 5 - 8,Unemployment,17.9
+Ciudad de Ceuta,All Levels,Unemployment,24.5
+Ciudad de Ceuta,Levels 0-2,Unemployment,36.4
+Ciudad de Ceuta,Levels 3 - 4,Unemployment,19.4
+Ciudad de Ceuta,Levels 5 - 8,Unemployment,10.1
+Andalucía,All Levels,Unemployment,22.3
+Andalucía,Levels 0-2,Unemployment,29.1
+Andalucía,Levels 3 - 4,Unemployment,22
+Andalucía,Levels 5 - 8,Unemployment,14.6
+Mayotte,All Levels,Unemployment,27.8
+Mayotte,Levels 0-2,Unemployment,39.4
+Mayotte,Levels 3 - 4,Unemployment,19.9
+Mayotte,Levels 5 - 8,Unemployment,
+Dytiki Ellada,All Levels,Unemployment,21.6
+Dytiki Ellada,Levels 0-2,Unemployment,19.8
+Dytiki Ellada,Levels 3 - 4,Unemployment,24.4
+Dytiki Ellada,Levels 5 - 8,Unemployment,19.1
+Extremadura,All Levels,Unemployment,21.8
+Extremadura,Levels 0-2,Unemployment,27.3
+Extremadura,Levels 3 - 4,Unemployment,22.6
+Extremadura,Levels 5 - 8,Unemployment,12.8
+Sur (ES),All Levels,Unemployment,21.4
+Sur (ES),Levels 0-2,Unemployment,27.7
+Sur (ES),Levels 3 - 4,Unemployment,21.4
+Sur (ES),Levels 5 - 8,Unemployment,14
+Güneydogu Anadolu,All Levels,Unemployment,20.6
+Güneydogu Anadolu,Levels 0-2,Unemployment,20.8
+Güneydogu Anadolu,Levels 3 - 4,Unemployment,22.6
+Güneydogu Anadolu,Levels 5 - 8,Unemployment,18.5
+"Sanliurfa, Diyarbakir",All Levels,Unemployment,20
+"Sanliurfa, Diyarbakir",Levels 0-2,Unemployment,20.5
+"Sanliurfa, Diyarbakir",Levels 3 - 4,Unemployment,22.5
+"Sanliurfa, Diyarbakir",Levels 5 - 8,Unemployment,16.1
+Calabria,All Levels,Unemployment,20.1
+Calabria,Levels 0-2,Unemployment,25.8
+Calabria,Levels 3 - 4,Unemployment,18.9
+Calabria,Levels 5 - 8,Unemployment,13.1
+Sterea Ellada,All Levels,Unemployment,19.3
+Sterea Ellada,Levels 0-2,Unemployment,16.4
+Sterea Ellada,Levels 3 - 4,Unemployment,19.8
+Sterea Ellada,Levels 5 - 8,Unemployment,20.8
+Dytiki Makedonia,All Levels,Unemployment,19.7
+Dytiki Makedonia,Levels 0-2,Unemployment,16
+Dytiki Makedonia,Levels 3 - 4,Unemployment,23.1
+Dytiki Makedonia,Levels 5 - 8,Unemployment,16.4
+Kentriki Makedonia,All Levels,Unemployment,18.4
+Kentriki Makedonia,Levels 0-2,Unemployment,21.8
+Kentriki Makedonia,Levels 3 - 4,Unemployment,21.4
+Kentriki Makedonia,Levels 5 - 8,Unemployment,12.9
+Východné Slovensko,All Levels,Unemployment,10.6
+Východné Slovensko,Levels 0-2,Unemployment,49.3
+Východné Slovensko,Levels 3 - 4,Unemployment,9.2
+Východné Slovensko,Levels 5 - 8,Unemployment,4.5
+Voreia Ellada,All Levels,Unemployment,18.2
+Voreia Ellada,Levels 0-2,Unemployment,19.5
+Voreia Ellada,Levels 3 - 4,Unemployment,21.1
+Voreia Ellada,Levels 5 - 8,Unemployment,13.5
+Ortadogu Anadolu,All Levels,Unemployment,17.4
+Ortadogu Anadolu,Levels 0-2,Unemployment,17.3
+Ortadogu Anadolu,Levels 3 - 4,Unemployment,20.2
+Ortadogu Anadolu,Levels 5 - 8,Unemployment,15.3
+Castilla-la Mancha,All Levels,Unemployment,17.7
+Castilla-la Mancha,Levels 0-2,Unemployment,22.3
+Castilla-la Mancha,Levels 3 - 4,Unemployment,17.9
+Castilla-la Mancha,Levels 5 - 8,Unemployment,11.6
+Ipeiros,All Levels,Unemployment,17.9
+Ipeiros,Levels 0-2,Unemployment,17
+Ipeiros,Levels 3 - 4,Unemployment,23.6
+Ipeiros,Levels 5 - 8,Unemployment,10.8
+Guadeloupe,All Levels,Unemployment,17.5
+Guadeloupe,Levels 0-2,Unemployment,24.7
+Guadeloupe,Levels 3 - 4,Unemployment,17.1
+Guadeloupe,Levels 5 - 8,Unemployment,9.9
+Campania,All Levels,Unemployment,18
+Campania,Levels 0-2,Unemployment,24.4
+Campania,Levels 3 - 4,Unemployment,16.4
+Campania,Levels 5 - 8,Unemployment,9.9
+Izmir,All Levels,Unemployment,17.1
+Izmir,Levels 0-2,Unemployment,17.2
+Izmir,Levels 3 - 4,Unemployment,19
+Izmir,Levels 5 - 8,Unemployment,15.4
+Notio Aigaio,All Levels,Unemployment,16.7
+Notio Aigaio,Levels 0-2,Unemployment,22.1
+Notio Aigaio,Levels 3 - 4,Unemployment,15.1
+Notio Aigaio,Levels 5 - 8,Unemployment,14.8
+"Anatoliki Makedonia, Thraki",All Levels,Unemployment,17.2
+"Anatoliki Makedonia, Thraki",Levels 0-2,Unemployment,17.3
+"Anatoliki Makedonia, Thraki",Levels 3 - 4,Unemployment,17.7
+"Anatoliki Makedonia, Thraki",Levels 5 - 8,Unemployment,16.3
+Kentriki Ellada,All Levels,Unemployment,17.3
+Kentriki Ellada,Levels 0-2,Unemployment,16.5
+Kentriki Ellada,Levels 3 - 4,Unemployment,18.9
+Kentriki Ellada,Levels 5 - 8,Unemployment,15.3
+La Réunion,All Levels,Unemployment,17.4
+La Réunion,Levels 0-2,Unemployment,21.9
+La Réunion,Levels 3 - 4,Unemployment,20.7
+La Réunion,Levels 5 - 8,Unemployment,8
+RUP FR - Régions ultrapériphériques françaises,All Levels,Unemployment,17.3
+RUP FR - Régions ultrapériphériques françaises,Levels 0-2,Unemployment,24.4
+RUP FR - Régions ultrapériphériques françaises,Levels 3 - 4,Unemployment,18.6
+RUP FR - Régions ultrapériphériques françaises,Levels 5 - 8,Unemployment,7.4
+Sicilia,All Levels,Unemployment,17.9
+Sicilia,Levels 0-2,Unemployment,23.3
+Sicilia,Levels 3 - 4,Unemployment,17.3
+Sicilia,Levels 5 - 8,Unemployment,9.2
+North Macedonia,All Levels,Unemployment,16.4
+North Macedonia,Levels 0-2,Unemployment,21.4
+North Macedonia,Levels 3 - 4,Unemployment,16.2
+North Macedonia,Levels 5 - 8,Unemployment,13.7
+Severna Makedonija,All Levels,Unemployment,16.4
+Severna Makedonija,Levels 0-2,Unemployment,21.4
+Severna Makedonija,Levels 3 - 4,Unemployment,16.2
+Severna Makedonija,Levels 5 - 8,Unemployment,13.7
+Thessalia,All Levels,Unemployment,16.9
+Thessalia,Levels 0-2,Unemployment,17.5
+Thessalia,Levels 3 - 4,Unemployment,18.1
+Thessalia,Levels 5 - 8,Unemployment,14.9
+"Nisia Aigaiou, Kriti",All Levels,Unemployment,17
+"Nisia Aigaiou, Kriti",Levels 0-2,Unemployment,18.1
+"Nisia Aigaiou, Kriti",Levels 3 - 4,Unemployment,18.5
+"Nisia Aigaiou, Kriti",Levels 5 - 8,Unemployment,13.7
+Severozapaden,All Levels,Unemployment,13
+Severozapaden,Levels 0-2,Unemployment,43.9
+Severozapaden,Levels 3 - 4,Unemployment,10
+Severozapaden,Levels 5 - 8,Unemployment,
+Kriti,All Levels,Unemployment,17.3
+Kriti,Levels 0-2,Unemployment,16
+Kriti,Levels 3 - 4,Unemployment,20.4
+Kriti,Levels 5 - 8,Unemployment,13.1
+Greece,All Levels,Unemployment,16.3
+Greece,Levels 0-2,Unemployment,19.1
+Greece,Levels 3 - 4,Unemployment,18.5
+Greece,Levels 5 - 8,Unemployment,12.1
+Comunitat Valenciana,All Levels,Unemployment,16.2
+Comunitat Valenciana,Levels 0-2,Unemployment,20.3
+Comunitat Valenciana,Levels 3 - 4,Unemployment,17.4
+Comunitat Valenciana,Levels 5 - 8,Unemployment,11.9
+Voreio Aigaio,All Levels,Unemployment,16.5
+Voreio Aigaio,Levels 0-2,Unemployment,17.6
+Voreio Aigaio,Levels 3 - 4,Unemployment,17.9
+Voreio Aigaio,Levels 5 - 8,Unemployment,13.7
+Illes Balears,All Levels,Unemployment,16.1
+Illes Balears,Levels 0-2,Unemployment,19.9
+Illes Balears,Levels 3 - 4,Unemployment,19.4
+Illes Balears,Levels 5 - 8,Unemployment,10.2
+Región de Murcia,All Levels,Unemployment,16.2
+Región de Murcia,Levels 0-2,Unemployment,19
+Región de Murcia,Levels 3 - 4,Unemployment,18.4
+Región de Murcia,Levels 5 - 8,Unemployment,11.4
+Spain,All Levels,Unemployment,15.5
+Spain,Levels 0-2,Unemployment,21.7
+Spain,Levels 3 - 4,Unemployment,16.5
+Spain,Levels 5 - 8,Unemployment,10.2
+Centro (ES),All Levels,Unemployment,16.1
+Centro (ES),Levels 0-2,Unemployment,21.5
+Centro (ES),Levels 3 - 4,Unemployment,16.1
+Centro (ES),Levels 5 - 8,Unemployment,10.1
+Attiki,All Levels,Unemployment,14.1
+Attiki,Levels 0-2,Unemployment,23.2
+Attiki,Levels 3 - 4,Unemployment,16.3
+Attiki,Levels 5 - 8,Unemployment,9.6
+Isole,All Levels,Unemployment,16.6
+Isole,Levels 0-2,Unemployment,21.5
+Isole,Levels 3 - 4,Unemployment,16.3
+Isole,Levels 5 - 8,Unemployment,8.2
+"Hatay, Kahramanmaras, Osmaniye",All Levels,Unemployment,15.2
+"Hatay, Kahramanmaras, Osmaniye",Levels 0-2,Unemployment,14.9
+"Hatay, Kahramanmaras, Osmaniye",Levels 3 - 4,Unemployment,16.9
+"Hatay, Kahramanmaras, Osmaniye",Levels 5 - 8,Unemployment,14.6
+Ionia Nisia,All Levels,Unemployment,16
+Ionia Nisia,Levels 0-2,Unemployment,18.2
+Ionia Nisia,Levels 3 - 4,Unemployment,19.1
+Ionia Nisia,Levels 5 - 8,Unemployment,8.2
+Principado de Asturias,All Levels,Unemployment,14.1
+Principado de Asturias,Levels 0-2,Unemployment,19.2
+Principado de Asturias,Levels 3 - 4,Unemployment,17
+Principado de Asturias,Levels 5 - 8,Unemployment,10
+Sud,All Levels,Unemployment,15.6
+Sud,Levels 0-2,Unemployment,20.6
+Sud,Levels 3 - 4,Unemployment,14.4
+Sud,Levels 5 - 8,Unemployment,9.4
+Ankara,All Levels,Unemployment,14.8
+Ankara,Levels 0-2,Unemployment,16.2
+Ankara,Levels 3 - 4,Unemployment,16
+Ankara,Levels 5 - 8,Unemployment,12.8
+Istanbul,All Levels,Unemployment,14.7
+Istanbul,Levels 0-2,Unemployment,14.5
+Istanbul,Levels 3 - 4,Unemployment,17.7
+Istanbul,Levels 5 - 8,Unemployment,12.9
+Guyane,All Levels,Unemployment,16.1
+Guyane,Levels 0-2,Unemployment,25.6
+Guyane,Levels 3 - 4,Unemployment,17.2
+Guyane,Levels 5 - 8,Unemployment,
+Este (ES),All Levels,Unemployment,14.2
+Este (ES),Levels 0-2,Unemployment,19.3
+Este (ES),Levels 3 - 4,Unemployment,16
+Este (ES),Levels 5 - 8,Unemployment,9.3
+Région de Bruxelles-Capitale/Brussels Hoofdstedelijk Gewest,All Levels,Unemployment,12.3
+Région de Bruxelles-Capitale/Brussels Hoofdstedelijk Gewest,Levels 0-2,Unemployment,25.5
+Région de Bruxelles-Capitale/Brussels Hoofdstedelijk Gewest,Levels 3 - 4,Unemployment,14.2
+Région de Bruxelles-Capitale/Brussels Hoofdstedelijk Gewest,Levels 5 - 8,Unemployment,6.8
+"Adana, Mersin",All Levels,Unemployment,13.3
+"Adana, Mersin",Levels 0-2,Unemployment,11.7
+"Adana, Mersin",Levels 3 - 4,Unemployment,16.7
+"Adana, Mersin",Levels 5 - 8,Unemployment,13.8
+Akdeniz,All Levels,Unemployment,13.5
+Akdeniz,Levels 0-2,Unemployment,12.7
+Akdeniz,Levels 3 - 4,Unemployment,16
+Akdeniz,Levels 5 - 8,Unemployment,12.9
+Comunidad de Madrid,All Levels,Unemployment,12.5
+Comunidad de Madrid,Levels 0-2,Unemployment,17.9
+Comunidad de Madrid,Levels 3 - 4,Unemployment,15.3
+Comunidad de Madrid,Levels 5 - 8,Unemployment,8.8
+Sydsverige,All Levels,Unemployment,10.5
+Sydsverige,Levels 0-2,Unemployment,29.1
+Sydsverige,Levels 3 - 4,Unemployment,8
+Sydsverige,Levels 5 - 8,Unemployment,6.3
+Turkey,All Levels,Unemployment,13.2
+Turkey,Levels 0-2,Unemployment,12.6
+Turkey,Levels 3 - 4,Unemployment,15
+Turkey,Levels 5 - 8,Unemployment,12.6
+"Gaziantep, Adiyaman, Kilis",All Levels,Unemployment,13
+"Gaziantep, Adiyaman, Kilis",Levels 0-2,Unemployment,12.3
+"Gaziantep, Adiyaman, Kilis",Levels 3 - 4,Unemployment,14.4
+"Gaziantep, Adiyaman, Kilis",Levels 5 - 8,Unemployment,13.6
+Puglia,All Levels,Unemployment,14.1
+Puglia,Levels 0-2,Unemployment,18
+Puglia,Levels 3 - 4,Unemployment,13.4
+Puglia,Levels 5 - 8,Unemployment,7.6
+Cataluña,All Levels,Unemployment,12.6
+Cataluña,Levels 0-2,Unemployment,18.5
+Cataluña,Levels 3 - 4,Unemployment,14.3
+Cataluña,Levels 5 - 8,Unemployment,7.6
+Noroeste (ES),All Levels,Unemployment,12.5
+Noroeste (ES),Levels 0-2,Unemployment,16
+Noroeste (ES),Levels 3 - 4,Unemployment,13.9
+Noroeste (ES),Levels 5 - 8,Unemployment,9.5
+Bati Anadolu,All Levels,Unemployment,12.8
+Bati Anadolu,Levels 0-2,Unemployment,12.4
+Bati Anadolu,Levels 3 - 4,Unemployment,14.2
+Bati Anadolu,Levels 5 - 8,Unemployment,12.4
+"Kayseri, Sivas, Yozgat",All Levels,Unemployment,12.7
+"Kayseri, Sivas, Yozgat",Levels 0-2,Unemployment,12.4
+"Kayseri, Sivas, Yozgat",Levels 3 - 4,Unemployment,13.7
+"Kayseri, Sivas, Yozgat",Levels 5 - 8,Unemployment,12.5
+Cantabria,All Levels,Unemployment,12.2
+Cantabria,Levels 0-2,Unemployment,17.7
+Cantabria,Levels 3 - 4,Unemployment,12
+Cantabria,Levels 5 - 8,Unemployment,8.9
+Ege,All Levels,Unemployment,12.4
+Ege,Levels 0-2,Unemployment,11.6
+Ege,Levels 3 - 4,Unemployment,14
+Ege,Levels 5 - 8,Unemployment,12.8
+Orta Anadolu,All Levels,Unemployment,12.4
+Orta Anadolu,Levels 0-2,Unemployment,11.5
+Orta Anadolu,Levels 3 - 4,Unemployment,14.4
+Orta Anadolu,Levels 5 - 8,Unemployment,12.5
+"Agri, Kars, Igdir, Ardahan",All Levels,Unemployment,11.5
+"Agri, Kars, Igdir, Ardahan",Levels 0-2,Unemployment,10.1
+"Agri, Kars, Igdir, Ardahan",Levels 3 - 4,Unemployment,14
+"Agri, Kars, Igdir, Ardahan",Levels 5 - 8,Unemployment,14.6
+"Kirikkale, Aksaray, Nigde, Nevsehir, Kirsehir",All Levels,Unemployment,11.9
+"Kirikkale, Aksaray, Nigde, Nevsehir, Kirsehir",Levels 0-2,Unemployment,10.3
+"Kirikkale, Aksaray, Nigde, Nevsehir, Kirsehir",Levels 3 - 4,Unemployment,15.5
+"Kirikkale, Aksaray, Nigde, Nevsehir, Kirsehir",Levels 5 - 8,Unemployment,12.5
+Wien,All Levels,Unemployment,10.7
+Wien,Levels 0-2,Unemployment,21.7
+Wien,Levels 3 - 4,Unemployment,12.1
+Wien,Levels 5 - 8,Unemployment,5.7
+Sardegna,All Levels,Unemployment,13.3
+Sardegna,Levels 0-2,Unemployment,17.1
+Sardegna,Levels 3 - 4,Unemployment,13.6
+Sardegna,Levels 5 - 8,Unemployment,6
+"Antalya, Isparta, Burdur",All Levels,Unemployment,12.2
+"Antalya, Isparta, Burdur",Levels 0-2,Unemployment,11.8
+"Antalya, Isparta, Burdur",Levels 3 - 4,Unemployment,14.6
+"Antalya, Isparta, Burdur",Levels 5 - 8,Unemployment,10.9
+Galicia,All Levels,Unemployment,12
+Galicia,Levels 0-2,Unemployment,14.8
+Galicia,Levels 3 - 4,Unemployment,13.1
+Galicia,Levels 5 - 8,Unemployment,9.4
+Castilla y León,All Levels,Unemployment,12.1
+Castilla y León,Levels 0-2,Unemployment,17
+Castilla y León,Levels 3 - 4,Unemployment,12
+Castilla y León,Levels 5 - 8,Unemployment,8.1
+Östra Mellansverige,All Levels,Unemployment,9.4
+Östra Mellansverige,Levels 0-2,Unemployment,28.2
+Östra Mellansverige,Levels 3 - 4,Unemployment,6.7
+Östra Mellansverige,Levels 5 - 8,Unemployment,4.9
+Martinique,All Levels,Unemployment,12.4
+Martinique,Levels 0-2,Unemployment,13.8
+Martinique,Levels 3 - 4,Unemployment,16
+Martinique,Levels 5 - 8,Unemployment,6.9
+Champagne-Ardenne,All Levels,Unemployment,11.7
+Champagne-Ardenne,Levels 0-2,Unemployment,18.9
+Champagne-Ardenne,Levels 3 - 4,Unemployment,12.3
+Champagne-Ardenne,Levels 5 - 8,Unemployment,5.9
+"Kocaeli, Sakarya, Düzce, Bolu, Yalova",All Levels,Unemployment,12.2
+"Kocaeli, Sakarya, Düzce, Bolu, Yalova",Levels 0-2,Unemployment,12.4
+"Kocaeli, Sakarya, Düzce, Bolu, Yalova",Levels 3 - 4,Unemployment,11.4
+"Kocaeli, Sakarya, Düzce, Bolu, Yalova",Levels 5 - 8,Unemployment,12.6
+Aragón,All Levels,Unemployment,11.7
+Aragón,Levels 0-2,Unemployment,17.5
+Aragón,Levels 3 - 4,Unemployment,11.6
+Aragón,Levels 5 - 8,Unemployment,7.8
+Vidurio ir vakaru Lietuvos regionas,All Levels,Unemployment,9.3
+Vidurio ir vakaru Lietuvos regionas,Levels 0-2,Unemployment,22.3
+Vidurio ir vakaru Lietuvos regionas,Levels 3 - 4,Unemployment,11.5
+Vidurio ir vakaru Lietuvos regionas,Levels 5 - 8,Unemployment,4.7
+Slovakia,All Levels,Unemployment,6.7
+Slovakia,Levels 0-2,Unemployment,30.6
+Slovakia,Levels 3 - 4,Unemployment,6.3
+Slovakia,Levels 5 - 8,Unemployment,3.5
+Slovensko,All Levels,Unemployment,6.7
+Slovensko,Levels 0-2,Unemployment,30.6
+Slovensko,Levels 3 - 4,Unemployment,6.3
+Slovensko,Levels 5 - 8,Unemployment,3.5
+Lietuva,All Levels,Unemployment,8.5
+Lietuva,Levels 0-2,Unemployment,22.8
+Lietuva,Levels 3 - 4,Unemployment,11.4
+Lietuva,Levels 5 - 8,Unemployment,4.1
+Lithuania,All Levels,Unemployment,8.5
+Lithuania,Levels 0-2,Unemployment,22.8
+Lithuania,Levels 3 - 4,Unemployment,11.4
+Lithuania,Levels 5 - 8,Unemployment,4.1
+Sostines regionas,All Levels,Unemployment,6.8
+Sostines regionas,Levels 0-2,Unemployment,25
+Sostines regionas,Levels 3 - 4,Unemployment,11.3
+Sostines regionas,Levels 5 - 8,Unemployment,3.2
+Region Juzne i Istocne Srbije,All Levels,Unemployment,11.7
+Region Juzne i Istocne Srbije,Levels 0-2,Unemployment,11.6
+Region Juzne i Istocne Srbije,Levels 3 - 4,Unemployment,12.1
+Region Juzne i Istocne Srbije,Levels 5 - 8,Unemployment,10.8
+Kuzeydogu Anadolu,All Levels,Unemployment,10.8
+Kuzeydogu Anadolu,Levels 0-2,Unemployment,9.3
+Kuzeydogu Anadolu,Levels 3 - 4,Unemployment,13.3
+Kuzeydogu Anadolu,Levels 5 - 8,Unemployment,12.5
+Stredné Slovensko,All Levels,Unemployment,6.7
+Stredné Slovensko,Levels 0-2,Unemployment,29
+Stredné Slovensko,Levels 3 - 4,Unemployment,6.2
+Stredné Slovensko,Levels 5 - 8,Unemployment,3.7
+Östra Sverige,All Levels,Unemployment,8.3
+Östra Sverige,Levels 0-2,Unemployment,25.5
+Östra Sverige,Levels 3 - 4,Unemployment,6.6
+Östra Sverige,Levels 5 - 8,Unemployment,4.7
+Noreste (ES),All Levels,Unemployment,10.4
+Noreste (ES),Levels 0-2,Unemployment,16.7
+Noreste (ES),Levels 3 - 4,Unemployment,10.9
+Noreste (ES),Levels 5 - 8,Unemployment,7
+Södra Sverige,All Levels,Unemployment,8.6
+Södra Sverige,Levels 0-2,Unemployment,25.2
+Södra Sverige,Levels 3 - 4,Unemployment,6.2
+Södra Sverige,Levels 5 - 8,Unemployment,5
+La Rioja,All Levels,Unemployment,10.8
+La Rioja,Levels 0-2,Unemployment,14.2
+La Rioja,Levels 3 - 4,Unemployment,11.7
+La Rioja,Levels 5 - 8,Unemployment,7.3
+Sweden,All Levels,Unemployment,8.3
+Sweden,Levels 0-2,Unemployment,24.6
+Sweden,Levels 3 - 4,Unemployment,6.3
+Sweden,Levels 5 - 8,Unemployment,4.7
+Peloponnisos,All Levels,Unemployment,11.4
+Peloponnisos,Levels 0-2,Unemployment,10.8
+Peloponnisos,Levels 3 - 4,Unemployment,13.3
+Peloponnisos,Levels 5 - 8,Unemployment,8.3
+Pohjois- ja Itä-Suomi,All Levels,Unemployment,8.8
+Pohjois- ja Itä-Suomi,Levels 0-2,Unemployment,20.2
+Pohjois- ja Itä-Suomi,Levels 3 - 4,Unemployment,10
+Pohjois- ja Itä-Suomi,Levels 5 - 8,Unemployment,4.7
+Dogu Marmara,All Levels,Unemployment,10.9
+Dogu Marmara,Levels 0-2,Unemployment,10.9
+Dogu Marmara,Levels 3 - 4,Unemployment,11.2
+Dogu Marmara,Levels 5 - 8,Unemployment,10.6
+"Malatya, Elazig, Bingöl, Tunceli",All Levels,Unemployment,10.6
+"Malatya, Elazig, Bingöl, Tunceli",Levels 0-2,Unemployment,9.3
+"Malatya, Elazig, Bingöl, Tunceli",Levels 3 - 4,Unemployment,13.2
+"Malatya, Elazig, Bingöl, Tunceli",Levels 5 - 8,Unemployment,10.5
+Comunidad Foral de Navarra,All Levels,Unemployment,10.1
+Comunidad Foral de Navarra,Levels 0-2,Unemployment,16.5
+Comunidad Foral de Navarra,Levels 3 - 4,Unemployment,9.8
+Comunidad Foral de Navarra,Levels 5 - 8,Unemployment,7.1
+País Vasco,All Levels,Unemployment,9.5
+País Vasco,Levels 0-2,Unemployment,16.7
+País Vasco,Levels 3 - 4,Unemployment,10.6
+País Vasco,Levels 5 - 8,Unemployment,6.6
+"Erzurum, Erzincan, Bayburt",All Levels,Unemployment,10.1
+"Erzurum, Erzincan, Bayburt",Levels 0-2,Unemployment,8.3
+"Erzurum, Erzincan, Bayburt",Levels 3 - 4,Unemployment,12.9
+"Erzurum, Erzincan, Bayburt",Levels 5 - 8,Unemployment,11.2
+Languedoc-Roussillon,All Levels,Unemployment,9.2
+Languedoc-Roussillon,Levels 0-2,Unemployment,17.6
+Languedoc-Roussillon,Levels 3 - 4,Unemployment,9.8
+Languedoc-Roussillon,Levels 5 - 8,Unemployment,5.9
+Srbija - jug,All Levels,Unemployment,10.7
+Srbija - jug,Levels 0-2,Unemployment,8.1
+Srbija - jug,Levels 3 - 4,Unemployment,11.2
+Srbija - jug,Levels 5 - 8,Unemployment,12
+Stockholm,All Levels,Unemployment,7.6
+Stockholm,Levels 0-2,Unemployment,23.4
+Stockholm,Levels 3 - 4,Unemployment,6.5
+Stockholm,Levels 5 - 8,Unemployment,4.5
+Västsverige,All Levels,Unemployment,7.6
+Västsverige,Levels 0-2,Unemployment,22.6
+Västsverige,Levels 3 - 4,Unemployment,5.6
+Västsverige,Levels 5 - 8,Unemployment,4.7
+Latvia,All Levels,Unemployment,8.1
+Latvia,Levels 0-2,Unemployment,18.4
+Latvia,Levels 3 - 4,Unemployment,8.8
+Latvia,Levels 5 - 8,Unemployment,5.1
+Latvija,All Levels,Unemployment,8.1
+Latvija,Levels 0-2,Unemployment,18.4
+Latvija,Levels 3 - 4,Unemployment,8.8
+Latvija,Levels 5 - 8,Unemployment,5.1
+Nord-Pas-de-Calais,All Levels,Unemployment,9.1
+Nord-Pas-de-Calais,Levels 0-2,Unemployment,16.9
+Nord-Pas-de-Calais,Levels 3 - 4,Unemployment,10.9
+Nord-Pas-de-Calais,Levels 5 - 8,Unemployment,3.5
+Småland med öarna,All Levels,Unemployment,7.7
+Småland med öarna,Levels 0-2,Unemployment,24.2
+Småland med öarna,Levels 3 - 4,Unemployment,5
+Småland med öarna,Levels 5 - 8,Unemployment,3.3
+"Aydin, Denizli, Mugla",All Levels,Unemployment,9.7
+"Aydin, Denizli, Mugla",Levels 0-2,Unemployment,8.8
+"Aydin, Denizli, Mugla",Levels 3 - 4,Unemployment,11.2
+"Aydin, Denizli, Mugla",Levels 5 - 8,Unemployment,10.2
+Hauts-de-France,All Levels,Unemployment,9
+Hauts-de-France,Levels 0-2,Unemployment,16.8
+Hauts-de-France,Levels 3 - 4,Unemployment,10.3
+Hauts-de-France,Levels 5 - 8,Unemployment,3.8
+Mellersta Norrland,All Levels,Unemployment,7.6
+Mellersta Norrland,Levels 0-2,Unemployment,26.7
+Mellersta Norrland,Levels 3 - 4,Unemployment,5.6
+Mellersta Norrland,Levels 5 - 8,Unemployment,
+Finland,All Levels,Unemployment,7.8
+Finland,Levels 0-2,Unemployment,18.8
+Finland,Levels 3 - 4,Unemployment,8.9
+Finland,Levels 5 - 8,Unemployment,4.3
+Manner-Suomi,All Levels,Unemployment,7.8
+Manner-Suomi,Levels 0-2,Unemployment,18.8
+Manner-Suomi,Levels 3 - 4,Unemployment,8.9
+Manner-Suomi,Levels 5 - 8,Unemployment,4.3
+Länsi-Suomi,All Levels,Unemployment,7.7
+Länsi-Suomi,Levels 0-2,Unemployment,18.8
+Länsi-Suomi,Levels 3 - 4,Unemployment,9
+Länsi-Suomi,Levels 5 - 8,Unemployment,4
+Region Sumadije i Zapadne Srbije,All Levels,Unemployment,10
+Region Sumadije i Zapadne Srbije,Levels 0-2,Unemployment,5.9
+Region Sumadije i Zapadne Srbije,Levels 3 - 4,Unemployment,10.5
+Region Sumadije i Zapadne Srbije,Levels 5 - 8,Unemployment,13
+Helsinki-Uusimaa,All Levels,Unemployment,7.2
+Helsinki-Uusimaa,Levels 0-2,Unemployment,19.5
+Helsinki-Uusimaa,Levels 3 - 4,Unemployment,8.4
+Helsinki-Uusimaa,Levels 5 - 8,Unemployment,4.1
+"Zonguldak, Karabük, Bartin",All Levels,Unemployment,9.3
+"Zonguldak, Karabük, Bartin",Levels 0-2,Unemployment,7.5
+"Zonguldak, Karabük, Bartin",Levels 3 - 4,Unemployment,12.8
+"Zonguldak, Karabük, Bartin",Levels 5 - 8,Unemployment,9.6
+Grand Est,All Levels,Unemployment,8.8
+Grand Est,Levels 0-2,Unemployment,15.5
+Grand Est,Levels 3 - 4,Unemployment,9.1
+Grand Est,Levels 5 - 8,Unemployment,5.7
+Poitou-Charentes,All Levels,Unemployment,8.6
+Poitou-Charentes,Levels 0-2,Unemployment,16.7
+Poitou-Charentes,Levels 3 - 4,Unemployment,9.9
+Poitou-Charentes,Levels 5 - 8,Unemployment,3.9
+"Bursa, Eskisehir, Bilecik",All Levels,Unemployment,9.7
+"Bursa, Eskisehir, Bilecik",Levels 0-2,Unemployment,9.4
+"Bursa, Eskisehir, Bilecik",Levels 3 - 4,Unemployment,11.1
+"Bursa, Eskisehir, Bilecik",Levels 5 - 8,Unemployment,8.7
+Norra Mellansverige,All Levels,Unemployment,7.9
+Norra Mellansverige,Levels 0-2,Unemployment,20.1
+Norra Mellansverige,Levels 3 - 4,Unemployment,6.3
+Norra Mellansverige,Levels 5 - 8,Unemployment,4.4
+Prov. Hainaut,All Levels,Unemployment,8.3
+Prov. Hainaut,Levels 0-2,Unemployment,17.6
+Prov. Hainaut,Levels 3 - 4,Unemployment,9.5
+Prov. Hainaut,Levels 5 - 8,Unemployment,3.2
+Picardie,All Levels,Unemployment,8.6
+Picardie,Levels 0-2,Unemployment,16.6
+Picardie,Levels 3 - 4,Unemployment,8.8
+Picardie,Levels 5 - 8,Unemployment,4.4
+Dogu Karadeniz,All Levels,Unemployment,8.8
+Dogu Karadeniz,Levels 0-2,Unemployment,6.8
+Dogu Karadeniz,Levels 3 - 4,Unemployment,11.3
+Dogu Karadeniz,Levels 5 - 8,Unemployment,11.3
+"Trabzon, Ordu, Giresun, Rize, Artvin, Gümüshane",All Levels,Unemployment,8.8
+"Trabzon, Ordu, Giresun, Rize, Artvin, Gümüshane",Levels 0-2,Unemployment,6.8
+"Trabzon, Ordu, Giresun, Rize, Artvin, Gümüshane",Levels 3 - 4,Unemployment,11.3
+"Trabzon, Ordu, Giresun, Rize, Artvin, Gümüshane",Levels 5 - 8,Unemployment,11.3
+Norra Sverige,All Levels,Unemployment,7.3
+Norra Sverige,Levels 0-2,Unemployment,20.7
+Norra Sverige,Levels 3 - 4,Unemployment,6
+Norra Sverige,Levels 5 - 8,Unemployment,4
+Centre - Val de Loire,All Levels,Unemployment,8.9
+Centre - Val de Loire,Levels 0-2,Unemployment,14.2
+Centre - Val de Loire,Levels 3 - 4,Unemployment,9.9
+Centre - Val de Loire,Levels 5 - 8,Unemployment,4.8
+Molise,All Levels,Unemployment,9.5
+Molise,Levels 0-2,Unemployment,11
+Molise,Levels 3 - 4,Unemployment,9.2
+Molise,Levels 5 - 8,Unemployment,8.1
+Prov. Liège,All Levels,Unemployment,7.8
+Prov. Liège,Levels 0-2,Unemployment,17.2
+Prov. Liège,Levels 3 - 4,Unemployment,8.5
+Prov. Liège,Levels 5 - 8,Unemployment,4
+"Samsun, Tokat, Çorum, Amasya",All Levels,Unemployment,8.4
+"Samsun, Tokat, Çorum, Amasya",Levels 0-2,Unemployment,6.4
+"Samsun, Tokat, Çorum, Amasya",Levels 3 - 4,Unemployment,11.5
+"Samsun, Tokat, Çorum, Amasya",Levels 5 - 8,Unemployment,11.1
+Etelä-Suomi,All Levels,Unemployment,7.7
+Etelä-Suomi,Levels 0-2,Unemployment,16.3
+Etelä-Suomi,Levels 3 - 4,Unemployment,8.4
+Etelä-Suomi,Levels 5 - 8,Unemployment,4.9
+Abruzzo,All Levels,Unemployment,9.3
+Abruzzo,Levels 0-2,Unemployment,10.3
+Abruzzo,Levels 3 - 4,Unemployment,9
+Abruzzo,Levels 5 - 8,Unemployment,8.7
+Haute-Normandie,All Levels,Unemployment,8.3
+Haute-Normandie,Levels 0-2,Unemployment,15.9
+Haute-Normandie,Levels 3 - 4,Unemployment,8.8
+Haute-Normandie,Levels 5 - 8,Unemployment,4.3
+"Tekirdag, Edirne, Kirklareli",All Levels,Unemployment,9.1
+"Tekirdag, Edirne, Kirklareli",Levels 0-2,Unemployment,8.2
+"Tekirdag, Edirne, Kirklareli",Levels 3 - 4,Unemployment,10.2
+"Tekirdag, Edirne, Kirklareli",Levels 5 - 8,Unemployment,9.6
+Lazio,All Levels,Unemployment,9.1
+Lazio,Levels 0-2,Unemployment,13.3
+Lazio,Levels 3 - 4,Unemployment,9.5
+Lazio,Levels 5 - 8,Unemployment,5.1
+Lorraine,All Levels,Unemployment,8.7
+Lorraine,Levels 0-2,Unemployment,12.5
+Lorraine,Levels 3 - 4,Unemployment,9.8
+Lorraine,Levels 5 - 8,Unemployment,5.6
+Corse,All Levels,Unemployment,8.1
+Corse,Levels 0-2,Unemployment,18.8
+Corse,Levels 3 - 4,Unemployment,9.5
+Corse,Levels 5 - 8,Unemployment,
+France,All Levels,Unemployment,8.1
+France,Levels 0-2,Unemployment,14.1
+France,Levels 3 - 4,Unemployment,8.9
+France,Levels 5 - 8,Unemployment,5.2
+Provence-Alpes-Côte d'Azur,All Levels,Unemployment,8
+Provence-Alpes-Côte d'Azur,Levels 0-2,Unemployment,14.4
+Provence-Alpes-Côte d'Azur,Levels 3 - 4,Unemployment,8.9
+Provence-Alpes-Côte d'Azur,Levels 5 - 8,Unemployment,5
+Île de France,All Levels,Unemployment,8.2
+Île de France,Levels 0-2,Unemployment,11.8
+Île de France,Levels 3 - 4,Unemployment,9.8
+Île de France,Levels 5 - 8,Unemployment,6.4
+Bati Karadeniz,All Levels,Unemployment,8.2
+Bati Karadeniz,Levels 0-2,Unemployment,6.4
+Bati Karadeniz,Levels 3 - 4,Unemployment,11.1
+Bati Karadeniz,Levels 5 - 8,Unemployment,10.5
+Italy,All Levels,Unemployment,9.2
+Italy,Levels 0-2,Unemployment,12.8
+Italy,Levels 3 - 4,Unemployment,8.8
+Italy,Levels 5 - 8,Unemployment,5.3
+Ostösterreich,All Levels,Unemployment,7.4
+Ostösterreich,Levels 0-2,Unemployment,16.9
+Ostösterreich,Levels 3 - 4,Unemployment,7.4
+Ostösterreich,Levels 5 - 8,Unemployment,4.2
+Serbia,All Levels,Unemployment,9.1
+Serbia,Levels 0-2,Unemployment,9.1
+Serbia,Levels 3 - 4,Unemployment,9.6
+Serbia,Levels 5 - 8,Unemployment,8
+Bourgogne,All Levels,Unemployment,7.8
+Bourgogne,Levels 0-2,Unemployment,15.2
+Bourgogne,Levels 3 - 4,Unemployment,8.9
+Bourgogne,Levels 5 - 8,Unemployment,3.7
+Alsace,All Levels,Unemployment,7.3
+Alsace,Levels 0-2,Unemployment,16.4
+Alsace,Levels 3 - 4,Unemployment,6.1
+Alsace,Levels 5 - 8,Unemployment,5.8
+Région wallonne,All Levels,Unemployment,7.3
+Région wallonne,Levels 0-2,Unemployment,16.2
+Région wallonne,Levels 3 - 4,Unemployment,8.2
+Région wallonne,Levels 5 - 8,Unemployment,3.7
+Bati Marmara,All Levels,Unemployment,8.5
+Bati Marmara,Levels 0-2,Unemployment,7.3
+Bati Marmara,Levels 3 - 4,Unemployment,9.7
+Bati Marmara,Levels 5 - 8,Unemployment,9.7
+"Manisa, Afyonkarahisar, Kütahya, Usak",All Levels,Unemployment,8.3
+"Manisa, Afyonkarahisar, Kütahya, Usak",Levels 0-2,Unemployment,7.4
+"Manisa, Afyonkarahisar, Kütahya, Usak",Levels 3 - 4,Unemployment,9.1
+"Manisa, Afyonkarahisar, Kütahya, Usak",Levels 5 - 8,Unemployment,10.3
+Basilicata,All Levels,Unemployment,8.6
+Basilicata,Levels 0-2,Unemployment,9.1
+Basilicata,Levels 3 - 4,Unemployment,8.5
+Basilicata,Levels 5 - 8,Unemployment,8.2
+Nouvelle-Aquitaine,All Levels,Unemployment,7.7
+Nouvelle-Aquitaine,Levels 0-2,Unemployment,13.8
+Nouvelle-Aquitaine,Levels 3 - 4,Unemployment,8.2
+Nouvelle-Aquitaine,Levels 5 - 8,Unemployment,4.7
+Berlin,All Levels,Unemployment,6.3
+Berlin,Levels 0-2,Unemployment,18.6
+Berlin,Levels 3 - 4,Unemployment,5.7
+Berlin,Levels 5 - 8,Unemployment,3.7
+Euro area - 19 countries  (from 2015),All Levels,Unemployment,7.9
+Euro area - 19 countries  (from 2015),Levels 0-2,Unemployment,13.7
+Euro area - 19 countries  (from 2015),Levels 3 - 4,Unemployment,7.5
+Euro area - 19 countries  (from 2015),Levels 5 - 8,Unemployment,5.2
+Beogradski region,All Levels,Unemployment,7.5
+Beogradski region,Levels 0-2,Unemployment,12.7
+Beogradski region,Levels 3 - 4,Unemployment,8.3
+Beogradski region,Levels 5 - 8,Unemployment,5.8
+Severna i yugoiztochna Bulgaria,All Levels,Unemployment,6.9
+Severna i yugoiztochna Bulgaria,Levels 0-2,Unemployment,18.4
+Severna i yugoiztochna Bulgaria,Levels 3 - 4,Unemployment,5.6
+Severna i yugoiztochna Bulgaria,Levels 5 - 8,Unemployment,3.4
+Occitanie,All Levels,Unemployment,7.2
+Occitanie,Levels 0-2,Unemployment,14.3
+Occitanie,Levels 3 - 4,Unemployment,8.1
+Occitanie,Levels 5 - 8,Unemployment,4.5
+Centru,All Levels,Unemployment,7.1
+Centru,Levels 0-2,Unemployment,21.6
+Centru,Levels 3 - 4,Unemployment,5.3
+Centru,Levels 5 - 8,Unemployment,
+Rhône-Alpes,All Levels,Unemployment,7.5
+Rhône-Alpes,Levels 0-2,Unemployment,12.8
+Rhône-Alpes,Levels 3 - 4,Unemployment,8.5
+Rhône-Alpes,Levels 5 - 8,Unemployment,5.2
+Liguria,All Levels,Unemployment,8.3
+Liguria,Levels 0-2,Unemployment,14.1
+Liguria,Levels 3 - 4,Unemployment,7.4
+Liguria,Levels 5 - 8,Unemployment,4.1
+Umbria,All Levels,Unemployment,8.2
+Umbria,Levels 0-2,Unemployment,12.4
+Umbria,Levels 3 - 4,Unemployment,7.5
+Umbria,Levels 5 - 8,Unemployment,5.7
+"Konya, Karaman",All Levels,Unemployment,7.8
+"Konya, Karaman",Levels 0-2,Unemployment,6.7
+"Konya, Karaman",Levels 3 - 4,Unemployment,8.2
+"Konya, Karaman",Levels 5 - 8,Unemployment,10.4
+Övre Norrland,All Levels,Unemployment,6.2
+Övre Norrland,Levels 0-2,Unemployment,17.1
+Övre Norrland,Levels 3 - 4,Unemployment,5.7
+Övre Norrland,Levels 5 - 8,Unemployment,4
+Région lémanique,All Levels,Unemployment,7.7
+Région lémanique,Levels 0-2,Unemployment,11.4
+Région lémanique,Levels 3 - 4,Unemployment,7.9
+Région lémanique,Levels 5 - 8,Unemployment,6
+"Balikesir, Çanakkale",All Levels,Unemployment,7.8
+"Balikesir, Çanakkale",Levels 0-2,Unemployment,6.2
+"Balikesir, Çanakkale",Levels 3 - 4,Unemployment,9.1
+"Balikesir, Çanakkale",Levels 5 - 8,Unemployment,9.7
+Észak-Alföld,All Levels,Unemployment,7.3
+Észak-Alföld,Levels 0-2,Unemployment,16.1
+Észak-Alföld,Levels 3 - 4,Unemployment,6.5
+Észak-Alföld,Levels 5 - 8,Unemployment,2.8
+Aquitaine,All Levels,Unemployment,7.3
+Aquitaine,Levels 0-2,Unemployment,12.7
+Aquitaine,Levels 3 - 4,Unemployment,7.2
+Aquitaine,Levels 5 - 8,Unemployment,5.3
+Eesti,All Levels,Unemployment,6.8
+Eesti,Levels 0-2,Unemployment,13.4
+Eesti,Levels 3 - 4,Unemployment,7.4
+Eesti,Levels 5 - 8,Unemployment,4.8
+Estonia,All Levels,Unemployment,6.8
+Estonia,Levels 0-2,Unemployment,13.4
+Estonia,Levels 3 - 4,Unemployment,7.4
+Estonia,Levels 5 - 8,Unemployment,4.8
+Auvergne - Rhône-Alpes,All Levels,Unemployment,7.2
+Auvergne - Rhône-Alpes,Levels 0-2,Unemployment,12.2
+Auvergne - Rhône-Alpes,Levels 3 - 4,Unemployment,7.9
+Auvergne - Rhône-Alpes,Levels 5 - 8,Unemployment,5
+Normandie,All Levels,Unemployment,7.4
+Normandie,Levels 0-2,Unemployment,12.7
+Normandie,Levels 3 - 4,Unemployment,8.1
+Normandie,Levels 5 - 8,Unemployment,4.1
+Srbija - sever,All Levels,Unemployment,7.6
+Srbija - sever,Levels 0-2,Unemployment,10.9
+Srbija - sever,Levels 3 - 4,Unemployment,8.1
+Srbija - sever,Levels 5 - 8,Unemployment,5.6
+Bourgogne - Franche-Comté,All Levels,Unemployment,6.9
+Bourgogne - Franche-Comté,Levels 0-2,Unemployment,13.9
+Bourgogne - Franche-Comté,Levels 3 - 4,Unemployment,7.2
+Bourgogne - Franche-Comté,Levels 5 - 8,Unemployment,3.9
+Centro (IT),All Levels,Unemployment,8
+Centro (IT),Levels 0-2,Unemployment,10.7
+Centro (IT),Levels 3 - 4,Unemployment,8.2
+Centro (IT),Levels 5 - 8,Unemployment,5
+Prov. Brabant wallon,All Levels,Unemployment,6.2
+Prov. Brabant wallon,Levels 0-2,Unemployment,14
+Prov. Brabant wallon,Levels 3 - 4,Unemployment,6.8
+Prov. Brabant wallon,Levels 5 - 8,Unemployment,4.9
+Lubelskie,All Levels,Unemployment,5.7
+Lubelskie,Levels 0-2,Unemployment,16.8
+Lubelskie,Levels 3 - 4,Unemployment,6.4
+Lubelskie,Levels 5 - 8,Unemployment,2.9
+European Union - 27 countries (from 2020),All Levels,Unemployment,7.1
+European Union - 27 countries (from 2020),Levels 0-2,Unemployment,13.4
+European Union - 27 countries (from 2020),Levels 3 - 4,Unemployment,6.5
+European Union - 27 countries (from 2020),Levels 5 - 8,Unemployment,4.6
+Área Metropolitana de Lisboa,All Levels,Unemployment,7.7
+Área Metropolitana de Lisboa,Levels 0-2,Unemployment,9.2
+Área Metropolitana de Lisboa,Levels 3 - 4,Unemployment,9
+Área Metropolitana de Lisboa,Levels 5 - 8,Unemployment,5.7
+Kontinentalna Hrvatska (NUTS 2016),All Levels,Unemployment,7.5
+Kontinentalna Hrvatska (NUTS 2016),Levels 0-2,Unemployment,11.1
+Kontinentalna Hrvatska (NUTS 2016),Levels 3 - 4,Unemployment,8.3
+Kontinentalna Hrvatska (NUTS 2016),Levels 5 - 8,Unemployment,4.7
+Croatia,All Levels,Unemployment,7.5
+Croatia,Levels 0-2,Unemployment,10.2
+Croatia,Levels 3 - 4,Unemployment,8.2
+Croatia,Levels 5 - 8,Unemployment,5.4
+Hrvatska,All Levels,Unemployment,7.5
+Hrvatska,Levels 0-2,Unemployment,10.2
+Hrvatska,Levels 3 - 4,Unemployment,8.2
+Hrvatska,Levels 5 - 8,Unemployment,5.4
+Region Vojvodine,All Levels,Unemployment,7.6
+Region Vojvodine,Levels 0-2,Unemployment,10.2
+Region Vojvodine,Levels 3 - 4,Unemployment,7.9
+Region Vojvodine,Levels 5 - 8,Unemployment,5.3
+Pays-de-la-Loire,All Levels,Unemployment,6.9
+Pays-de-la-Loire,Levels 0-2,Unemployment,11.4
+Pays-de-la-Loire,Levels 3 - 4,Unemployment,7.6
+Pays-de-la-Loire,Levels 5 - 8,Unemployment,4.8
+Cyprus,All Levels,Unemployment,7.6
+Cyprus,Levels 0-2,Unemployment,7.3
+Cyprus,Levels 3 - 4,Unemployment,8.5
+Cyprus,Levels 5 - 8,Unemployment,7
+Kypros,All Levels,Unemployment,7.6
+Kypros,Levels 0-2,Unemployment,7.3
+Kypros,Levels 3 - 4,Unemployment,8.5
+Kypros,Levels 5 - 8,Unemployment,7
+Prov. Namur,All Levels,Unemployment,6.1
+Prov. Namur,Levels 0-2,Unemployment,14.1
+Prov. Namur,Levels 3 - 4,Unemployment,7.1
+Prov. Namur,Levels 5 - 8,Unemployment,3
+Ticino,All Levels,Unemployment,6.6
+Ticino,Levels 0-2,Unemployment,12.3
+Ticino,Levels 3 - 4,Unemployment,6.8
+Ticino,Levels 5 - 8,Unemployment,4.5
+Severen tsentralen,All Levels,Unemployment,5.7
+Severen tsentralen,Levels 0-2,Unemployment,19.3
+Severen tsentralen,Levels 3 - 4,Unemployment,5
+Severen tsentralen,Levels 5 - 8,Unemployment,
+Luxembourg,All Levels,Unemployment,6.8
+Luxembourg,Levels 0-2,Unemployment,11.4
+Luxembourg,Levels 3 - 4,Unemployment,6.9
+Luxembourg,Levels 5 - 8,Unemployment,4.7
+Severoiztochen,All Levels,Unemployment,6.1
+Severoiztochen,Levels 0-2,Unemployment,14.7
+Severoiztochen,Levels 3 - 4,Unemployment,4.3
+Severoiztochen,Levels 5 - 8,Unemployment,4.7
+Bretagne,All Levels,Unemployment,6.7
+Bretagne,Levels 0-2,Unemployment,10.7
+Bretagne,Levels 3 - 4,Unemployment,7.2
+Bretagne,Levels 5 - 8,Unemployment,5.1
+Marche,All Levels,Unemployment,7.4
+Marche,Levels 0-2,Unemployment,8.4
+Marche,Levels 3 - 4,Unemployment,7.4
+Marche,Levels 5 - 8,Unemployment,6.1
+Piemonte,All Levels,Unemployment,7.5
+Piemonte,Levels 0-2,Unemployment,10.2
+Piemonte,Levels 3 - 4,Unemployment,7.2
+Piemonte,Levels 5 - 8,Unemployment,4.3
+Jadranska Hrvatska,All Levels,Unemployment,7.5
+Jadranska Hrvatska,Levels 0-2,Unemployment,6.6
+Jadranska Hrvatska,Levels 3 - 4,Unemployment,8
+Jadranska Hrvatska,Levels 5 - 8,Unemployment,6.6
+"Kastamonu, Çankiri, Sinop",All Levels,Unemployment,6.6
+"Kastamonu, Çankiri, Sinop",Levels 0-2,Unemployment,5.4
+"Kastamonu, Çankiri, Sinop",Levels 3 - 4,Unemployment,7.5
+"Kastamonu, Çankiri, Sinop",Levels 5 - 8,Unemployment,9.2
+Moravskoslezsko,All Levels,Unemployment,3.6
+Moravskoslezsko,Levels 0-2,Unemployment,19.9
+Moravskoslezsko,Levels 3 - 4,Unemployment,3.1
+Moravskoslezsko,Levels 5 - 8,Unemployment,1.5
+Hovedstaden,All Levels,Unemployment,6.1
+Hovedstaden,Levels 0-2,Unemployment,11.2
+Hovedstaden,Levels 3 - 4,Unemployment,5.8
+Hovedstaden,Levels 5 - 8,Unemployment,4.9
+Norte,All Levels,Unemployment,6.9
+Norte,Levels 0-2,Unemployment,6.7
+Norte,Levels 3 - 4,Unemployment,8
+Norte,Levels 5 - 8,Unemployment,6.1
+Continente,All Levels,Unemployment,6.9
+Continente,Levels 0-2,Unemployment,6.5
+Continente,Levels 3 - 4,Unemployment,8.3
+Continente,Levels 5 - 8,Unemployment,5.9
+Portugal,All Levels,Unemployment,6.9
+Portugal,Levels 0-2,Unemployment,6.5
+Portugal,Levels 3 - 4,Unemployment,8.4
+Portugal,Levels 5 - 8,Unemployment,5.8
+Belgium,All Levels,Unemployment,5.6
+Belgium,Levels 0-2,Unemployment,12.1
+Belgium,Levels 3 - 4,Unemployment,5.7
+Belgium,Levels 5 - 8,Unemployment,3.4
+Bucuresti - Ilfov,All Levels,Unemployment,4.7
+Bucuresti - Ilfov,Levels 0-2,Unemployment,13.8
+Bucuresti - Ilfov,Levels 3 - 4,Unemployment,6.2
+Bucuresti - Ilfov,Levels 5 - 8,Unemployment,1.8
+Algarve,All Levels,Unemployment,8.4
+Algarve,Levels 0-2,Unemployment,9.1
+Algarve,Levels 3 - 4,Unemployment,9
+Algarve,Levels 5 - 8,Unemployment,
+Franche-Comté,All Levels,Unemployment,5.6
+Franche-Comté,Levels 0-2,Unemployment,12
+Franche-Comté,Levels 3 - 4,Unemployment,4.9
+Franche-Comté,Levels 5 - 8,Unemployment,4
+Bulgaria,All Levels,Unemployment,5.1
+Bulgaria,Levels 0-2,Unemployment,13.9
+Bulgaria,Levels 3 - 4,Unemployment,4.7
+Bulgaria,Levels 5 - 8,Unemployment,2.5
+Dolnoslaskie,All Levels,Unemployment,3.1
+Dolnoslaskie,Levels 0-2,Unemployment,18.3
+Dolnoslaskie,Levels 3 - 4,Unemployment,3.3
+Dolnoslaskie,Levels 5 - 8,Unemployment,1.5
+Alföld és Észak,All Levels,Unemployment,5.8
+Alföld és Észak,Levels 0-2,Unemployment,13
+Alföld és Észak,Levels 3 - 4,Unemployment,5.2
+Alföld és Észak,Levels 5 - 8,Unemployment,2.2
+Austria,All Levels,Unemployment,5.4
+Austria,Levels 0-2,Unemployment,12.3
+Austria,Levels 3 - 4,Unemployment,5
+Austria,Levels 5 - 8,Unemployment,3.4
+Midi-Pyrénées,All Levels,Unemployment,5.6
+Midi-Pyrénées,Levels 0-2,Unemployment,10.4
+Midi-Pyrénées,Levels 3 - 4,Unemployment,6.7
+Midi-Pyrénées,Levels 5 - 8,Unemployment,3.4
+Vzhodna Slovenija,All Levels,Unemployment,5.5
+Vzhodna Slovenija,Levels 0-2,Unemployment,10.9
+Vzhodna Slovenija,Levels 3 - 4,Unemployment,5.9
+Vzhodna Slovenija,Levels 5 - 8,Unemployment,3.8
+Eastern and Midland,All Levels,Unemployment,5.8
+Eastern and Midland,Levels 0-2,Unemployment,8.7
+Eastern and Midland,Levels 3 - 4,Unemployment,7.1
+Eastern and Midland,Levels 5 - 8,Unemployment,4.4
+Oslo og Akershus (statistical region 2016),All Levels,Unemployment,5.1
+Oslo og Akershus (statistical region 2016),Levels 0-2,Unemployment,11.8
+Oslo og Akershus (statistical region 2016),Levels 3 - 4,Unemployment,5.7
+Oslo og Akershus (statistical region 2016),Levels 5 - 8,Unemployment,3.2
+Toscana,All Levels,Unemployment,6.6
+Toscana,Levels 0-2,Unemployment,8.3
+Toscana,Levels 3 - 4,Unemployment,6.7
+Toscana,Levels 5 - 8,Unemployment,4.2
+Sud-Est,All Levels,Unemployment,7.4
+Sud-Est,Levels 0-2,Unemployment,11.2
+Sud-Est,Levels 3 - 4,Unemployment,7.1
+Sud-Est,Levels 5 - 8,Unemployment,
+Southern,All Levels,Unemployment,5.8
+Southern,Levels 0-2,Unemployment,8.9
+Southern,Levels 3 - 4,Unemployment,7.1
+Southern,Levels 5 - 8,Unemployment,3.7
+Basse-Normandie,All Levels,Unemployment,6.1
+Basse-Normandie,Levels 0-2,Unemployment,8.4
+Basse-Normandie,Levels 3 - 4,Unemployment,7.1
+Basse-Normandie,Levels 5 - 8,Unemployment,3.8
+Macroregiunea unu,All Levels,Unemployment,5.3
+Macroregiunea unu,Levels 0-2,Unemployment,13.2
+Macroregiunea unu,Levels 3 - 4,Unemployment,4.5
+Macroregiunea unu,Levels 5 - 8,Unemployment,2.4
+Éire/Ireland,All Levels,Unemployment,5.7
+Éire/Ireland,Levels 0-2,Unemployment,8.3
+Éire/Ireland,Levels 3 - 4,Unemployment,6.9
+Éire/Ireland,Levels 5 - 8,Unemployment,4.1
+Ireland,All Levels,Unemployment,5.7
+Ireland,Levels 0-2,Unemployment,8.3
+Ireland,Levels 3 - 4,Unemployment,6.9
+Ireland,Levels 5 - 8,Unemployment,4.1
+Nordjylland,All Levels,Unemployment,5.8
+Nordjylland,Levels 0-2,Unemployment,9.1
+Nordjylland,Levels 3 - 4,Unemployment,4.5
+Nordjylland,Levels 5 - 8,Unemployment,5.4
+Slovenia,All Levels,Unemployment,5
+Slovenia,Levels 0-2,Unemployment,11.1
+Slovenia,Levels 3 - 4,Unemployment,5.5
+Slovenia,Levels 5 - 8,Unemployment,3.1
+Slovenija,All Levels,Unemployment,5
+Slovenija,Levels 0-2,Unemployment,11.1
+Slovenija,Levels 3 - 4,Unemployment,5.5
+Slovenija,Levels 5 - 8,Unemployment,3.1
+Danmark,All Levels,Unemployment,5.6
+Danmark,Levels 0-2,Unemployment,9.4
+Danmark,Levels 3 - 4,Unemployment,4.8
+Danmark,Levels 5 - 8,Unemployment,4.7
+Denmark,All Levels,Unemployment,5.6
+Denmark,Levels 0-2,Unemployment,9.4
+Denmark,Levels 3 - 4,Unemployment,4.8
+Denmark,Levels 5 - 8,Unemployment,4.7
+Auvergne,All Levels,Unemployment,5.5
+Auvergne,Levels 0-2,Unemployment,9.5
+Auvergne,Levels 3 - 4,Unemployment,5.3
+Auvergne,Levels 5 - 8,Unemployment,4
+Macroregiunea trei,All Levels,Unemployment,5.3
+Macroregiunea trei,Levels 0-2,Unemployment,11.2
+Macroregiunea trei,Levels 3 - 4,Unemployment,5.7
+Macroregiunea trei,Levels 5 - 8,Unemployment,1.9
+Kärnten,All Levels,Unemployment,4.7
+Kärnten,Levels 0-2,Unemployment,11.6
+Kärnten,Levels 3 - 4,Unemployment,4.4
+Kärnten,Levels 5 - 8,Unemployment,3.3
+Centro (PT),All Levels,Unemployment,5.7
+Centro (PT),Levels 0-2,Unemployment,4
+Centro (PT),Levels 3 - 4,Unemployment,8
+Centro (PT),Levels 5 - 8,Unemployment,5.8
+Düsseldorf,All Levels,Unemployment,4.7
+Düsseldorf,Levels 0-2,Unemployment,12.2
+Düsseldorf,Levels 3 - 4,Unemployment,3.8
+Düsseldorf,Levels 5 - 8,Unemployment,2.8
+Mazowiecki regionalny,All Levels,Unemployment,4.8
+Mazowiecki regionalny,Levels 0-2,Unemployment,11
+Mazowiecki regionalny,Levels 3 - 4,Unemployment,5
+Mazowiecki regionalny,Levels 5 - 8,Unemployment,2.7
+Nord-Ovest,All Levels,Unemployment,6
+Nord-Ovest,Levels 0-2,Unemployment,8.2
+Nord-Ovest,Levels 3 - 4,Unemployment,5.8
+Nord-Ovest,Levels 5 - 8,Unemployment,3.5
+Zahodna Slovenija,All Levels,Unemployment,4.4
+Zahodna Slovenija,Levels 0-2,Unemployment,11.3
+Zahodna Slovenija,Levels 3 - 4,Unemployment,5.1
+Zahodna Slovenija,Levels 5 - 8,Unemployment,2.6
+Midtjylland,All Levels,Unemployment,5.5
+Midtjylland,Levels 0-2,Unemployment,8.1
+Midtjylland,Levels 3 - 4,Unemployment,4.1
+Midtjylland,Levels 5 - 8,Unemployment,5.7
+Dél-Dunántúl,All Levels,Unemployment,5.3
+Dél-Dunántúl,Levels 0-2,Unemployment,13.6
+Dél-Dunántúl,Levels 3 - 4,Unemployment,4.4
+Dél-Dunántúl,Levels 5 - 8,Unemployment,
+Iceland,All Levels,Unemployment,5.5
+Iceland,Levels 0-2,Unemployment,8.4
+Iceland,Levels 3 - 4,Unemployment,5.5
+Iceland,Levels 5 - 8,Unemployment,3.7
+Ísland,All Levels,Unemployment,5.5
+Ísland,Levels 0-2,Unemployment,8.4
+Ísland,Levels 3 - 4,Unemployment,5.5
+Ísland,Levels 5 - 8,Unemployment,3.7
+Südösterreich,All Levels,Unemployment,4.5
+Südösterreich,Levels 0-2,Unemployment,11.5
+Südösterreich,Levels 3 - 4,Unemployment,4
+Südösterreich,Levels 5 - 8,Unemployment,3
+Makroregion Wschodni,All Levels,Unemployment,4.5
+Makroregion Wschodni,Levels 0-2,Unemployment,10.5
+Makroregion Wschodni,Levels 3 - 4,Unemployment,4.8
+Makroregion Wschodni,Levels 5 - 8,Unemployment,3.1
+Západné Slovensko,All Levels,Unemployment,4.7
+Západné Slovensko,Levels 0-2,Unemployment,9.8
+Západné Slovensko,Levels 3 - 4,Unemployment,4.8
+Západné Slovensko,Levels 5 - 8,Unemployment,3.6
+Groningen,All Levels,Unemployment,5.2
+Groningen,Levels 0-2,Unemployment,9.1
+Groningen,Levels 3 - 4,Unemployment,5.1
+Groningen,Levels 5 - 8,Unemployment,3.5
+Friuli-Venezia Giulia,All Levels,Unemployment,5.7
+Friuli-Venezia Giulia,Levels 0-2,Unemployment,7.9
+Friuli-Venezia Giulia,Levels 3 - 4,Unemployment,5.4
+Friuli-Venezia Giulia,Levels 5 - 8,Unemployment,3.8
+Nordwestschweiz,All Levels,Unemployment,4.8
+Nordwestschweiz,Levels 0-2,Unemployment,9.8
+Nordwestschweiz,Levels 3 - 4,Unemployment,4.8
+Nordwestschweiz,Levels 5 - 8,Unemployment,3.4
+Veneto,All Levels,Unemployment,5.8
+Veneto,Levels 0-2,Unemployment,6.6
+Veneto,Levels 3 - 4,Unemployment,6
+Veneto,Levels 5 - 8,Unemployment,4.4
+Emilia-Romagna,All Levels,Unemployment,5.7
+Emilia-Romagna,Levels 0-2,Unemployment,7.8
+Emilia-Romagna,Levels 3 - 4,Unemployment,5.8
+Emilia-Romagna,Levels 5 - 8,Unemployment,3.4
+Sjælland,All Levels,Unemployment,5.3
+Sjælland,Levels 0-2,Unemployment,10
+Sjælland,Levels 3 - 4,Unemployment,4.7
+Sjælland,Levels 5 - 8,Unemployment,2.7
+Steiermark,All Levels,Unemployment,4.4
+Steiermark,Levels 0-2,Unemployment,11.4
+Steiermark,Levels 3 - 4,Unemployment,3.8
+Steiermark,Levels 5 - 8,Unemployment,2.9
+Makroregion Poludniowo-Zachodni,All Levels,Unemployment,3.1
+Makroregion Poludniowo-Zachodni,Levels 0-2,Unemployment,14.4
+Makroregion Poludniowo-Zachodni,Levels 3 - 4,Unemployment,3.3
+Makroregion Poludniowo-Zachodni,Levels 5 - 8,Unemployment,1.5
+Nord-Est,All Levels,Unemployment,5.6
+Nord-Est,Levels 0-2,Unemployment,7.2
+Nord-Est,Levels 3 - 4,Unemployment,5.7
+Nord-Est,Levels 5 - 8,Unemployment,3.8
+Niederösterreich,All Levels,Unemployment,4.2
+Niederösterreich,Levels 0-2,Unemployment,11.6
+Niederösterreich,Levels 3 - 4,Unemployment,3.8
+Niederösterreich,Levels 5 - 8,Unemployment,2.4
+Yugozapaden,All Levels,Unemployment,3.6
+Yugozapaden,Levels 0-2,Unemployment,12.4
+Yugozapaden,Levels 3 - 4,Unemployment,4.2
+Yugozapaden,Levels 5 - 8,Unemployment,1.6
+Schweiz/Suisse/Svizzera,All Levels,Unemployment,4.8
+Schweiz/Suisse/Svizzera,Levels 0-2,Unemployment,8.5
+Schweiz/Suisse/Svizzera,Levels 3 - 4,Unemployment,5
+Schweiz/Suisse/Svizzera,Levels 5 - 8,Unemployment,3.5
+Switzerland,All Levels,Unemployment,4.8
+Switzerland,Levels 0-2,Unemployment,8.5
+Switzerland,Levels 3 - 4,Unemployment,5
+Switzerland,Levels 5 - 8,Unemployment,3.5
+Prov. Luxembourg (BE),All Levels,Unemployment,5.1
+Prov. Luxembourg (BE),Levels 0-2,Unemployment,11.3
+Prov. Luxembourg (BE),Levels 3 - 4,Unemployment,5.2
+Prov. Luxembourg (BE),Levels 5 - 8,Unemployment,
+Syddanmark,All Levels,Unemployment,5.1
+Syddanmark,Levels 0-2,Unemployment,8.3
+Syddanmark,Levels 3 - 4,Unemployment,4.4
+Syddanmark,Levels 5 - 8,Unemployment,3.8
+Sud - Muntenia,All Levels,Unemployment,5.9
+Sud - Muntenia,Levels 0-2,Unemployment,10.2
+Sud - Muntenia,Levels 3 - 4,Unemployment,5.4
+Sud - Muntenia,Levels 5 - 8,Unemployment,
+Provincia Autonoma di Trento,All Levels,Unemployment,5.3
+Provincia Autonoma di Trento,Levels 0-2,Unemployment,7.4
+Provincia Autonoma di Trento,Levels 3 - 4,Unemployment,5.3
+Provincia Autonoma di Trento,Levels 5 - 8,Unemployment,3.2
+Hungary,All Levels,Unemployment,4.3
+Hungary,Levels 0-2,Unemployment,10.9
+Hungary,Levels 3 - 4,Unemployment,4.1
+Hungary,Levels 5 - 8,Unemployment,1.8
+Sør-Østlandet (statistical region 2016),All Levels,Unemployment,4.7
+Sør-Østlandet (statistical region 2016),Levels 0-2,Unemployment,9
+Sør-Østlandet (statistical region 2016),Levels 3 - 4,Unemployment,4.6
+Sør-Østlandet (statistical region 2016),Levels 5 - 8,Unemployment,2.7
+Dél-Alföld,All Levels,Unemployment,4.7
+Dél-Alföld,Levels 0-2,Unemployment,11.7
+Dél-Alföld,Levels 3 - 4,Unemployment,4.3
+Dél-Alföld,Levels 5 - 8,Unemployment,
+Nordrhein-Westfalen,All Levels,Unemployment,4.3
+Nordrhein-Westfalen,Levels 0-2,Unemployment,10
+Nordrhein-Westfalen,Levels 3 - 4,Unemployment,3.6
+Nordrhein-Westfalen,Levels 5 - 8,Unemployment,2.8
+Norge,All Levels,Unemployment,4.4
+Norge,Levels 0-2,Unemployment,9
+Norge,Levels 3 - 4,Unemployment,4.4
+Norge,Levels 5 - 8,Unemployment,2.8
+Norway,All Levels,Unemployment,4.4
+Norway,Levels 0-2,Unemployment,9
+Norway,Levels 3 - 4,Unemployment,4.4
+Norway,Levels 5 - 8,Unemployment,2.8
+Romania,All Levels,Unemployment,5
+Romania,Levels 0-2,Unemployment,8.1
+Romania,Levels 3 - 4,Unemployment,5.1
+Romania,Levels 5 - 8,Unemployment,2.2
+Vestlandet (statistical region 2016),All Levels,Unemployment,4.3
+Vestlandet (statistical region 2016),Levels 0-2,Unemployment,9.4
+Vestlandet (statistical region 2016),Levels 3 - 4,Unemployment,3.8
+Vestlandet (statistical region 2016),Levels 5 - 8,Unemployment,2.9
+Vest,All Levels,Unemployment,4.6
+Vest,Levels 0-2,Unemployment,11.3
+Vest,Levels 3 - 4,Unemployment,4.4
+Vest,Levels 5 - 8,Unemployment,
+Severozápad,All Levels,Unemployment,4
+Severozápad,Levels 0-2,Unemployment,11.5
+Severozápad,Levels 3 - 4,Unemployment,3.4
+Severozápad,Levels 5 - 8,Unemployment,1.4
+Zürich,All Levels,Unemployment,4.3
+Zürich,Levels 0-2,Unemployment,7.7
+Zürich,Levels 3 - 4,Unemployment,5.1
+Zürich,Levels 5 - 8,Unemployment,3.2
+Yugoiztochen,All Levels,Unemployment,4.6
+Yugoiztochen,Levels 0-2,Unemployment,8.1
+Yugoiztochen,Levels 3 - 4,Unemployment,4.2
+Yugoiztochen,Levels 5 - 8,Unemployment,3.1
+Köln,All Levels,Unemployment,4.2
+Köln,Levels 0-2,Unemployment,8.5
+Köln,Levels 3 - 4,Unemployment,4
+Köln,Levels 5 - 8,Unemployment,3.2
+Lombardia,All Levels,Unemployment,5
+Lombardia,Levels 0-2,Unemployment,6.6
+Lombardia,Levels 3 - 4,Unemployment,5.1
+Lombardia,Levels 5 - 8,Unemployment,3.2
+Arnsberg,All Levels,Unemployment,4.8
+Arnsberg,Levels 0-2,Unemployment,11
+Arnsberg,Levels 3 - 4,Unemployment,4
+Arnsberg,Levels 5 - 8,Unemployment,
+Észak-Magyarország,All Levels,Unemployment,5
+Észak-Magyarország,Levels 0-2,Unemployment,10
+Észak-Magyarország,Levels 3 - 4,Unemployment,4.7
+Észak-Magyarország,Levels 5 - 8,Unemployment,
+Makroregion Województwo Mazowieckie,All Levels,Unemployment,3.4
+Makroregion Województwo Mazowieckie,Levels 0-2,Unemployment,10.1
+Makroregion Województwo Mazowieckie,Levels 3 - 4,Unemployment,4.3
+Makroregion Województwo Mazowieckie,Levels 5 - 8,Unemployment,1.9
+Zuid-Holland,All Levels,Unemployment,4.4
+Zuid-Holland,Levels 0-2,Unemployment,7.8
+Zuid-Holland,Levels 3 - 4,Unemployment,4.5
+Zuid-Holland,Levels 5 - 8,Unemployment,2.8
+Espace Mittelland,All Levels,Unemployment,4.3
+Espace Mittelland,Levels 0-2,Unemployment,7.2
+Espace Mittelland,Levels 3 - 4,Unemployment,4.6
+Espace Mittelland,Levels 5 - 8,Unemployment,2.9
+Pest,All Levels,Unemployment,3.3
+Pest,Levels 0-2,Unemployment,10.7
+Pest,Levels 3 - 4,Unemployment,3.1
+Pest,Levels 5 - 8,Unemployment,1.6
+Közép-Magyarország,All Levels,Unemployment,3.3
+Közép-Magyarország,Levels 0-2,Unemployment,9.9
+Közép-Magyarország,Levels 3 - 4,Unemployment,3.7
+Közép-Magyarország,Levels 5 - 8,Unemployment,1.8
+Macroregiunea patru,All Levels,Unemployment,4.8
+Macroregiunea patru,Levels 0-2,Unemployment,6.4
+Macroregiunea patru,Levels 3 - 4,Unemployment,5.2
+Macroregiunea patru,Levels 5 - 8,Unemployment,2.2
+Noord-Nederland,All Levels,Unemployment,4.3
+Noord-Nederland,Levels 0-2,Unemployment,7.5
+Noord-Nederland,Levels 3 - 4,Unemployment,4.1
+Noord-Nederland,Levels 5 - 8,Unemployment,2.7
+Alentejo,All Levels,Unemployment,5.9
+Alentejo,Levels 0-2,Unemployment,5
+Alentejo,Levels 3 - 4,Unemployment,7.5
+Alentejo,Levels 5 - 8,Unemployment,
+Oberösterreich,All Levels,Unemployment,3.9
+Oberösterreich,Levels 0-2,Unemployment,8.4
+Oberösterreich,Levels 3 - 4,Unemployment,3.3
+Oberösterreich,Levels 5 - 8,Unemployment,2.8
+Germany (until 1990 former territory of the FRG),All Levels,Unemployment,3.8
+Germany (until 1990 former territory of the FRG),Levels 0-2,Unemployment,8.8
+Germany (until 1990 former territory of the FRG),Levels 3 - 4,Unemployment,3.1
+Germany (until 1990 former territory of the FRG),Levels 5 - 8,Unemployment,2.6
+Budapest,All Levels,Unemployment,3.3
+Budapest,Levels 0-2,Unemployment,8.7
+Budapest,Levels 3 - 4,Unemployment,4.3
+Budapest,Levels 5 - 8,Unemployment,2
+Makroregion Centralny,All Levels,Unemployment,3.5
+Makroregion Centralny,Levels 0-2,Unemployment,8.7
+Makroregion Centralny,Levels 3 - 4,Unemployment,3.7
+Makroregion Centralny,Levels 5 - 8,Unemployment,2.3
+Severovýchod,All Levels,Unemployment,2.3
+Severovýchod,Levels 0-2,Unemployment,12.5
+Severovýchod,Levels 3 - 4,Unemployment,2
+Severovýchod,Levels 5 - 8,Unemployment,1.3
+Agder og Rogaland (statistical region 2016),All Levels,Unemployment,4.5
+Agder og Rogaland (statistical region 2016),Levels 0-2,Unemployment,9.1
+Agder og Rogaland (statistical region 2016),Levels 3 - 4,Unemployment,4.4
+Agder og Rogaland (statistical region 2016),Levels 5 - 8,Unemployment,
+West-Nederland,All Levels,Unemployment,4
+West-Nederland,Levels 0-2,Unemployment,7.2
+West-Nederland,Levels 3 - 4,Unemployment,4.2
+West-Nederland,Levels 5 - 8,Unemployment,2.6
+Noord-Holland,All Levels,Unemployment,3.9
+Noord-Holland,Levels 0-2,Unemployment,7.2
+Noord-Holland,Levels 3 - 4,Unemployment,4.1
+Noord-Holland,Levels 5 - 8,Unemployment,2.6
+Zachodniopomorskie,All Levels,Unemployment,3.4
+Zachodniopomorskie,Levels 0-2,Unemployment,10.8
+Zachodniopomorskie,Levels 3 - 4,Unemployment,3.5
+Zachodniopomorskie,Levels 5 - 8,Unemployment,
+Prov. Antwerpen,All Levels,Unemployment,4
+Prov. Antwerpen,Levels 0-2,Unemployment,6.6
+Prov. Antwerpen,Levels 3 - 4,Unemployment,3.8
+Prov. Antwerpen,Levels 5 - 8,Unemployment,3.3
+Flevoland,All Levels,Unemployment,3.9
+Flevoland,Levels 0-2,Unemployment,8.2
+Flevoland,Levels 3 - 4,Unemployment,3
+Flevoland,Levels 5 - 8,Unemployment,2.5
+Ostschweiz,All Levels,Unemployment,3.9
+Ostschweiz,Levels 0-2,Unemployment,7.3
+Ostschweiz,Levels 3 - 4,Unemployment,3.8
+Ostschweiz,Levels 5 - 8,Unemployment,2.6
+Prov. Vlaams-Brabant,All Levels,Unemployment,3.9
+Prov. Vlaams-Brabant,Levels 0-2,Unemployment,6.2
+Prov. Vlaams-Brabant,Levels 3 - 4,Unemployment,4.4
+Prov. Vlaams-Brabant,Levels 5 - 8,Unemployment,3.1
+Hessen,All Levels,Unemployment,3.9
+Hessen,Levels 0-2,Unemployment,8
+Hessen,Levels 3 - 4,Unemployment,3.2
+Hessen,Levels 5 - 8,Unemployment,2.3
+Macroregiunea doi,All Levels,Unemployment,4.7
+Macroregiunea doi,Levels 0-2,Unemployment,4.9
+Macroregiunea doi,Levels 3 - 4,Unemployment,5
+Macroregiunea doi,Levels 5 - 8,Unemployment,2.7
+Lódzkie,All Levels,Unemployment,3.1
+Lódzkie,Levels 0-2,Unemployment,9
+Lódzkie,Levels 3 - 4,Unemployment,3.2
+Lódzkie,Levels 5 - 8,Unemployment,1.9
+Poland,All Levels,Unemployment,3.2
+Poland,Levels 0-2,Unemployment,8.5
+Poland,Levels 3 - 4,Unemployment,3.5
+Poland,Levels 5 - 8,Unemployment,2
+Yugozapadna i yuzhna tsentralna Bulgaria,All Levels,Unemployment,3.5
+Yugozapadna i yuzhna tsentralna Bulgaria,Levels 0-2,Unemployment,8.1
+Yugozapadna i yuzhna tsentralna Bulgaria,Levels 3 - 4,Unemployment,3.8
+Yugozapadna i yuzhna tsentralna Bulgaria,Levels 5 - 8,Unemployment,1.8
+Malta,All Levels,Unemployment,4.3
+Malta,Levels 0-2,Unemployment,6.2
+Malta,Levels 3 - 4,Unemployment,3.7
+Malta,Levels 5 - 8,Unemployment,2.9
+Niedersachsen,All Levels,Unemployment,3.9
+Niedersachsen,Levels 0-2,Unemployment,7.6
+Niedersachsen,Levels 3 - 4,Unemployment,2.8
+Niedersachsen,Levels 5 - 8,Unemployment,2.7
+Strední Morava,All Levels,Unemployment,2.5
+Strední Morava,Levels 0-2,Unemployment,10.7
+Strední Morava,Levels 3 - 4,Unemployment,2.2
+Strední Morava,Levels 5 - 8,Unemployment,1.6
+Netherlands,All Levels,Unemployment,3.8
+Netherlands,Levels 0-2,Unemployment,6.8
+Netherlands,Levels 3 - 4,Unemployment,3.7
+Netherlands,Levels 5 - 8,Unemployment,2.6
+Cesko,All Levels,Unemployment,2.6
+Cesko,Levels 0-2,Unemployment,10.4
+Cesko,Levels 3 - 4,Unemployment,2.4
+Cesko,Levels 5 - 8,Unemployment,1.4
+Czechia,All Levels,Unemployment,2.6
+Czechia,Levels 0-2,Unemployment,10.4
+Czechia,Levels 3 - 4,Unemployment,2.4
+Czechia,Levels 5 - 8,Unemployment,1.4
+Friesland (NL),All Levels,Unemployment,3.9
+Friesland (NL),Levels 0-2,Unemployment,6.4
+Friesland (NL),Levels 3 - 4,Unemployment,3.8
+Friesland (NL),Levels 5 - 8,Unemployment,2.5
+Westösterreich,All Levels,Unemployment,3.5
+Westösterreich,Levels 0-2,Unemployment,7.7
+Westösterreich,Levels 3 - 4,Unemployment,3.1
+Westösterreich,Levels 5 - 8,Unemployment,2.3
+Prov. Limburg (BE),All Levels,Unemployment,3.6
+Prov. Limburg (BE),Levels 0-2,Unemployment,6.4
+Prov. Limburg (BE),Levels 3 - 4,Unemployment,4.2
+Prov. Limburg (BE),Levels 5 - 8,Unemployment,2.1
+Dunántúl,All Levels,Unemployment,3.3
+Dunántúl,Levels 0-2,Unemployment,8.3
+Dunántúl,Levels 3 - 4,Unemployment,3
+Dunántúl,Levels 5 - 8,Unemployment,1.5
+Makroregion Pólnocny,All Levels,Unemployment,3.1
+Makroregion Pólnocny,Levels 0-2,Unemployment,8
+Makroregion Pólnocny,Levels 3 - 4,Unemployment,3.5
+Makroregion Pólnocny,Levels 5 - 8,Unemployment,1.4
+Utrecht,All Levels,Unemployment,3.5
+Utrecht,Levels 0-2,Unemployment,6.2
+Utrecht,Levels 3 - 4,Unemployment,3.9
+Utrecht,Levels 5 - 8,Unemployment,2.4
+Vlaams Gewest,All Levels,Unemployment,3.5
+Vlaams Gewest,Levels 0-2,Unemployment,6.2
+Vlaams Gewest,Levels 3 - 4,Unemployment,3.6
+Vlaams Gewest,Levels 5 - 8,Unemployment,2.6
+Darmstadt,All Levels,Unemployment,4
+Darmstadt,Levels 0-2,Unemployment,8.5
+Darmstadt,Levels 3 - 4,Unemployment,3.3
+Darmstadt,Levels 5 - 8,Unemployment,
+Limousin,All Levels,Unemployment,7.2
+Limousin,Levels 0-2,Unemployment,
+Limousin,Levels 3 - 4,Unemployment,8.4
+Limousin,Levels 5 - 8,Unemployment,
+Oost-Nederland,All Levels,Unemployment,3.6
+Oost-Nederland,Levels 0-2,Unemployment,6.2
+Oost-Nederland,Levels 3 - 4,Unemployment,3.3
+Oost-Nederland,Levels 5 - 8,Unemployment,2.4
+Noord-Brabant,All Levels,Unemployment,3.5
+Noord-Brabant,Levels 0-2,Unemployment,6.4
+Noord-Brabant,Levels 3 - 4,Unemployment,3
+Noord-Brabant,Levels 5 - 8,Unemployment,2.6
+Sud-Vest Oltenia,All Levels,Unemployment,5
+Sud-Vest Oltenia,Levels 0-2,Unemployment,4.4
+Sud-Vest Oltenia,Levels 3 - 4,Unemployment,6
+Sud-Vest Oltenia,Levels 5 - 8,Unemployment,
+Overijssel,All Levels,Unemployment,3.5
+Overijssel,Levels 0-2,Unemployment,6.1
+Overijssel,Levels 3 - 4,Unemployment,3.5
+Overijssel,Levels 5 - 8,Unemployment,2.2
+Zuid-Nederland,All Levels,Unemployment,3.5
+Zuid-Nederland,Levels 0-2,Unemployment,6.1
+Zuid-Nederland,Levels 3 - 4,Unemployment,3
+Zuid-Nederland,Levels 5 - 8,Unemployment,2.6
+Gelderland,All Levels,Unemployment,3.5
+Gelderland,Levels 0-2,Unemployment,5.9
+Gelderland,Levels 3 - 4,Unemployment,3.2
+Gelderland,Levels 5 - 8,Unemployment,2.5
+Jihovýchod,All Levels,Unemployment,2.3
+Jihovýchod,Levels 0-2,Unemployment,9.4
+Jihovýchod,Levels 3 - 4,Unemployment,2.3
+Jihovýchod,Levels 5 - 8,Unemployment,1.1
+Região Autónoma da Madeira (PT),All Levels,Unemployment,8.1
+Região Autónoma da Madeira (PT),Levels 0-2,Unemployment,6.9
+Região Autónoma da Madeira (PT),Levels 3 - 4,Unemployment,
+Região Autónoma da Madeira (PT),Levels 5 - 8,Unemployment,
+Northern and Western,All Levels,Unemployment,5
+Northern and Western,Levels 0-2,Unemployment,
+Northern and Western,Levels 3 - 4,Unemployment,5.9
+Northern and Western,Levels 5 - 8,Unemployment,3.9
+Prov. West-Vlaanderen,All Levels,Unemployment,3.3
+Prov. West-Vlaanderen,Levels 0-2,Unemployment,5.7
+Prov. West-Vlaanderen,Levels 3 - 4,Unemployment,3.5
+Prov. West-Vlaanderen,Levels 5 - 8,Unemployment,2.3
+Limburg (NL),All Levels,Unemployment,3.5
+Limburg (NL),Levels 0-2,Unemployment,5.6
+Limburg (NL),Levels 3 - 4,Unemployment,3.1
+Limburg (NL),Levels 5 - 8,Unemployment,2.6
+Drenthe,All Levels,Unemployment,3.7
+Drenthe,Levels 0-2,Unemployment,7.6
+Drenthe,Levels 3 - 4,Unemployment,3.4
+Drenthe,Levels 5 - 8,Unemployment,
+Baden-Württemberg,All Levels,Unemployment,3.2
+Baden-Württemberg,Levels 0-2,Unemployment,6.1
+Baden-Württemberg,Levels 3 - 4,Unemployment,2.7
+Baden-Württemberg,Levels 5 - 8,Unemployment,2.5
+Valle d'Aosta/Vallée d'Aoste,All Levels,Unemployment,5.8
+Valle d'Aosta/Vallée d'Aoste,Levels 0-2,Unemployment,8.7
+Valle d'Aosta/Vallée d'Aoste,Levels 3 - 4,Unemployment,
+Valle d'Aosta/Vallée d'Aoste,Levels 5 - 8,Unemployment,
+Yuzhen tsentralen,All Levels,Unemployment,3.4
+Yuzhen tsentralen,Levels 0-2,Unemployment,5.3
+Yuzhen tsentralen,Levels 3 - 4,Unemployment,3.3
+Yuzhen tsentralen,Levels 5 - 8,Unemployment,2.5
+Nord-Vest,All Levels,Unemployment,3.8
+Nord-Vest,Levels 0-2,Unemployment,6.8
+Nord-Vest,Levels 3 - 4,Unemployment,3.7
+Nord-Vest,Levels 5 - 8,Unemployment,
+Stuttgart,All Levels,Unemployment,3.4
+Stuttgart,Levels 0-2,Unemployment,7.5
+Stuttgart,Levels 3 - 4,Unemployment,2.8
+Stuttgart,Levels 5 - 8,Unemployment,
+Bayern,All Levels,Unemployment,2.6
+Bayern,Levels 0-2,Unemployment,6.7
+Bayern,Levels 3 - 4,Unemployment,2.3
+Bayern,Levels 5 - 8,Unemployment,1.9
+Prov. Oost-Vlaanderen,All Levels,Unemployment,2.7
+Prov. Oost-Vlaanderen,Levels 0-2,Unemployment,6
+Prov. Oost-Vlaanderen,Levels 3 - 4,Unemployment,2.6
+Prov. Oost-Vlaanderen,Levels 5 - 8,Unemployment,2
+Provincia Autonoma di Bolzano/Bozen,All Levels,Unemployment,3.8
+Provincia Autonoma di Bolzano/Bozen,Levels 0-2,Unemployment,5.9
+Provincia Autonoma di Bolzano/Bozen,Levels 3 - 4,Unemployment,3.4
+Provincia Autonoma di Bolzano/Bozen,Levels 5 - 8,Unemployment,
+Região Autónoma dos Açores (PT),All Levels,Unemployment,6.1
+Região Autónoma dos Açores (PT),Levels 0-2,Unemployment,6.9
+Região Autónoma dos Açores (PT),Levels 3 - 4,Unemployment,
+Região Autónoma dos Açores (PT),Levels 5 - 8,Unemployment,
+Tirol,All Levels,Unemployment,3.1
+Tirol,Levels 0-2,Unemployment,7
+Tirol,Levels 3 - 4,Unemployment,2.8
+Tirol,Levels 5 - 8,Unemployment,
+Zentralschweiz,All Levels,Unemployment,2.9
+Zentralschweiz,Levels 0-2,Unemployment,4.7
+Zentralschweiz,Levels 3 - 4,Unemployment,3.2
+Zentralschweiz,Levels 5 - 8,Unemployment,2.1
+Makroregion Poludniowy,All Levels,Unemployment,2.7
+Makroregion Poludniowy,Levels 0-2,Unemployment,5
+Makroregion Poludniowy,Levels 3 - 4,Unemployment,2.9
+Makroregion Poludniowy,Levels 5 - 8,Unemployment,2.2
+Jihozápad,All Levels,Unemployment,2
+Jihozápad,Levels 0-2,Unemployment,7.3
+Jihozápad,Levels 3 - 4,Unemployment,1.6
+Jihozápad,Levels 5 - 8,Unemployment,1.8
+Makroregion Pólnocno-Zachodni,All Levels,Unemployment,2.3
+Makroregion Pólnocno-Zachodni,Levels 0-2,Unemployment,6.2
+Makroregion Pólnocno-Zachodni,Levels 3 - 4,Unemployment,2.5
+Makroregion Pólnocno-Zachodni,Levels 5 - 8,Unemployment,1.3
+Podkarpackie,All Levels,Unemployment,4.3
+Podkarpackie,Levels 0-2,Unemployment,
+Podkarpackie,Levels 3 - 4,Unemployment,4.2
+Podkarpackie,Levels 5 - 8,Unemployment,3.8
+Swietokrzyskie,All Levels,Unemployment,4.3
+Swietokrzyskie,Levels 0-2,Unemployment,
+Swietokrzyskie,Levels 3 - 4,Unemployment,4.7
+Swietokrzyskie,Levels 5 - 8,Unemployment,3.2
+Rheinland-Pfalz,All Levels,Unemployment,3.7
+Rheinland-Pfalz,Levels 0-2,Unemployment,7.3
+Rheinland-Pfalz,Levels 3 - 4,Unemployment,
+Rheinland-Pfalz,Levels 5 - 8,Unemployment,
+Közép-Dunántúl,All Levels,Unemployment,2.8
+Közép-Dunántúl,Levels 0-2,Unemployment,5.2
+Közép-Dunántúl,Levels 3 - 4,Unemployment,2.7
+Közép-Dunántúl,Levels 5 - 8,Unemployment,
+Strední Cechy,All Levels,Unemployment,1.9
+Strední Cechy,Levels 0-2,Unemployment,4.9
+Strední Cechy,Levels 3 - 4,Unemployment,2.1
+Strední Cechy,Levels 5 - 8,Unemployment,1.1
+Praha,All Levels,Unemployment,2.3
+Praha,Levels 0-2,Unemployment,3.3
+Praha,Levels 3 - 4,Unemployment,2.8
+Praha,Levels 5 - 8,Unemployment,1.6
+Zeeland,All Levels,Unemployment,2.6
+Zeeland,Levels 0-2,Unemployment,4.8
+Zeeland,Levels 3 - 4,Unemployment,2.2
+Zeeland,Levels 5 - 8,Unemployment,
+Sachsen-Anhalt,All Levels,Unemployment,4.6
+Sachsen-Anhalt,Levels 0-2,Unemployment,
+Sachsen-Anhalt,Levels 3 - 4,Unemployment,4.9
+Sachsen-Anhalt,Levels 5 - 8,Unemployment,
+Bratislavský kraj,All Levels,Unemployment,3.4
+Bratislavský kraj,Levels 0-2,Unemployment,
+Bratislavský kraj,Levels 3 - 4,Unemployment,4
+Bratislavský kraj,Levels 5 - 8,Unemployment,1.7
+Burgenland (AT),All Levels,Unemployment,4.2
+Burgenland (AT),Levels 0-2,Unemployment,
+Burgenland (AT),Levels 3 - 4,Unemployment,4.5
+Burgenland (AT),Levels 5 - 8,Unemployment,
+Pomorskie,All Levels,Unemployment,3.1
+Pomorskie,Levels 0-2,Unemployment,
+Pomorskie,Levels 3 - 4,Unemployment,3.8
+Pomorskie,Levels 5 - 8,Unemployment,1.4
+Malopolskie,All Levels,Unemployment,2.7
+Malopolskie,Levels 0-2,Unemployment,
+Malopolskie,Levels 3 - 4,Unemployment,2.5
+Malopolskie,Levels 5 - 8,Unemployment,2.8
+Warszawski stoleczny,All Levels,Unemployment,2.5
+Warszawski stoleczny,Levels 0-2,Unemployment,
+Warszawski stoleczny,Levels 3 - 4,Unemployment,3.4
+Warszawski stoleczny,Levels 5 - 8,Unemployment,1.7
+Slaskie,All Levels,Unemployment,2.7
+Slaskie,Levels 0-2,Unemployment,
+Slaskie,Levels 3 - 4,Unemployment,3.1
+Slaskie,Levels 5 - 8,Unemployment,1.7
+Sachsen,All Levels,Unemployment,4
+Sachsen,Levels 0-2,Unemployment,
+Sachsen,Levels 3 - 4,Unemployment,3.2
+Sachsen,Levels 5 - 8,Unemployment,
+Vorarlberg,All Levels,Unemployment,3.6
+Vorarlberg,Levels 0-2,Unemployment,
+Vorarlberg,Levels 3 - 4,Unemployment,3.3
+Vorarlberg,Levels 5 - 8,Unemployment,
+Kujawsko-Pomorskie,All Levels,Unemployment,3.1
+Kujawsko-Pomorskie,Levels 0-2,Unemployment,
+Kujawsko-Pomorskie,Levels 3 - 4,Unemployment,3.6
+Kujawsko-Pomorskie,Levels 5 - 8,Unemployment,
+Opolskie,All Levels,Unemployment,2.9
+Opolskie,Levels 0-2,Unemployment,
+Opolskie,Levels 3 - 4,Unemployment,3.5
+Opolskie,Levels 5 - 8,Unemployment,
+Warminsko-Mazurskie,All Levels,Unemployment,3.1
+Warminsko-Mazurskie,Levels 0-2,Unemployment,
+Warminsko-Mazurskie,Levels 3 - 4,Unemployment,3.1
+Warminsko-Mazurskie,Levels 5 - 8,Unemployment,
+Podlaskie,All Levels,Unemployment,2.8
+Podlaskie,Levels 0-2,Unemployment,
+Podlaskie,Levels 3 - 4,Unemployment,3.3
+Podlaskie,Levels 5 - 8,Unemployment,
+Salzburg,All Levels,Unemployment,3
+Salzburg,Levels 0-2,Unemployment,
+Salzburg,Levels 3 - 4,Unemployment,2.9
+Salzburg,Levels 5 - 8,Unemployment,
+Leipzig,All Levels,Unemployment,5.4
+Leipzig,Levels 0-2,Unemployment,
+Leipzig,Levels 3 - 4,Unemployment,
+Leipzig,Levels 5 - 8,Unemployment,
+Gießen,All Levels,Unemployment,5
+Gießen,Levels 0-2,Unemployment,
+Gießen,Levels 3 - 4,Unemployment,
+Gießen,Levels 5 - 8,Unemployment,
+Wielkopolskie,All Levels,Unemployment,1.8
+Wielkopolskie,Levels 0-2,Unemployment,
+Wielkopolskie,Levels 3 - 4,Unemployment,2
+Wielkopolskie,Levels 5 - 8,Unemployment,1.2
+Hamburg,All Levels,Unemployment,4.9
+Hamburg,Levels 0-2,Unemployment,
+Hamburg,Levels 3 - 4,Unemployment,
+Hamburg,Levels 5 - 8,Unemployment,
+Lubuskie,All Levels,Unemployment,2.2
+Lubuskie,Levels 0-2,Unemployment,
+Lubuskie,Levels 3 - 4,Unemployment,2.6
+Lubuskie,Levels 5 - 8,Unemployment,
+Oberbayern,All Levels,Unemployment,2.6
+Oberbayern,Levels 0-2,Unemployment,
+Oberbayern,Levels 3 - 4,Unemployment,
+Oberbayern,Levels 5 - 8,Unemployment,2.2
+Nyugat-Dunántúl,All Levels,Unemployment,2.4
+Nyugat-Dunántúl,Levels 0-2,Unemployment,
+Nyugat-Dunántúl,Levels 3 - 4,Unemployment,2.4
+Nyugat-Dunántúl,Levels 5 - 8,Unemployment,
+Braunschweig,All Levels,Unemployment,4.6
+Braunschweig,Levels 0-2,Unemployment,
+Braunschweig,Levels 3 - 4,Unemployment,
+Braunschweig,Levels 5 - 8,Unemployment,
+Brandenburg,All Levels,Unemployment,4.5
+Brandenburg,Levels 0-2,Unemployment,
+Brandenburg,Levels 3 - 4,Unemployment,
+Brandenburg,Levels 5 - 8,Unemployment,
+Rheinhessen-Pfalz,All Levels,Unemployment,4.3
+Rheinhessen-Pfalz,Levels 0-2,Unemployment,
+Rheinhessen-Pfalz,Levels 3 - 4,Unemployment,
+Rheinhessen-Pfalz,Levels 5 - 8,Unemployment,
+Mecklenburg-Vorpommern,All Levels,Unemployment,4.2
+Mecklenburg-Vorpommern,Levels 0-2,Unemployment,
+Mecklenburg-Vorpommern,Levels 3 - 4,Unemployment,
+Mecklenburg-Vorpommern,Levels 5 - 8,Unemployment,
+Hannover,All Levels,Unemployment,3.9
+Hannover,Levels 0-2,Unemployment,
+Hannover,Levels 3 - 4,Unemployment,
+Hannover,Levels 5 - 8,Unemployment,
+Lüneburg,All Levels,Unemployment,3.9
+Lüneburg,Levels 0-2,Unemployment,
+Lüneburg,Levels 3 - 4,Unemployment,
+Lüneburg,Levels 5 - 8,Unemployment,
+Innlandet,All Levels,Unemployment,3.8
+Innlandet,Levels 0-2,Unemployment,
+Innlandet,Levels 3 - 4,Unemployment,
+Innlandet,Levels 5 - 8,Unemployment,
+Detmold,All Levels,Unemployment,3.7
+Detmold,Levels 0-2,Unemployment,
+Detmold,Levels 3 - 4,Unemployment,
+Detmold,Levels 5 - 8,Unemployment,
+Dresden,All Levels,Unemployment,3.6
+Dresden,Levels 0-2,Unemployment,
+Dresden,Levels 3 - 4,Unemployment,
+Dresden,Levels 5 - 8,Unemployment,
+Karlsruhe,All Levels,Unemployment,3.6
+Karlsruhe,Levels 0-2,Unemployment,
+Karlsruhe,Levels 3 - 4,Unemployment,
+Karlsruhe,Levels 5 - 8,Unemployment,
+Mittelfranken,All Levels,Unemployment,3.5
+Mittelfranken,Levels 0-2,Unemployment,
+Mittelfranken,Levels 3 - 4,Unemployment,
+Mittelfranken,Levels 5 - 8,Unemployment,
+Nord-Norge,All Levels,Unemployment,3.5
+Nord-Norge,Levels 0-2,Unemployment,
+Nord-Norge,Levels 3 - 4,Unemployment,
+Nord-Norge,Levels 5 - 8,Unemployment,
+Thüringen,All Levels,Unemployment,3.5
+Thüringen,Levels 0-2,Unemployment,
+Thüringen,Levels 3 - 4,Unemployment,
+Thüringen,Levels 5 - 8,Unemployment,
+Münster,All Levels,Unemployment,3.3
+Münster,Levels 0-2,Unemployment,
+Münster,Levels 3 - 4,Unemployment,
+Münster,Levels 5 - 8,Unemployment,
+Schleswig-Holstein,All Levels,Unemployment,3.3
+Schleswig-Holstein,Levels 0-2,Unemployment,
+Schleswig-Holstein,Levels 3 - 4,Unemployment,
+Schleswig-Holstein,Levels 5 - 8,Unemployment,
+Weser-Ems,All Levels,Unemployment,3.3
+Weser-Ems,Levels 0-2,Unemployment,
+Weser-Ems,Levels 3 - 4,Unemployment,
+Weser-Ems,Levels 5 - 8,Unemployment,
+Trøndelag,All Levels,Unemployment,3.2
+Trøndelag,Levels 0-2,Unemployment,
+Trøndelag,Levels 3 - 4,Unemployment,
+Trøndelag,Levels 5 - 8,Unemployment,
+Freiburg,All Levels,Unemployment,2.8
+Freiburg,Levels 0-2,Unemployment,
+Freiburg,Levels 3 - 4,Unemployment,
+Freiburg,Levels 5 - 8,Unemployment,
+Tübingen,All Levels,Unemployment,2.8
+Tübingen,Levels 0-2,Unemployment,
+Tübingen,Levels 3 - 4,Unemployment,
+Tübingen,Levels 5 - 8,Unemployment,
+Schwaben,All Levels,Unemployment,2.5
+Schwaben,Levels 0-2,Unemployment,
+Schwaben,Levels 3 - 4,Unemployment,
+Schwaben,Levels 5 - 8,Unemployment,

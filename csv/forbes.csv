@@ -1,0 +1,595 @@
+﻿Rank,Name,Country,Source,Value Column Name,Value
+All,All,All,,NetWorth,3017.6
+All,All,All,,Age,3222
+All,All,All,,Children,122
+1,All,All,,NetWorth,
+1,All,All,,Age,
+1,All,All,,Children,
+1,Jeff Bezos,All,,NetWorth,
+1,Jeff Bezos,All,,Age,
+1,Jeff Bezos,All,,Children,
+1,Jeff Bezos,United States,,NetWorth,
+1,Jeff Bezos,United States,,Age,
+1,Jeff Bezos,United States,,Children,
+1,Jeff Bezos,United States,,NetWorth,177
+1,Jeff Bezos,United States,,Age,57
+1,Jeff Bezos,United States,,Children,4
+2,All,All,,NetWorth,
+2,All,All,,Age,
+2,All,All,,Children,
+2,Elon Musk,All,,NetWorth,
+2,Elon Musk,All,,Age,
+2,Elon Musk,All,,Children,
+2,Elon Musk,United States,,NetWorth,
+2,Elon Musk,United States,,Age,
+2,Elon Musk,United States,,Children,
+2,Elon Musk,United States,,NetWorth,151
+2,Elon Musk,United States,,Age,49
+2,Elon Musk,United States,,Children,7
+3,All,All,,NetWorth,
+3,All,All,,Age,
+3,All,All,,Children,
+3,Bernard Arnault & family,All,,NetWorth,
+3,Bernard Arnault & family,All,,Age,
+3,Bernard Arnault & family,All,,Children,
+3,Bernard Arnault & family,France,,NetWorth,
+3,Bernard Arnault & family,France,,Age,
+3,Bernard Arnault & family,France,,Children,
+3,Bernard Arnault & family,France,,NetWorth,150
+3,Bernard Arnault & family,France,,Age,72
+3,Bernard Arnault & family,France,,Children,5
+4,All,All,,NetWorth,
+4,All,All,,Age,
+4,All,All,,Children,
+4,Bill Gates,All,,NetWorth,
+4,Bill Gates,All,,Age,
+4,Bill Gates,All,,Children,
+4,Bill Gates,United States,,NetWorth,
+4,Bill Gates,United States,,Age,
+4,Bill Gates,United States,,Children,
+4,Bill Gates,United States,,NetWorth,124
+4,Bill Gates,United States,,Age,65
+4,Bill Gates,United States,,Children,3
+5,All,All,,NetWorth,
+5,All,All,,Age,
+5,All,All,,Children,
+5,Mark Zuckerberg,All,,NetWorth,
+5,Mark Zuckerberg,All,,Age,
+5,Mark Zuckerberg,All,,Children,
+5,Mark Zuckerberg,United States,,NetWorth,
+5,Mark Zuckerberg,United States,,Age,
+5,Mark Zuckerberg,United States,,Children,
+5,Mark Zuckerberg,United States,,NetWorth,97
+5,Mark Zuckerberg,United States,,Age,36
+5,Mark Zuckerberg,United States,,Children,2
+6,All,All,,NetWorth,
+6,All,All,,Age,
+6,All,All,,Children,
+6,Warren Buffett,All,,NetWorth,
+6,Warren Buffett,All,,Age,
+6,Warren Buffett,All,,Children,
+6,Warren Buffett,United States,,NetWorth,
+6,Warren Buffett,United States,,Age,
+6,Warren Buffett,United States,,Children,
+6,Warren Buffett,United States,,NetWorth,96
+6,Warren Buffett,United States,,Age,90
+6,Warren Buffett,United States,,Children,3
+7,All,All,,NetWorth,
+7,All,All,,Age,
+7,All,All,,Children,
+7,Larry Ellison,All,,NetWorth,
+7,Larry Ellison,All,,Age,
+7,Larry Ellison,All,,Children,
+7,Larry Ellison,United States,,NetWorth,
+7,Larry Ellison,United States,,Age,
+7,Larry Ellison,United States,,Children,
+7,Larry Ellison,United States,,NetWorth,93
+7,Larry Ellison,United States,,Age,76
+7,Larry Ellison,United States,,Children,4
+8,All,All,,NetWorth,
+8,All,All,,Age,
+8,All,All,,Children,
+8,Larry Page,All,,NetWorth,
+8,Larry Page,All,,Age,
+8,Larry Page,All,,Children,
+8,Larry Page,United States,,NetWorth,
+8,Larry Page,United States,,Age,
+8,Larry Page,United States,,Children,
+8,Larry Page,United States,,NetWorth,91.5
+8,Larry Page,United States,,Age,48
+8,Larry Page,United States,,Children,1
+9,All,All,,NetWorth,
+9,All,All,,Age,
+9,All,All,,Children,
+9,Sergey Brin,All,,NetWorth,
+9,Sergey Brin,All,,Age,
+9,Sergey Brin,All,,Children,
+9,Sergey Brin,United States,,NetWorth,
+9,Sergey Brin,United States,,Age,
+9,Sergey Brin,United States,,Children,
+9,Sergey Brin,United States,,NetWorth,89
+9,Sergey Brin,United States,,Age,47
+9,Sergey Brin,United States,,Children,3
+10,All,All,,NetWorth,
+10,All,All,,Age,
+10,All,All,,Children,
+10,Mukesh Ambani,All,,NetWorth,
+10,Mukesh Ambani,All,,Age,
+10,Mukesh Ambani,All,,Children,
+10,Mukesh Ambani,India,,NetWorth,
+10,Mukesh Ambani,India,,Age,
+10,Mukesh Ambani,India,,Children,
+10,Mukesh Ambani,India,,NetWorth,84.5
+10,Mukesh Ambani,India,,Age,64
+10,Mukesh Ambani,India,,Children,3
+11,All,All,,NetWorth,
+11,All,All,,Age,
+11,All,All,,Children,
+11,Amancio Ortega,All,,NetWorth,
+11,Amancio Ortega,All,,Age,
+11,Amancio Ortega,All,,Children,
+11,Amancio Ortega,Spain,,NetWorth,
+11,Amancio Ortega,Spain,,Age,
+11,Amancio Ortega,Spain,,Children,
+11,Amancio Ortega,Spain,,NetWorth,77
+11,Amancio Ortega,Spain,,Age,85
+11,Amancio Ortega,Spain,,Children,3
+12,All,All,,NetWorth,
+12,All,All,,Age,
+12,All,All,,Children,
+12,Francoise Bettencourt Meyers & family,All,,NetWorth,
+12,Francoise Bettencourt Meyers & family,All,,Age,
+12,Francoise Bettencourt Meyers & family,All,,Children,
+12,Francoise Bettencourt Meyers & family,France,,NetWorth,
+12,Francoise Bettencourt Meyers & family,France,,Age,
+12,Francoise Bettencourt Meyers & family,France,,Children,
+12,Francoise Bettencourt Meyers & family,France,,NetWorth,73.6
+12,Francoise Bettencourt Meyers & family,France,,Age,67
+12,Francoise Bettencourt Meyers & family,France,,Children,2
+13,All,All,,NetWorth,
+13,All,All,,Age,
+13,All,All,,Children,
+13,Zhong Shanshan,All,,NetWorth,
+13,Zhong Shanshan,All,,Age,
+13,Zhong Shanshan,All,,Children,
+13,Zhong Shanshan,China,,NetWorth,
+13,Zhong Shanshan,China,,Age,
+13,Zhong Shanshan,China,,Children,
+13,Zhong Shanshan,China,,NetWorth,68.9
+13,Zhong Shanshan,China,,Age,66
+13,Zhong Shanshan,China,,Children,
+14,All,All,,NetWorth,
+14,All,All,,Age,
+14,All,All,,Children,
+14,Steve Ballmer,All,,NetWorth,
+14,Steve Ballmer,All,,Age,
+14,Steve Ballmer,All,,Children,
+14,Steve Ballmer,United States,,NetWorth,
+14,Steve Ballmer,United States,,Age,
+14,Steve Ballmer,United States,,Children,
+14,Steve Ballmer,United States,,NetWorth,68.7
+14,Steve Ballmer,United States,,Age,65
+14,Steve Ballmer,United States,,Children,3
+15,All,All,,NetWorth,
+15,All,All,,Age,
+15,All,All,,Children,
+15,Ma Huateng,All,,NetWorth,
+15,Ma Huateng,All,,Age,
+15,Ma Huateng,All,,Children,
+15,Ma Huateng,China,,NetWorth,
+15,Ma Huateng,China,,Age,
+15,Ma Huateng,China,,Children,
+15,Ma Huateng,China,,NetWorth,65.8
+15,Ma Huateng,China,,Age,49
+15,Ma Huateng,China,,Children,
+16,All,All,,NetWorth,
+16,All,All,,Age,
+16,All,All,,Children,
+16,Carlos Slim Helu & family,All,,NetWorth,
+16,Carlos Slim Helu & family,All,,Age,
+16,Carlos Slim Helu & family,All,,Children,
+16,Carlos Slim Helu & family,Mexico,,NetWorth,
+16,Carlos Slim Helu & family,Mexico,,Age,
+16,Carlos Slim Helu & family,Mexico,,Children,
+16,Carlos Slim Helu & family,Mexico,,NetWorth,62.8
+16,Carlos Slim Helu & family,Mexico,,Age,81
+16,Carlos Slim Helu & family,Mexico,,Children,6
+17,All,All,,NetWorth,
+17,All,All,,Age,
+17,All,All,,Children,
+17,Alice Walton,All,,NetWorth,
+17,Alice Walton,All,,Age,
+17,Alice Walton,All,,Children,
+17,Alice Walton,United States,,NetWorth,
+17,Alice Walton,United States,,Age,
+17,Alice Walton,United States,,Children,
+17,Alice Walton,United States,,NetWorth,61.8
+17,Alice Walton,United States,,Age,71
+17,Alice Walton,United States,,Children,
+18,All,All,,NetWorth,
+18,All,All,,Age,
+18,All,All,,Children,
+18,Jim Walton,All,,NetWorth,
+18,Jim Walton,All,,Age,
+18,Jim Walton,All,,Children,
+18,Jim Walton,United States,,NetWorth,
+18,Jim Walton,United States,,Age,
+18,Jim Walton,United States,,Children,
+18,Jim Walton,United States,,NetWorth,60.2
+18,Jim Walton,United States,,Age,72
+18,Jim Walton,United States,,Children,4
+19,All,All,,NetWorth,
+19,All,All,,Age,
+19,All,All,,Children,
+19,Rob Walton,All,,NetWorth,
+19,Rob Walton,All,,Age,
+19,Rob Walton,All,,Children,
+19,Rob Walton,United States,,NetWorth,
+19,Rob Walton,United States,,Age,
+19,Rob Walton,United States,,Children,
+19,Rob Walton,United States,,NetWorth,59.5
+19,Rob Walton,United States,,Age,76
+19,Rob Walton,United States,,Children,3
+20,All,All,,NetWorth,
+20,All,All,,Age,
+20,All,All,,Children,
+20,Michael Bloomberg,All,,NetWorth,
+20,Michael Bloomberg,All,,Age,
+20,Michael Bloomberg,All,,Children,
+20,Michael Bloomberg,United States,,NetWorth,
+20,Michael Bloomberg,United States,,Age,
+20,Michael Bloomberg,United States,,Children,
+20,Michael Bloomberg,United States,,NetWorth,59
+20,Michael Bloomberg,United States,,Age,79
+20,Michael Bloomberg,United States,,Children,2
+21,All,All,,NetWorth,
+21,All,All,,Age,
+21,All,All,,Children,
+21,Colin Zheng Huang,All,,NetWorth,
+21,Colin Zheng Huang,All,,Age,
+21,Colin Zheng Huang,All,,Children,
+21,Colin Zheng Huang,China,,NetWorth,
+21,Colin Zheng Huang,China,,Age,
+21,Colin Zheng Huang,China,,Children,
+21,Colin Zheng Huang,China,,NetWorth,55.3
+21,Colin Zheng Huang,China,,Age,41
+21,Colin Zheng Huang,China,,Children,
+22,All,All,,NetWorth,
+22,All,All,,Age,
+22,All,All,,Children,
+22,MacKenzie Scott,All,,NetWorth,
+22,MacKenzie Scott,All,,Age,
+22,MacKenzie Scott,All,,Children,
+22,MacKenzie Scott,United States,,NetWorth,
+22,MacKenzie Scott,United States,,Age,
+22,MacKenzie Scott,United States,,Children,
+22,MacKenzie Scott,United States,,NetWorth,53
+22,MacKenzie Scott,United States,,Age,51
+22,MacKenzie Scott,United States,,Children,4
+23,All,All,,NetWorth,
+23,All,All,,Age,
+23,All,All,,Children,
+23,Daniel Gilbert,All,,NetWorth,
+23,Daniel Gilbert,All,,Age,
+23,Daniel Gilbert,All,,Children,
+23,Daniel Gilbert,United States,,NetWorth,
+23,Daniel Gilbert,United States,,Age,
+23,Daniel Gilbert,United States,,Children,
+23,Daniel Gilbert,United States,,NetWorth,51.9
+23,Daniel Gilbert,United States,,Age,59
+23,Daniel Gilbert,United States,,Children,5
+24,All,All,,NetWorth,
+24,All,All,,Age,
+24,All,All,,Children,
+24,Gautam Adani & family,All,,NetWorth,
+24,Gautam Adani & family,All,,Age,
+24,Gautam Adani & family,All,,Children,
+24,Gautam Adani & family,India,,NetWorth,
+24,Gautam Adani & family,India,,Age,
+24,Gautam Adani & family,India,,Children,
+24,Gautam Adani & family,India,,NetWorth,50.5
+24,Gautam Adani & family,India,,Age,58
+24,Gautam Adani & family,India,,Children,2
+25,All,All,,NetWorth,
+25,All,All,,Age,
+25,All,All,,Children,
+25,Phil Knight & family,All,,NetWorth,
+25,Phil Knight & family,All,,Age,
+25,Phil Knight & family,All,,Children,
+25,Phil Knight & family,United States,,NetWorth,
+25,Phil Knight & family,United States,,Age,
+25,Phil Knight & family,United States,,Children,
+25,Phil Knight & family,United States,,NetWorth,49.9
+25,Phil Knight & family,United States,,Age,83
+25,Phil Knight & family,United States,,Children,3
+26,All,All,,NetWorth,
+26,All,All,,Age,
+26,All,All,,Children,
+26,Jack Ma,All,,NetWorth,
+26,Jack Ma,All,,Age,
+26,Jack Ma,All,,Children,
+26,Jack Ma,China,,NetWorth,
+26,Jack Ma,China,,Age,
+26,Jack Ma,China,,Children,
+26,Jack Ma,China,,NetWorth,48.4
+26,Jack Ma,China,,Age,56
+26,Jack Ma,China,,Children,
+27,All,All,,NetWorth,
+27,All,All,,Age,
+27,All,All,,Children,
+27,Charles Koch,All,,NetWorth,
+27,Charles Koch,All,,Age,
+27,Charles Koch,All,,Children,
+27,Charles Koch,United States,,NetWorth,
+27,Charles Koch,United States,,Age,
+27,Charles Koch,United States,,Children,
+27,Charles Koch,United States,,NetWorth,46.4
+27,Charles Koch,United States,,Age,85
+27,Charles Koch,United States,,Children,2
+27,Julia Koch & family,All,,NetWorth,
+27,Julia Koch & family,All,,Age,
+27,Julia Koch & family,All,,Children,
+27,Julia Koch & family,United States,,NetWorth,
+27,Julia Koch & family,United States,,Age,
+27,Julia Koch & family,United States,,Children,
+27,Julia Koch & family,United States,,NetWorth,46.4
+27,Julia Koch & family,United States,,Age,59
+27,Julia Koch & family,United States,,Children,3
+29,All,All,,NetWorth,
+29,All,All,,Age,
+29,All,All,,Children,
+29,Masayoshi Son,All,,NetWorth,
+29,Masayoshi Son,All,,Age,
+29,Masayoshi Son,All,,Children,
+29,Masayoshi Son,Japan,,NetWorth,
+29,Masayoshi Son,Japan,,Age,
+29,Masayoshi Son,Japan,,Children,
+29,Masayoshi Son,Japan,,NetWorth,45.4
+29,Masayoshi Son,Japan,,Age,63
+29,Masayoshi Son,Japan,,Children,2
+30,All,All,,NetWorth,
+30,All,All,,Age,
+30,All,All,,Children,
+30,Michael Dell,All,,NetWorth,
+30,Michael Dell,All,,Age,
+30,Michael Dell,All,,Children,
+30,Michael Dell,United States,,NetWorth,
+30,Michael Dell,United States,,Age,
+30,Michael Dell,United States,,Children,
+30,Michael Dell,United States,,NetWorth,45.1
+30,Michael Dell,United States,,Age,56
+30,Michael Dell,United States,,Children,4
+31,All,All,,NetWorth,
+31,All,All,,Age,
+31,All,All,,Children,
+31,Tadashi Yanai & family,All,,NetWorth,
+31,Tadashi Yanai & family,All,,Age,
+31,Tadashi Yanai & family,All,,Children,
+31,Tadashi Yanai & family,Japan,,NetWorth,
+31,Tadashi Yanai & family,Japan,,Age,
+31,Tadashi Yanai & family,Japan,,Children,
+31,Tadashi Yanai & family,Japan,,NetWorth,44.1
+31,Tadashi Yanai & family,Japan,,Age,72
+31,Tadashi Yanai & family,Japan,,Children,2
+32,All,All,,NetWorth,
+32,All,All,,Age,
+32,All,All,,Children,
+32,FranÃ§ois Pinault & family,All,,NetWorth,
+32,FranÃ§ois Pinault & family,All,,Age,
+32,FranÃ§ois Pinault & family,All,,Children,
+32,FranÃ§ois Pinault & family,France,,NetWorth,
+32,FranÃ§ois Pinault & family,France,,Age,
+32,FranÃ§ois Pinault & family,France,,Children,
+32,FranÃ§ois Pinault & family,France,,NetWorth,42.3
+32,FranÃ§ois Pinault & family,France,,Age,84
+32,FranÃ§ois Pinault & family,France,,Children,3
+33,All,All,,NetWorth,
+33,All,All,,Age,
+33,All,All,,Children,
+33,David Thomson & family,All,,NetWorth,
+33,David Thomson & family,All,,Age,
+33,David Thomson & family,All,,Children,
+33,David Thomson & family,Canada,,NetWorth,
+33,David Thomson & family,Canada,,Age,
+33,David Thomson & family,Canada,,Children,
+33,David Thomson & family,Canada,,NetWorth,41.8
+33,David Thomson & family,Canada,,Age,63
+33,David Thomson & family,Canada,,Children,4
+34,All,All,,NetWorth,
+34,All,All,,Age,
+34,All,All,,Children,
+34,Beate Heister & Karl Albrecht Jr.,All,,NetWorth,
+34,Beate Heister & Karl Albrecht Jr.,All,,Age,
+34,Beate Heister & Karl Albrecht Jr.,All,,Children,
+34,Beate Heister & Karl Albrecht Jr.,Germany,,NetWorth,
+34,Beate Heister & Karl Albrecht Jr.,Germany,,Age,
+34,Beate Heister & Karl Albrecht Jr.,Germany,,Children,
+34,Beate Heister & Karl Albrecht Jr.,Germany,,NetWorth,39.2
+34,Beate Heister & Karl Albrecht Jr.,Germany,,Age,
+34,Beate Heister & Karl Albrecht Jr.,Germany,,Children,
+35,All,All,,NetWorth,
+35,All,All,,Age,
+35,All,All,,Children,
+35,Wang Wei,All,,NetWorth,
+35,Wang Wei,All,,Age,
+35,Wang Wei,All,,Children,
+35,Wang Wei,China,,NetWorth,
+35,Wang Wei,China,,Age,
+35,Wang Wei,China,,Children,
+35,Wang Wei,China,,NetWorth,39
+35,Wang Wei,China,,Age,50
+35,Wang Wei,China,,Children,
+36,All,All,,NetWorth,
+36,All,All,,Age,
+36,All,All,,Children,
+36,Miriam Adelson,All,,NetWorth,
+36,Miriam Adelson,All,,Age,
+36,Miriam Adelson,All,,Children,
+36,Miriam Adelson,United States,,NetWorth,
+36,Miriam Adelson,United States,,Age,
+36,Miriam Adelson,United States,,Children,
+36,Miriam Adelson,United States,,NetWorth,38.2
+36,Miriam Adelson,United States,,Age,75
+36,Miriam Adelson,United States,,Children,5
+37,All,All,,NetWorth,
+37,All,All,,Age,
+37,All,All,,Children,
+37,He Xiangjian,All,,NetWorth,
+37,He Xiangjian,All,,Age,
+37,He Xiangjian,All,,Children,
+37,He Xiangjian,China,,NetWorth,
+37,He Xiangjian,China,,Age,
+37,He Xiangjian,China,,Children,
+37,He Xiangjian,China,,NetWorth,37.7
+37,He Xiangjian,China,,Age,78
+37,He Xiangjian,China,,Children,3
+38,All,All,,NetWorth,
+38,All,All,,Age,
+38,All,All,,Children,
+38,Dieter Schwarz,All,,NetWorth,
+38,Dieter Schwarz,All,,Age,
+38,Dieter Schwarz,All,,Children,
+38,Dieter Schwarz,Germany,,NetWorth,
+38,Dieter Schwarz,Germany,,Age,
+38,Dieter Schwarz,Germany,,Children,
+38,Dieter Schwarz,Germany,,NetWorth,36.9
+38,Dieter Schwarz,Germany,,Age,81
+38,Dieter Schwarz,Germany,,Children,2
+39,All,All,,NetWorth,
+39,All,All,,Age,
+39,All,All,,Children,
+39,Zhang Yiming,All,,NetWorth,
+39,Zhang Yiming,All,,Age,
+39,Zhang Yiming,All,,Children,
+39,Zhang Yiming,China,,NetWorth,
+39,Zhang Yiming,China,,Age,
+39,Zhang Yiming,China,,Children,
+39,Zhang Yiming,China,,NetWorth,35.6
+39,Zhang Yiming,China,,Age,37
+39,Zhang Yiming,China,,Children,
+40,All,All,,NetWorth,
+40,All,All,,Age,
+40,All,All,,Children,
+40,Giovanni Ferrero,All,,NetWorth,
+40,Giovanni Ferrero,All,,Age,
+40,Giovanni Ferrero,All,,Children,
+40,Giovanni Ferrero,Italy,,NetWorth,
+40,Giovanni Ferrero,Italy,,Age,
+40,Giovanni Ferrero,Italy,,Children,
+40,Giovanni Ferrero,Italy,,NetWorth,35.1
+40,Giovanni Ferrero,Italy,,Age,56
+40,Giovanni Ferrero,Italy,,Children,2
+41,All,All,,NetWorth,
+41,All,All,,Age,
+41,All,All,,Children,
+41,Alain Wertheimer,All,,NetWorth,
+41,Alain Wertheimer,All,,Age,
+41,Alain Wertheimer,All,,Children,
+41,Alain Wertheimer,France,,NetWorth,
+41,Alain Wertheimer,France,,Age,
+41,Alain Wertheimer,France,,Children,
+41,Alain Wertheimer,France,,NetWorth,34.5
+41,Alain Wertheimer,France,,Age,72
+41,Alain Wertheimer,France,,Children,3
+41,Gerard Wertheimer,All,,NetWorth,
+41,Gerard Wertheimer,All,,Age,
+41,Gerard Wertheimer,All,,Children,
+41,Gerard Wertheimer,France,,NetWorth,
+41,Gerard Wertheimer,France,,Age,
+41,Gerard Wertheimer,France,,Children,
+41,Gerard Wertheimer,France,,NetWorth,34.5
+41,Gerard Wertheimer,France,,Age,70
+41,Gerard Wertheimer,France,,Children,2
+43,All,All,,NetWorth,
+43,All,All,,Age,
+43,All,All,,Children,
+43,Li Ka-shing,All,,NetWorth,
+43,Li Ka-shing,All,,Age,
+43,Li Ka-shing,All,,Children,
+43,Li Ka-shing,Hong Kong,,NetWorth,
+43,Li Ka-shing,Hong Kong,,Age,
+43,Li Ka-shing,Hong Kong,,Children,
+43,Li Ka-shing,Hong Kong,,NetWorth,33.7
+43,Li Ka-shing,Hong Kong,,Age,92
+43,Li Ka-shing,Hong Kong,,Children,2
+44,All,All,,NetWorth,
+44,All,All,,Age,
+44,All,All,,Children,
+44,Qin Yinglin & family,All,,NetWorth,
+44,Qin Yinglin & family,All,,Age,
+44,Qin Yinglin & family,All,,Children,
+44,Qin Yinglin & family,China,,NetWorth,
+44,Qin Yinglin & family,China,,Age,
+44,Qin Yinglin & family,China,,Children,
+44,Qin Yinglin & family,China,,NetWorth,33.5
+44,Qin Yinglin & family,China,,Age,56
+44,Qin Yinglin & family,China,,Children,
+45,All,All,,NetWorth,
+45,All,All,,Age,
+45,All,All,,Children,
+45,William Lei Ding,All,,NetWorth,
+45,William Lei Ding,All,,Age,
+45,William Lei Ding,All,,Children,
+45,William Lei Ding,China,,NetWorth,
+45,William Lei Ding,China,,Age,
+45,William Lei Ding,China,,Children,
+45,William Lei Ding,China,,NetWorth,33
+45,William Lei Ding,China,,Age,49
+45,William Lei Ding,China,,Children,
+46,All,All,,NetWorth,
+46,All,All,,Age,
+46,All,All,,Children,
+46,Len Blavatnik,All,,NetWorth,
+46,Len Blavatnik,All,,Age,
+46,Len Blavatnik,All,,Children,
+46,Len Blavatnik,United States,,NetWorth,
+46,Len Blavatnik,United States,,Age,
+46,Len Blavatnik,United States,,Children,
+46,Len Blavatnik,United States,,NetWorth,32
+46,Len Blavatnik,United States,,Age,63
+46,Len Blavatnik,United States,,Children,
+47,All,All,,NetWorth,
+47,All,All,,Age,
+47,All,All,,Children,
+47,Lee Shau Kee,All,,NetWorth,
+47,Lee Shau Kee,All,,Age,
+47,Lee Shau Kee,All,,Children,
+47,Lee Shau Kee,Hong Kong,,NetWorth,
+47,Lee Shau Kee,Hong Kong,,Age,
+47,Lee Shau Kee,Hong Kong,,Children,
+47,Lee Shau Kee,Hong Kong,,NetWorth,31.7
+47,Lee Shau Kee,Hong Kong,,Age,93
+47,Lee Shau Kee,Hong Kong,,Children,5
+48,All,All,,NetWorth,
+48,All,All,,Age,
+48,All,All,,Children,
+48,Jacqueline Mars,All,,NetWorth,
+48,Jacqueline Mars,All,,Age,
+48,Jacqueline Mars,All,,Children,
+48,Jacqueline Mars,United States,,NetWorth,
+48,Jacqueline Mars,United States,,Age,
+48,Jacqueline Mars,United States,,Children,
+48,Jacqueline Mars,United States,,NetWorth,31.3
+48,Jacqueline Mars,United States,,Age,81
+48,Jacqueline Mars,United States,,Children,3
+48,John Mars,All,,NetWorth,
+48,John Mars,All,,Age,
+48,John Mars,All,,Children,
+48,John Mars,United States,,NetWorth,
+48,John Mars,United States,,Age,
+48,John Mars,United States,,Children,
+48,John Mars,United States,,NetWorth,31.3
+48,John Mars,United States,,Age,85
+48,John Mars,United States,,Children,3
+50,All,All,,NetWorth,
+50,All,All,,Age,
+50,All,All,,Children,
+50,Yang Huiyan & family,All,,NetWorth,
+50,Yang Huiyan & family,All,,Age,
+50,Yang Huiyan & family,All,,Children,
+50,Yang Huiyan & family,China,,NetWorth,
+50,Yang Huiyan & family,China,,Age,
+50,Yang Huiyan & family,China,,Children,
+50,Yang Huiyan & family,China,,NetWorth,29.6
+50,Yang Huiyan & family,China,,Age,39
+50,Yang Huiyan & family,China,,Children,

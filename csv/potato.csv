@@ -1,0 +1,365 @@
+﻿Country,Year,Value Column Name,Value
+All,All,Current Price,4471
+All,All,Yield,44091
+All,2010,Current Price,782
+All,2010,Yield,6899
+All,2011,Current Price,709
+All,2011,Yield,7584
+All,2012,Current Price,754
+All,2012,Yield,7443
+All,2013,Current Price,759
+All,2013,Yield,7545
+All,2014,Current Price,718
+All,2014,Yield,7519
+All,2015,Current Price,749
+All,2015,Yield,7101
+Netherlands,All,Current Price,181
+Netherlands,All,Yield,1747
+Netherlands,2010,Current Price,23
+Netherlands,2010,Yield,331
+Netherlands,2011,Current Price,34
+Netherlands,2011,Yield,347
+Netherlands,2012,Current Price,39
+Netherlands,2012,Yield,227
+Netherlands,2013,Current Price,24
+Netherlands,2013,Yield,246
+Netherlands,2014,Current Price,25
+Netherlands,2014,Yield,361
+Netherlands,2015,Current Price,36
+Netherlands,2015,Yield,235
+Germany,All,Current Price,180
+Germany,All,Yield,1992
+Germany,2010,Current Price,30
+Germany,2010,Yield,226
+Germany,2011,Current Price,20
+Germany,2011,Yield,369
+Germany,2012,Current Price,36
+Germany,2012,Yield,384
+Germany,2013,Current Price,30
+Germany,2013,Yield,336
+Germany,2014,Current Price,38
+Germany,2014,Yield,289
+Germany,2015,Current Price,26
+Germany,2015,Yield,388
+United Kingdom,All,Current Price,175
+United Kingdom,All,Yield,1908
+United Kingdom,2010,Current Price,23
+United Kingdom,2010,Yield,268
+United Kingdom,2011,Current Price,32
+United Kingdom,2011,Yield,299
+United Kingdom,2012,Current Price,37
+United Kingdom,2012,Yield,327
+United Kingdom,2013,Current Price,21
+United Kingdom,2013,Yield,391
+United Kingdom,2014,Current Price,29
+United Kingdom,2014,Yield,389
+United Kingdom,2015,Current Price,33
+United Kingdom,2015,Yield,234
+Denmark,All,Current Price,215
+Denmark,All,Yield,1808
+Denmark,2010,Current Price,39
+Denmark,2010,Yield,187
+Denmark,2011,Current Price,38
+Denmark,2011,Yield,374
+Denmark,2012,Current Price,38
+Denmark,2012,Yield,194
+Denmark,2013,Current Price,28
+Denmark,2013,Yield,370
+Denmark,2014,Current Price,38
+Denmark,2014,Yield,292
+Denmark,2015,Current Price,34
+Denmark,2015,Yield,391
+Belgium,All,Current Price,201
+Belgium,All,Yield,1516
+Belgium,2010,Current Price,37
+Belgium,2010,Yield,182
+Belgium,2011,Current Price,21
+Belgium,2011,Yield,210
+Belgium,2012,Current Price,31
+Belgium,2012,Yield,295
+Belgium,2013,Current Price,40
+Belgium,2013,Yield,263
+Belgium,2014,Current Price,33
+Belgium,2014,Yield,348
+Belgium,2015,Current Price,39
+Belgium,2015,Yield,218
+Sweden,All,Current Price,180
+Sweden,All,Yield,1837
+Sweden,2010,Current Price,35
+Sweden,2010,Yield,193
+Sweden,2011,Current Price,21
+Sweden,2011,Yield,328
+Sweden,2012,Current Price,26
+Sweden,2012,Yield,379
+Sweden,2013,Current Price,31
+Sweden,2013,Yield,338
+Sweden,2014,Current Price,28
+Sweden,2014,Yield,270
+Sweden,2015,Current Price,39
+Sweden,2015,Yield,329
+Austria,All,Current Price,211
+Austria,All,Yield,1273
+Austria,2010,Current Price,37
+Austria,2010,Yield,197
+Austria,2011,Current Price,35
+Austria,2011,Yield,191
+Austria,2012,Current Price,36
+Austria,2012,Yield,202
+Austria,2013,Current Price,37
+Austria,2013,Yield,266
+Austria,2014,Current Price,39
+Austria,2014,Yield,228
+Austria,2015,Current Price,27
+Austria,2015,Yield,189
+Spain,All,Current Price,177
+Spain,All,Yield,1643
+Spain,2010,Current Price,24
+Spain,2010,Yield,183
+Spain,2011,Current Price,21
+Spain,2011,Yield,311
+Spain,2012,Current Price,35
+Spain,2012,Yield,292
+Spain,2013,Current Price,31
+Spain,2013,Yield,229
+Spain,2014,Current Price,27
+Spain,2014,Yield,356
+Spain,2015,Current Price,39
+Spain,2015,Yield,272
+Luxembourg,All,Current Price,159
+Luxembourg,All,Yield,1818
+Luxembourg,2010,Current Price,21
+Luxembourg,2010,Yield,321
+Luxembourg,2011,Current Price,20
+Luxembourg,2011,Yield,303
+Luxembourg,2012,Current Price,35
+Luxembourg,2012,Yield,300
+Luxembourg,2013,Current Price,37
+Luxembourg,2013,Yield,286
+Luxembourg,2014,Current Price,25
+Luxembourg,2014,Yield,368
+Luxembourg,2015,Current Price,21
+Luxembourg,2015,Yield,240
+Czech Republic,All,Current Price,196
+Czech Republic,All,Yield,2134
+Czech Republic,2010,Current Price,40
+Czech Republic,2010,Yield,234
+Czech Republic,2011,Current Price,38
+Czech Republic,2011,Yield,344
+Czech Republic,2012,Current Price,24
+Czech Republic,2012,Yield,380
+Czech Republic,2013,Current Price,26
+Czech Republic,2013,Yield,383
+Czech Republic,2014,Current Price,38
+Czech Republic,2014,Yield,398
+Czech Republic,2015,Current Price,30
+Czech Republic,2015,Yield,395
+Greece,All,Current Price,148
+Greece,All,Yield,1794
+Greece,2010,Current Price,31
+Greece,2010,Yield,337
+Greece,2011,Current Price,21
+Greece,2011,Yield,184
+Greece,2012,Current Price,25
+Greece,2012,Yield,350
+Greece,2013,Current Price,21
+Greece,2013,Yield,270
+Greece,2014,Current Price,21
+Greece,2014,Yield,289
+Greece,2015,Current Price,29
+Greece,2015,Yield,364
+Finland,All,Current Price,182
+Finland,All,Yield,1607
+Finland,2010,Current Price,33
+Finland,2010,Yield,185
+Finland,2011,Current Price,30
+Finland,2011,Yield,261
+Finland,2012,Current Price,30
+Finland,2012,Yield,391
+Finland,2013,Current Price,20
+Finland,2013,Yield,239
+Finland,2014,Current Price,34
+Finland,2014,Yield,230
+Finland,2015,Current Price,35
+Finland,2015,Yield,301
+Slovenia,All,Current Price,159
+Slovenia,All,Yield,1543
+Slovenia,2010,Current Price,33
+Slovenia,2010,Yield,281
+Slovenia,2011,Current Price,22
+Slovenia,2011,Yield,364
+Slovenia,2012,Current Price,24
+Slovenia,2012,Yield,183
+Slovenia,2013,Current Price,33
+Slovenia,2013,Yield,260
+Slovenia,2014,Current Price,21
+Slovenia,2014,Yield,270
+Slovenia,2015,Current Price,26
+Slovenia,2015,Yield,185
+France,All,Current Price,161
+France,All,Yield,1656
+France,2010,Current Price,25
+France,2010,Yield,362
+France,2011,Current Price,21
+France,2011,Yield,191
+France,2012,Current Price,25
+France,2012,Yield,190
+France,2013,Current Price,37
+France,2013,Yield,328
+France,2014,Current Price,24
+France,2014,Yield,319
+France,2015,Current Price,29
+France,2015,Yield,266
+Poland,All,Current Price,177
+Poland,All,Yield,1927
+Poland,2010,Current Price,33
+Poland,2010,Yield,385
+Poland,2011,Current Price,37
+Poland,2011,Yield,358
+Poland,2012,Current Price,20
+Poland,2012,Yield,288
+Poland,2013,Current Price,26
+Poland,2013,Yield,295
+Poland,2014,Current Price,40
+Poland,2014,Yield,400
+Poland,2015,Current Price,21
+Poland,2015,Yield,201
+Cyprus,All,Current Price,177
+Cyprus,All,Yield,1908
+Cyprus,2010,Current Price,34
+Cyprus,2010,Yield,196
+Cyprus,2011,Current Price,22
+Cyprus,2011,Yield,374
+Cyprus,2012,Current Price,40
+Cyprus,2012,Yield,316
+Cyprus,2013,Current Price,37
+Cyprus,2013,Yield,338
+Cyprus,2014,Current Price,23
+Cyprus,2014,Yield,313
+Cyprus,2015,Current Price,21
+Cyprus,2015,Yield,371
+Hungary,All,Current Price,162
+Hungary,All,Yield,1602
+Hungary,2010,Current Price,40
+Hungary,2010,Yield,252
+Hungary,2011,Current Price,22
+Hungary,2011,Yield,284
+Hungary,2012,Current Price,29
+Hungary,2012,Yield,359
+Hungary,2013,Current Price,23
+Hungary,2013,Yield,325
+Hungary,2014,Current Price,23
+Hungary,2014,Yield,188
+Hungary,2015,Current Price,25
+Hungary,2015,Yield,194
+Slovakia,All,Current Price,181
+Slovakia,All,Yield,1586
+Slovakia,2010,Current Price,35
+Slovakia,2010,Yield,287
+Slovakia,2011,Current Price,39
+Slovakia,2011,Yield,231
+Slovakia,2012,Current Price,23
+Slovakia,2012,Yield,263
+Slovakia,2013,Current Price,35
+Slovakia,2013,Yield,329
+Slovakia,2014,Current Price,25
+Slovakia,2014,Yield,250
+Slovakia,2015,Current Price,24
+Slovakia,2015,Yield,226
+Portugal,All,Current Price,206
+Portugal,All,Yield,1821
+Portugal,2010,Current Price,27
+Portugal,2010,Yield,382
+Portugal,2011,Current Price,38
+Portugal,2011,Yield,254
+Portugal,2012,Current Price,40
+Portugal,2012,Yield,227
+Portugal,2013,Current Price,25
+Portugal,2013,Yield,288
+Portugal,2014,Current Price,39
+Portugal,2014,Yield,355
+Portugal,2015,Current Price,37
+Portugal,2015,Yield,315
+Lithuania,All,Current Price,168
+Lithuania,All,Yield,2019
+Lithuania,2010,Current Price,25
+Lithuania,2010,Yield,235
+Lithuania,2011,Current Price,26
+Lithuania,2011,Yield,388
+Lithuania,2012,Current Price,20
+Lithuania,2012,Yield,367
+Lithuania,2013,Current Price,38
+Lithuania,2013,Yield,289
+Lithuania,2014,Current Price,25
+Lithuania,2014,Yield,353
+Lithuania,2015,Current Price,34
+Lithuania,2015,Yield,387
+Romania,All,Current Price,168
+Romania,All,Yield,1878
+Romania,2010,Current Price,38
+Romania,2010,Yield,386
+Romania,2011,Current Price,24
+Romania,2011,Yield,384
+Romania,2012,Current Price,24
+Romania,2012,Yield,352
+Romania,2013,Current Price,27
+Romania,2013,Yield,289
+Romania,2014,Current Price,32
+Romania,2014,Yield,242
+Romania,2015,Current Price,23
+Romania,2015,Yield,225
+Bulgaria,All,Current Price,180
+Bulgaria,All,Yield,2028
+Bulgaria,2010,Current Price,29
+Bulgaria,2010,Yield,306
+Bulgaria,2011,Current Price,37
+Bulgaria,2011,Yield,308
+Bulgaria,2012,Current Price,36
+Bulgaria,2012,Yield,344
+Bulgaria,2013,Current Price,27
+Bulgaria,2013,Yield,333
+Bulgaria,2014,Current Price,22
+Bulgaria,2014,Yield,367
+Bulgaria,2015,Current Price,29
+Bulgaria,2015,Yield,370
+Latvia,All,Current Price,159
+Latvia,All,Yield,1692
+Latvia,2010,Current Price,29
+Latvia,2010,Yield,318
+Latvia,2011,Current Price,20
+Latvia,2011,Yield,356
+Latvia,2012,Current Price,33
+Latvia,2012,Yield,209
+Latvia,2013,Current Price,33
+Latvia,2013,Yield,353
+Latvia,2014,Current Price,21
+Latvia,2014,Yield,200
+Latvia,2015,Current Price,23
+Latvia,2015,Yield,256
+Italy,All,Current Price,174
+Italy,All,Yield,1736
+Italy,2010,Current Price,21
+Italy,2010,Yield,386
+Italy,2011,Current Price,30
+Italy,2011,Yield,208
+Italy,2012,Current Price,22
+Italy,2012,Yield,390
+Italy,2013,Current Price,38
+Italy,2013,Yield,271
+Italy,2014,Current Price,26
+Italy,2014,Yield,200
+Italy,2015,Current Price,37
+Italy,2015,Yield,281
+Croatia,All,Current Price,194
+Croatia,All,Yield,1618
+Croatia,2010,Current Price,40
+Croatia,2010,Yield,279
+Croatia,2011,Current Price,40
+Croatia,2011,Yield,363
+Croatia,2012,Current Price,26
+Croatia,2012,Yield,234
+Croatia,2013,Current Price,34
+Croatia,2013,Yield,230
+Croatia,2014,Current Price,22
+Croatia,2014,Yield,244
+Croatia,2015,Current Price,32
+Croatia,2015,Yield,268

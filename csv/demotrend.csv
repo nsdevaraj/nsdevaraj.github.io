@@ -1,0 +1,193 @@
+﻿FSLI,Fiscal_Year,Value Column Name,Value
+All,2014,Amount,241030
+All,2015,Amount,271173
+All,2016,Amount,295591
+All,2017,Amount,313142
+All,2018,Amount,343596
+All,2019,Amount,377740
+All,Fiscal_Year 1,Variance 2015,30143
+All,Fiscal_Year 2,Variance % 2015,0.111157822
+All,Fiscal_Year 3,Variance 2016,24418
+All,Fiscal_Year 4,Variance % 2016,0.082607387
+All,Fiscal_Year 5,Variance 2017,17551
+All,Fiscal_Year 6,Variance % 2017,0.056048055
+All,Fiscal_Year 7,Variance 2018,30454
+All,Fiscal_Year 8,Variance% 2018,0.088633162
+All,Fiscal_Year 9,Variance 2019,34144
+All,Fiscal_Year 10,Variance % 2019,0.090390215
+Net revenue,2014,Amount,118086
+Net revenue,2015,Amount,131345
+Net revenue,2016,Amount,142341
+Net revenue,2017,Amount,150772
+Net revenue,2018,Amount,165849
+Net revenue,2019,Amount,182434
+Net revenue,Fiscal_Year 1,Variance 2015,13259
+Net revenue,Fiscal_Year 2,Variance % 2015,0.100947885
+Net revenue,Fiscal_Year 3,Variance 2016,10996
+Net revenue,Fiscal_Year 4,Variance % 2016,0.077251108
+Net revenue,Fiscal_Year 5,Variance 2017,8431
+Net revenue,Fiscal_Year 6,Variance % 2017,0.055918871
+Net revenue,Fiscal_Year 7,Variance 2018,15077
+Net revenue,Fiscal_Year 8,Variance% 2018,0.090907995
+Net revenue,Fiscal_Year 9,Variance 2019,16585
+Net revenue,Fiscal_Year 10,Variance % 2019,0.090909589
+Cost of sales,2014,Amount,48004
+Cost of sales,2015,Amount,49123
+Cost of sales,2016,Amount,52654
+Cost of sales,2017,Amount,56710
+Cost of sales,2018,Amount,69657
+Cost of sales,2019,Amount,78447
+Cost of sales,Fiscal_Year 1,Variance 2015,1119
+Cost of sales,Fiscal_Year 2,Variance % 2015,0.022779553
+Cost of sales,Fiscal_Year 3,Variance 2016,3531
+Cost of sales,Fiscal_Year 4,Variance % 2016,0.067060432
+Cost of sales,Fiscal_Year 5,Variance 2017,4056
+Cost of sales,Fiscal_Year 6,Variance % 2017,0.071521777
+Cost of sales,Fiscal_Year 7,Variance 2018,12947
+Cost of sales,Fiscal_Year 8,Variance% 2018,0.185867896
+Cost of sales,Fiscal_Year 9,Variance 2019,8790
+Cost of sales,Fiscal_Year 10,Variance % 2019,0.112050174
+Gross Profit,2014,Amount,70082
+Gross Profit,2015,Amount,82222
+Gross Profit,2016,Amount,89687
+Gross Profit,2017,Amount,94062
+Gross Profit,2018,Amount,96192
+Gross Profit,2019,Amount,103987
+Gross Profit,Fiscal_Year 1,Variance 2015,12140
+Gross Profit,Fiscal_Year 2,Variance % 2015,0.147649048
+Gross Profit,Fiscal_Year 3,Variance 2016,7465
+Gross Profit,Fiscal_Year 4,Variance % 2016,0.083233913
+Gross Profit,Fiscal_Year 5,Variance 2017,4375
+Gross Profit,Fiscal_Year 6,Variance % 2017,0.046511875
+Gross Profit,Fiscal_Year 7,Variance 2018,2130
+Gross Profit,Fiscal_Year 8,Variance% 2018,0.022143214
+Gross Profit,Fiscal_Year 9,Variance 2019,7795
+Gross Profit,Fiscal_Year 10,Variance % 2019,0.074961293
+Income before income taxes and equity income (loss),2014,Amount,16649
+Income before income taxes and equity income (loss),2015,Amount,29558
+Income before income taxes and equity income (loss),2016,Amount,37622
+Income before income taxes and equity income (loss),2017,Amount,39825
+Income before income taxes and equity income (loss),2018,Amount,42494
+Income before income taxes and equity income (loss),2019,Amount,45970
+Income before income taxes and equity income (loss),Fiscal_Year 1,Variance 2015,12909
+Income before income taxes and equity income (loss),Fiscal_Year 2,Variance % 2015,0.436734556
+Income before income taxes and equity income (loss),Fiscal_Year 3,Variance 2016,8064
+Income before income taxes and equity income (loss),Fiscal_Year 4,Variance % 2016,0.214342672
+Income before income taxes and equity income (loss),Fiscal_Year 5,Variance 2017,2203
+Income before income taxes and equity income (loss),Fiscal_Year 6,Variance % 2017,0.055317012
+Income before income taxes and equity income (loss),Fiscal_Year 7,Variance 2018,2669
+Income before income taxes and equity income (loss),Fiscal_Year 8,Variance% 2018,0.062808867
+Income before income taxes and equity income (loss),Fiscal_Year 9,Variance 2019,3476
+Income before income taxes and equity income (loss),Fiscal_Year 10,Variance % 2019,0.075614531
+Research and development,2014,Amount,22658
+Research and development,2015,Amount,23872
+Research and development,2016,Amount,23002
+Research and development,2017,Amount,25245
+Research and development,2018,Amount,28194
+Research and development,2019,Amount,31014
+Research and development,Fiscal_Year 1,Variance 2015,1214
+Research and development,Fiscal_Year 2,Variance % 2015,0.050854558
+Research and development,Fiscal_Year 3,Variance 2016,-870
+Research and development,Fiscal_Year 4,Variance % 2016,-0.037822798
+Research and development,Fiscal_Year 5,Variance 2017,2243
+Research and development,Fiscal_Year 6,Variance % 2017,0.088849277
+Research and development,Fiscal_Year 7,Variance 2018,2949
+Research and development,Fiscal_Year 8,Variance% 2018,0.104596723
+Research and development,Fiscal_Year 9,Variance 2019,2820
+Research and development,Fiscal_Year 10,Variance % 2019,0.090926678
+"Other income (expense), net",2014,Amount,18150
+"Other income (expense), net",2015,Amount,17205
+"Other income (expense), net",2016,Amount,16544
+"Other income (expense), net",2017,Amount,16080
+"Other income (expense), net",2018,Amount,7504
+"Other income (expense), net",2019,Amount,9003
+"Other income (expense), net",Fiscal_Year 1,Variance 2015,-945
+"Other income (expense), net",Fiscal_Year 2,Variance % 2015,-0.054925894
+"Other income (expense), net",Fiscal_Year 3,Variance 2016,-661
+"Other income (expense), net",Fiscal_Year 4,Variance % 2016,-0.039954062
+"Other income (expense), net",Fiscal_Year 5,Variance 2017,-464
+"Other income (expense), net",Fiscal_Year 6,Variance % 2017,-0.028855721
+"Other income (expense), net",Fiscal_Year 7,Variance 2018,-8576
+"Other income (expense), net",Fiscal_Year 8,Variance% 2018,-1.142857143
+"Other income (expense), net",Fiscal_Year 9,Variance 2019,1499
+"Other income (expense), net",Fiscal_Year 10,Variance % 2019,0.166500056
+Total Operating Expenses,2014,Amount,53433
+Total Operating Expenses,2015,Amount,52664
+Total Operating Expenses,2016,Amount,52066
+Total Operating Expenses,2017,Amount,54237
+Total Operating Expenses,2018,Amount,53698
+Total Operating Expenses,2019,Amount,58017
+Total Operating Expenses,Fiscal_Year 1,Variance 2015,-769
+Total Operating Expenses,Fiscal_Year 2,Variance % 2015,-0.014602005
+Total Operating Expenses,Fiscal_Year 3,Variance 2016,-598
+Total Operating Expenses,Fiscal_Year 4,Variance % 2016,-0.011485422
+Total Operating Expenses,Fiscal_Year 5,Variance 2017,2171
+Total Operating Expenses,Fiscal_Year 6,Variance % 2017,0.040028025
+Total Operating Expenses,Fiscal_Year 7,Variance 2018,-539
+Total Operating Expenses,Fiscal_Year 8,Variance% 2018,-0.010037618
+Total Operating Expenses,Fiscal_Year 9,Variance 2019,4319
+Total Operating Expenses,Fiscal_Year 10,Variance % 2019,0.074443698
+"Marketing, general and administrative",2014,Amount,10125
+"Marketing, general and administrative",2015,Amount,10087
+"Marketing, general and administrative",2016,Amount,11020
+"Marketing, general and administrative",2017,Amount,11412
+"Marketing, general and administrative",2018,Amount,15000
+"Marketing, general and administrative",2019,Amount,15000
+"Marketing, general and administrative",Fiscal_Year 1,Variance 2015,-38
+"Marketing, general and administrative",Fiscal_Year 2,Variance % 2015,-0.003767225
+"Marketing, general and administrative",Fiscal_Year 3,Variance 2016,933
+"Marketing, general and administrative",Fiscal_Year 4,Variance % 2016,0.084664247
+"Marketing, general and administrative",Fiscal_Year 5,Variance 2017,392
+"Marketing, general and administrative",Fiscal_Year 6,Variance % 2017,0.034349807
+"Marketing, general and administrative",Fiscal_Year 7,Variance 2018,3588
+"Marketing, general and administrative",Fiscal_Year 8,Variance% 2018,0.2392
+"Marketing, general and administrative",Fiscal_Year 9,Variance 2019,0
+"Marketing, general and administrative",Fiscal_Year 10,Variance % 2019,0
+Income tax provision,2014,Amount,4858
+Income tax provision,2015,Amount,8483
+Income tax provision,2016,Amount,10908
+Income tax provision,2017,Amount,11598
+Income tax provision,2018,Amount,11898
+Income tax provision,2019,Amount,12872
+Income tax provision,Fiscal_Year 1,Variance 2015,3625
+Income tax provision,Fiscal_Year 2,Variance % 2015,0.427325239
+Income tax provision,Fiscal_Year 3,Variance 2016,2425
+Income tax provision,Fiscal_Year 4,Variance % 2016,0.222313898
+Income tax provision,Fiscal_Year 5,Variance 2017,690
+Income tax provision,Fiscal_Year 6,Variance % 2017,0.059493016
+Income tax provision,Fiscal_Year 7,Variance 2018,300
+Income tax provision,Fiscal_Year 8,Variance% 2018,0.025214322
+Income tax provision,Fiscal_Year 9,Variance 2019,974
+Income tax provision,Fiscal_Year 10,Variance % 2019,0.075668117
+Net Income,2014,Amount,48575
+Net Income,2015,Amount,44181
+Net Income,2016,Amount,41158
+Net Income,2017,Amount,42639
+Net Income,2018,Amount,41800
+Net Income,2019,Amount,45145
+Net Income,Fiscal_Year 1,Variance 2015,-4394
+Net Income,Fiscal_Year 2,Variance % 2015,-0.099454517
+Net Income,Fiscal_Year 3,Variance 2016,-3023
+Net Income,Fiscal_Year 4,Variance % 2016,-0.073448661
+Net Income,Fiscal_Year 5,Variance 2017,1481
+Net Income,Fiscal_Year 6,Variance % 2017,0.03473346
+Net Income,Fiscal_Year 7,Variance 2018,-839
+Net Income,Fiscal_Year 8,Variance% 2018,-0.02007177
+Net Income,Fiscal_Year 9,Variance 2019,3345
+Net Income,Fiscal_Year 10,Variance % 2019,0.074094584
+Interest expense,2014,Amount,2500
+Interest expense,2015,Amount,1500
+Interest expense,2016,Amount,1500
+Interest expense,2017,Amount,1500
+Interest expense,2018,Amount,3000
+Interest expense,2019,Amount,3000
+Interest expense,Fiscal_Year 1,Variance 2015,-1000
+Interest expense,Fiscal_Year 2,Variance % 2015,-0.666666667
+Interest expense,Fiscal_Year 3,Variance 2016,0
+Interest expense,Fiscal_Year 4,Variance % 2016,0
+Interest expense,Fiscal_Year 5,Variance 2017,0
+Interest expense,Fiscal_Year 6,Variance % 2017,0
+Interest expense,Fiscal_Year 7,Variance 2018,1500
+Interest expense,Fiscal_Year 8,Variance% 2018,0.5
+Interest expense,Fiscal_Year 9,Variance 2019,0
+Interest expense,Fiscal_Year 10,Variance % 2019,0
