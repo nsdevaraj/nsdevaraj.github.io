@@ -1,0 +1,299 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="5CentsCDN.live",5CentsCDN Live (720p)
+https://g5nl6xx5lpq6-hls-live.5centscdn.com/live1234/2621b29e501b445fabf227b086123b70.sdp/mono.m3u8
+#EXTINF:-1 tvg-id="OneFM.ch",One FM (720p)
+https://edge.vedge.infomaniak.com/livecast/ik:onefmmd/manifest.m3u8
+#EXTINF:-1 tvg-id="CiudadelaTV.co",SMILTV (614p) 
+https://h030.video-stream-hosting.de/quantisana-live/_definst_/smil:livestream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Radio3i.ch",Radio 3i (720p)
+https://vstream-cdn.ch/hls/radio3i.m3u8
+#EXTINF:-1 tvg-id="RougeTV.ch",Rouge TV (720p)
+https://edge.vedge.infomaniak.com/livecast/ik:event/playlist.m3u8
+#EXTINF:-1 tvg-id="RougeTV.ch",Rouge TV (720p)
+https://event.vedge.infomaniak.com/livecast/event.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="RougeTV.ch",Rouge TV (720p)
+https://rougetv.vedge.infomaniak.com/livecast/rougetv/playlist.m3u8
+#EXTINF:-1 tvg-id="RoyalTV.ch",Royal TV (720p)
+http://source2.primetime.ch:2981/play/royaltv/index.m3u8
+#EXTINF:-1 tvg-id="RTVIslam.ch",RTV Islam (1080p)
+https://video.ejeserver.com/live/visiondorada.m3u8
+#EXTINF:-1 tvg-id="MDStream.co",MD Stream (720p)
+https://mdstrm.com/live-stream-playlist/574463697b9817cf0886fc17.m3u8
+#EXTINF:-1 tvg-id="CarareTV.co",Carare TV (1080p) [Not 24/7]
+https://cp.panelchs.com:1936/8160/8160/playlist.m3u8
+#EXTINF:-1 tvg-id="CinemaPlus.co",Cinema + (720p)
+https://byecableiptvnew3.ddns.net/ENVIVOCINEMA/index.m3u8
+#EXTINF:-1 tvg-id="CitytvBogota.co",Citytv Bogotá (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UCv5Oy_TJFvGKXjeNzzJE_PQ.m3u8
+#EXTINF:-1 tvg-id="MyCamTVAnal.cy",MyCamTV Anal (720p)
+https://live.mycamtv.com/anal.m3u8
+#EXTINF:-1 tvg-id="MyCamTVArab.cy",MyCamTV Arab (720p)
+http://live.mycamtv.com/arab.m3u8
+#EXTINF:-1 tvg-id="MyCamTVAsian.cy",MyCamTV Asian (720p)
+https://live.mycamtv.com/asian.m3u8
+#EXTINF:-1 tvg-id="MyCamTVBigAss.cy",MyCamTV Big Ass (720p)
+https://live.mycamtv.com/defstream.m3u8
+#EXTINF:-1 tvg-id="MyCamTVBigTits.cy",MyCamTV Big Tits (720p)
+https://live.mycamtv.com/bigtits.m3u8
+#EXTINF:-1 tvg-id="MyCamTVBlonde.cy",MyCamTV Blonde (720p)
+https://live.mycamtv.com/blonde.m3u8
+#EXTINF:-1 tvg-id="MyCamTVBlowjob.cy",MyCamTV Blowjob (720p)
+http://live.mycamtv.com/blowjob.m3u8
+#EXTINF:-1 tvg-id="MyCamTVBrunette.cy",MyCamTV Brunette (720p)
+https://live.mycamtv.com/brunette.m3u8
+#EXTINF:-1 tvg-id="MyCamTVLatina.cy",MyCamTV Latina (720p)
+https://live.mycamtv.com/latina.m3u8
+#EXTINF:-1 tvg-id="MyCamTVMedium.cy",MyCamTV Medium (720p)
+http://live.mycamtv.com/medium.m3u8
+#EXTINF:-1 tvg-id="MyCamTVMILF.cy",MyCamTV MILF (720p)
+http://live.mycamtv.com/milf.m3u8
+#EXTINF:-1 tvg-id="MyCamTVSkinny.cy",MyCamTV Skinny (720p)
+https://live.mycamtv.com/arab.m3u8
+#EXTINF:-1 tvg-id="MyCamTVSquirt.cy",MyCamTV Squirt (720p)
+https://live.mycamtv.com/squirt.m3u8
+#EXTINF:-1 tvg-id="MyCamTVTeen.cy",MyCamTV Teen (720p)
+http://live.mycamtv.com/teen.m3u8
+#EXTINF:-1 tvg-id="MyCamTVWhite.cy",MyCamTV White (720p)
+https://live.mycamtv.com/white.m3u8
+#EXTINF:-1 tvg-id="MyCamTVYoung.cy",MyCamTV Young (720p)
+http://live.mycamtv.com/young.m3u8
+#EXTINF:-1,WDW (720p)
+https://wdw.iptv-playoutcenter.de/wdw/wdw1/playlist.m3u8
+#EXTINF:-1,WIR24 TV (720p)
+https://edge14.vedge.infomaniak.com/livecast/ik:wir24tv_hms/manifest.m3u8
+#EXTINF:-1 tvg-id="WWTV.de",WW TV (720p)
+https://live2.telvi.de/hls/wwtv_hd720.m3u8
+#EXTINF:-1 tvg-id="XXXCartoons.de",XXX Cartoons (520p)
+http://144.76.58.245:2307/cartoon/index.m3u8
+#EXTINF:-1 tvg-id="ZDF.de",ZDF (720p) [Geo-blocked]
+https://zdf-hls-15.akamaized.net/hls/live/2016498/de/high/master.m3u8
+#EXTINF:-1 tvg-id="ZDFinfo.de",ZDFinfo (720p) [Geo-blocked]
+http://wowza5.video-streams.nl:1935/denhaag/denhaag/playlist.m3u8
+#EXTINF:-1,Omroep Helmond (480p)
+http://ms2.mx-cd.net/tv/Omroep_Helmond.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="DitisHelmond.nl",Dit is Helmond (480p)
+https://ms2.mx-cd.net/tv/228-1864150/Omroep_Helmond.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="DorcelTV.nl",Dorcel TV (720p)
+https://cdn-main.lolokoko.tv/DorcelTV.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="DTVDenBosch.nl",DTV Den Bosch (1080p)
+https://rrr.sz.xlcdn.com/?account=dtvmaasland&file=dtv2&output=playlist.m3u8&protocol=https&service=wowza&type=live
+#EXTINF:-1 tvg-id="DTVMaashorst.nl",DTV Maashorst (1080p)
+https://rrr.sz.xlcdn.com/?account=dtvmaasland&file=dtv3&output=playlist.m3u8&pro
+#EXTINF:-1,DTV Maasland (1080p)
+https://rrr.sz.xlcdn.com/?account=dtvmaasland&file=dtv1&output=playlist.m3u8&protocol=https&service=wowza&type=live
+#EXTINF:-1 tvg-id="Eemland1.nl",Eemland 1 (720p)
+https://streamingserver02.omroepnuenen.nl/spakenburg/spakenburglive_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="EroXHD.nl",EroX HD (720p)
+https://cdn-main.lolokoko.tv/Eroxx.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="EroXXXHD.nl",EroXXX HD (720p)
+https://cdn-main.lolokoko.tv/Eroxxx.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="FeelGoodTV.nl",Feel Good TV (720p) [Not 24/7]
+https://58c04fb1d143f.streamlock.net/feel_good_radio_1/feel_good_radio_1/playlist.m3u8
+#EXTINF:-1 tvg-id="GigantFM.nl",Gigant FM (720p)
+http://59132e529e3d1.streamlock.net/Groningen1/Groningen1/playlist.m3u8
+#EXTINF:-1,Haarlem 105 (720p)
+https://d2qm50imcbcfqx.cloudfront.net/nlpo/clr-nlpo/haarlem105/index.m3u8
+#EXTINF:-1 tvg-id="HTRTV.nl",HTR TV (720p)
+https://ms7.mx-cd.net/tv/286-3043214/HTR_Media_TV.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="HustlerHD.nl",Hustler HD (720p)
+https://cdn-main.lolokoko.tv/HUSTLER.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="IdeaalTV.nl",Ideaal TV (480p) [Not 24/7]
+https://ms2.mx-cd.net/dtv-09/236-2051366/Ideaal_TV.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="JinTV.nl",Jin TV
+https://rrr.sz.xlcdn.com/?account=ndc_mediagroep&file=NDC1&output=playlist.m3u8&
+#EXTINF:-1,Podium.TV 2 (1080p)
+https://rrr.sz.xlcdn.com/?account=ndc_mediagroep&file=NDC2&output=playlist.m3u8&service=wowza&type=live
+#EXTINF:-1 tvg-id="PodiumTV3.nl",Podium.TV 3 (1080p) [Not 24/7]
+https://rrr.sz.xlcdn.com/?account=ndc_mediagroep&file=NDC3&output=playlist.m3u8&service=wowza&type=live
+#EXTINF:-1 tvg-id="PrivateTV.nl",Private TV (576p)
+http://149.62.183.194:9293/play/a07t
+#EXTINF:-1 tvg-id="PrivateTVHD.nl",Private TV HD (720p)
+https://cdn-main.lolokoko.tv/Private.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Qmusic.nl",Qmusic (720p)
+https://dpp-qmusicnl-live.akamaized.net/streamx/QmusicNL.m3u8
+#EXTINF:-1 tvg-id="Radio10.nl",Radio 10 (720p)
+https://stream.radionl.tv/radionltv/radionltv/playlist.m3u8
+#EXTINF:-1,Radio Toppers (720p)
+https://server-67.stream-server.nl:1936/RadioToppers/RadioToppers/playlist.m3u8
+#EXTINF:-1 tvg-id="Rararadio.nl",Rararadio (720p)
+https://58c04fb1d143f.streamlock.net/rararadio/rararadio/playlist.m3u8
+#EXTINF:-1 tvg-id="RedlightHD.nl",Redlight HD (720p)
+https://cdn-main.lolokoko.tv/REDLIGHT.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="Regio8TV.nl",Regio8 TV (1080p)
+https://ms7.mx-cd.net/dtv-10/91-475821/Regio8TV.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Regio90TV.nl",Regio90 TV (720p)
+http://media.rtvutrecht.nl/live/rtvutrecht/ustad/index.m3u8
+#EXTINF:-1,RTV Utrecht (720p)
+https://d18rwjdhpr8dcw.cloudfront.net/live/rtvutrecht/ustad/index.m3u8
+#EXTINF:-1 tvg-id="VechtdalTV.nl",Vechtdal TV (480p)
+https://ms2.mx-cd.net/tv/81-334271/VechtdalTV.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="VisitXTV.nl",Visit-X TV (720p)
+https://stream.visit-x.tv/vxtv/live/playlist.m3u8
+#EXTINF:-1 tvg-id="VOSTV.nl",VOS TV (720p)
+https://d1ivuiwceej7mo.cloudfront.net/nlpo/clr-nlpo/vostv/index.m3u8
+#EXTINF:-1 tvg-id="WEEFFTV.nl",WEEFF TV (1080p)
+http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
+#EXTINF:-1,RUTV (720p)
+https://hls-03-video.webcaramba.com/rutv/live.m3u8
+#EXTINF:-1 tvg-id="ShoppingLive.ru",Shopping Live (576p) [Not 24/7]
+http://serv30.vintera.tv:8081/shoppinglive/shoppinglive_stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Silk.ru",Silk (1080p) [Geo-blocked]
+http://live-1.otcnet.ru/shelkhdmts/playlist.m3u8
+#EXTINF:-1 tvg-id="",Sochi 24 HD
+http://serv30.vintera.tv:8081/sochi/sochi24_tv/playlist.m3u8
+#EXTINF:-1 tvg-id="",Sochi Live HD (720p) [Not 24/7]
+http://autopilot.catcast.tv/content/39575/index.m3u8
+#EXTINF:-1 tvg-id="Catcast38720.ru",Catcast 38720 (720p)
+https://autopilot.catcast.tv/content/38720/index.m3u8
+#EXTINF:-1 tvg-id="",Кино 1 International
+http://kino-1.catcast.tv/content/38617/index.m3u8
+#EXTINF:-1 tvg-id="Kino18PlusInternational.ru",Кино 18+ International
+https://autopilot.catcast.tv/content/40381/index.m3u8
+#EXTINF:-1 tvg-id="",КИНО-1 INTERNATIONAL
+https://autopilot.catcast.tv/content/38617/index.m3u8
+#EXTINF:-1 tvg-id="",Музыка 1 International
+http://streaming.tv-teleport.ru/Ani/index.m3u8
+#EXTINF:-1,Bridge TV (720p)
+http://streaming.tv-teleport.ru/Bridge_TV/index.m3u8
+#EXTINF:-1 tvg-id="NickelodeonCIS.ru",Nickelodeon
+http://streaming.tv-teleport.ru/Nickelodeon/index.m3u8
+#EXTINF:-1 tvg-id="Olala.ru",O-la-la! (576p)
+http://streaming.tv-teleport.ru/O-la-la/index.m3u8
+#EXTINF:-1 tvg-id="Bober.ru",Бобёр
+http://streaming.tv-teleport.ru/Bober/index.m3u8
+#EXTINF:-1 tvg-id="",Время
+https://reflect-batv.cablecast.tv/live-3/live/live.m3u8
+#EXTINF:-1,BATV (720p)
+https://reflect-batv.cablecast.tv/live-5/live/live.m3u8
+#EXTINF:-1 tvg-id="KMBYLD5.us",BLUES TV
+https://2-fss-2.streamhoster.com/pl_138/205510-3094608-1/playlist.m3u8
+#EXTINF:-1 tvg-id="BrazzersTVEurope.us",Brazzers TV Europe (720p)
+https://cdn-main.lolokoko.tv/BRAZZERS.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="bspoketv.us",bspoketv (1080p) [Not 24/7]
+https://bspoketv.s.llnwi.net/streams/322/master.m3u8
+#EXTINF:-1 tvg-id="BusinessRockstars.us",Business Rockstars (720p)
+http://uni8rtmp.tulix.tv:1935/shalomtv-pc/smil:shalomtv.smil/playlist.m3u8
+#EXTINF:-1,Shalom TV (720p)
+https://uni8rtmp.tulix.tv/shalomtv-pc/smil:shalomtv.smil/master.m3u8
+#EXTINF:-1 tvg-id="",Jeffrey A Swanson Photography (720p)
+https://app.viloud.tv/hls/channel/07c8b76fa3a98409d527cede85852d55.m3u8
+#EXTINF:-1 tvg-id="JennyForYou.us",Jenny For You (720p)
+https://59ec5453559f0.streamlock.net/JennyForYou/smil:WEB3131/playlist.m3u8
+#EXTINF:-1 tvg-id="JewelryTV.us",Jewelry Television (720p)
+https://cdn3.wowza.com/1/eUdsNEcyMmRvckor/K3pydHZw/hls/live/playlist.m3u8
+#EXTINF:-1 tvg-id="JewelryTVExtra.us",Jewelry TV Extra (720p)
+https://rpn1.bozztv.com/36bay2/gusa-mwg/playlist.m3u8
+#EXTINF:-1,Majestad TV (720p)
+https://5b3050bb1b2d8.streamlock.net/majestadtv/majestadtv/playlist.m3u8
+#EXTINF:-1 tvg-id="MBCAmerica.us",MBC America (480p)
+https://dacastmmd.mmdlive.lldns.net/dacastmmd/1c94dc9f1c08487a97995571800b9667/index.m3u8
+#EXTINF:-1 tvg-id="MiamiTV.us",MiamiTV (1080p)
+https://59ec5453559f0.streamlock.net/miamitv/smil:WEB3131/playlist.m3u8
+#EXTINF:-1 tvg-id="MiamiTVLatino.us",MiamiTV Latino (1080p)
+https://59ec5453559f0.streamlock.net/Latino/smil:WEB3131/playlist.m3u8
+#EXTINF:-1 tvg-id="MissionTV.us",Mission TV (1080p) [Not 24/7]
+https://6096a9cf11ae5.streamlock.net:1943/live/missiontv/playlist.m3u8
+#EXTINF:-1 tvg-id="MissionTV.us",Mission TV (720p) [Not 24/7]
+https://paraglidingtv.playout.vju.tv/paraglidingtv/main.m3u8
+#EXTINF:-1 tvg-id="PayvandTV.us",Payvand TV (720p) [Not 24/7]
+http://uni6rtmp.tulix.tv:1935/ucur1/Payvand/playlist.m3u8
+#EXTINF:-1 tvg-id="PenthouseGold.us",Penthouse Gold (1080p)
+http://51.159.102.100/PenthouseGold/index.m3u8
+#EXTINF:-1 tvg-id="PeopleTV.us",People TV (1080p)
+https://d1qaz9zojo1ayt.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-id="PeopleTV.us",People TV (1080p)
+https://peopletv-oo.akamaized.net/playlist.m3u8
+#EXTINF:-1 tvg-id="People samsung.us",Potta-samsung TV USA (480p)
+https://peopletv-samsungus-ingest.akamaized.net/playlist.m3u8
+#EXTINF:-1 tvg-id="PlantBasedNetwork.us",Plant Based Network (1080p) [Not 24/7]
+https://hls-cdn.tvstartup.net/barakyah-channel/live/pbtv/playlist.m3u8
+#EXTINF:-1 tvg-id="PlayboyTVLatinAmericaHD.us",Playboy TV Latin America (1080p)
+http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
+#EXTINF:-1 tvg-id="PositivTV.us",Positiv (720p)
+https://tbn-jw.cdn.vustreams.com/live/positivtv/live.isml/playlist.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetAnal.us",AdultIPTV.net Anal (720p)
+https://cdn.adultiptv.net/anal.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetAsian.us",AdultIPTV.net Asian (720p)
+https://cdn.adultiptv.net/asian.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetBigAss.us",AdultIPTV.net Big Ass (720p)
+https://cdn.adultiptv.net/bigass.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetBigDick.us",AdultIPTV.net Big Dick (720p)
+https://cdn.adultiptv.net/bigdick.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetBigTits.us",AdultIPTV.net Big Tits (720p)
+https://cdn.adultiptv.net/bigtits.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetBlonde.us",AdultIPTV.net Blonde (720p)
+https://cdn.adultiptv.net/blonde.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetBlowjob.us",AdultIPTV.net Blowjob (720p)
+https://cdn.adultiptv.net/blowjob.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetBrunette.us",AdultIPTV.net Brunette (720p)
+https://cdn.adultiptv.net/brunette.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetCompilation.us",AdultIPTV.net Compilation (720p)
+https://cdn.adultiptv.net/compilation.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetCuckold.us",AdultIPTV.net Cuckold (720p)
+https://cdn.adultiptv.net/cuckold.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetFetish.us",AdultIPTV.net Fetish (720p)
+https://cdn.adultiptv.net/fetish.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetGangbang.us",AdultIPTV.net Gangbang (720p)
+https://cdn.adultiptv.net/gangbang.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetGay.us",AdultIPTV.net Gay (720p)
+https://cdn.adultiptv.net/gay.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetHardcore.us",AdultIPTV.net Hardcore (720p)
+https://cdn.adultiptv.net/hardcore.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetInterracial.us",AdultIPTV.net Interracial (720p)
+https://cdn.adultiptv.net/interracial.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetLatina.us",AdultIPTV.net Latina (720p)
+https://cdn.adultiptv.net/latina.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetLesbian.us",AdultIPTV.net Lesbian (720p)
+https://cdn.adultiptv.net/lesbian.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetLiveCams.us",AdultIPTV.net Live Cams (720p)
+https://cdn.adultiptv.net/livecams.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetMILF.us",AdultIPTV.net MILF (720p)
+https://cdn.adultiptv.net/milf.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetPornstar.us",AdultIPTV.net Pornstar (720p)
+https://cdn.adultiptv.net/pornstar.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetPOV.us",AdultIPTV.net POV (720p)
+https://cdn.adultiptv.net/pov.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetRough.us",AdultIPTV.net Rough (720p)
+https://cdn.adultiptv.net/rough.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetRussian.us",AdultIPTV.net Russian (720p)
+https://cdn.adultiptv.net/russian.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetTeen.us",AdultIPTV.net Teen (720p)
+https://cdn.adultiptv.net/teen.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetThreesome.us",AdultIPTV.net Threesome (720p)
+https://cdn.adultiptv.net/threesome.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetBigAss.us",AdultIPTV.net Big Ass (720p)
+https://live.redtraffic.xyz/bigass.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetBigDick.us",AdultIPTV.net Big Dick (720p)
+https://live.redtraffic.xyz/bigdick.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetBigTits.us",AdultIPTV.net Big Tits (720p)
+https://live.redtraffic.xyz/bigtits.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetBlowjob.us",AdultIPTV.net Blowjob (720p)
+https://live.redtraffic.xyz/blowjob.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetCuckold.us",AdultIPTV.net Cuckold (720p)
+https://live.redtraffic.xyz/cuckold.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetFetish.us",AdultIPTV.net Fetish (720p)
+https://live.redtraffic.xyz/fetish.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetGangbang.us",AdultIPTV.net Gangbang (720p)
+https://live.redtraffic.net/gangbang.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetHardcore.us",AdultIPTV.net Hardcore (720p)
+https://live.redtraffic.xyz/hardcore.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetInterracial.us",AdultIPTV.net Interracial (720p)
+https://live.redtraffic.xyz/interracial.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetLatina.us",AdultIPTV.net Latina (720p)
+https://live.redtraffic.xyz/latina.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetLesbian.us",AdultIPTV.net Lesbian (720p)
+https://live.redtraffic.xyz/lesbian.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetMILF.us",AdultIPTV.net MILF (720p)
+https://live.redtraffic.xyz/milf.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetPornstar.us",AdultIPTV.net Pornstar (720p)
+https://live.redtraffic.xyz/pornstar.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetPOV.us",AdultIPTV.net POV (720p)
+https://live.redtraffic.xyz/pov.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetRussian.us",AdultIPTV.net Russian (720p)
+https://live.redtraffic.xyz/russian.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetTeen.us",AdultIPTV.net Teen (720p)
+https://live.redtraffic.xyz/teen.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetThreesome.us",AdultIPTV.net Threesome (720p)
+https://live.redtraffic.xyz/threesome.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetWoman.us",AdultIPTV.net Woman (720p)
+https://live.redtraffic.net/woman.m3u8
